@@ -1,0 +1,58 @@
+{
+    "5997": {
+        "ABSOLUTO G MAS": [
+            {
+                "grupo": "ABSOLUTO G MAS - Grupo 07",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "João TRZASKOS",
+                        "pt_rak": "200",
+                        "pt_rat": "344",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Victor SCHERER",
+                        "pt_rak": "100",
+                        "pt_rat": "211",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Rafael SILVA",
+                        "pt_rak": "0",
+                        "pt_rat": "250",
+                        "status": ""
+                    }
+                ]
+            },
+            {
+                "grupo": "ABSOLUTO G MAS - Grupo 08",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Fabio MIURA",
+                        "pt_rak": "200",
+                        "pt_rat": "289",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "José ROMITTI",
+                        "pt_rak": "100",
+                        "pt_rat": "212",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Roberto ANDRE",
+                        "pt_rak": "0",
+                        "pt_rat": "250",
+                        "status": ""
+                    }
+                ]
+            }
+        ]
+    }
+}
