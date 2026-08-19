@@ -1,0 +1,877 @@
+{
+    "5997": {
+        "ABSOLUTO A FEM": [
+            {
+                "grupo": "ABSOLUTO A FEM - Grupo 02",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Maria MENDES",
+                        "pt_rak": "11910",
+                        "pt_rat": "3260",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Maria ALVES",
+                        "pt_rak": "7720",
+                        "pt_rat": "2849",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Renata TSUKADA",
+                        "pt_rak": "1720",
+                        "pt_rat": "1803",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Sabrina MIZVA",
+                        "pt_rak": "1300",
+                        "pt_rat": "2090",
+                        "status": ""
+                    }
+                ]
+            }
+        ],
+        "ABSOLUTO D MAS": [
+            {
+                "grupo": "ABSOLUTO D MAS - Grupo 06",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Alan GONÇALVES",
+                        "pt_rak": "3100",
+                        "pt_rat": "1059",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Gabriel SENNA",
+                        "pt_rak": "1990",
+                        "pt_rat": "1234",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Matheus GOMES",
+                        "pt_rak": "400",
+                        "pt_rat": "980",
+                        "status": ""
+                    }
+                ]
+            }
+        ],
+        "ABSOLUTO E FEM": [
+            {
+                "grupo": "ABSOLUTO E FEM - Grupo 02",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Isadhora FERREIRA",
+                        "pt_rak": "3300",
+                        "pt_rat": "390",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Yumi SOUZA",
+                        "pt_rak": "700",
+                        "pt_rat": "211",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Ana VITO",
+                        "pt_rak": "200",
+                        "pt_rat": "178",
+                        "status": ""
+                    }
+                ]
+            }
+        ],
+        "ABSOLUTO F MAS": [
+            {
+                "grupo": "ABSOLUTO F MAS - Grupo 02",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Daniel VAZ",
+                        "pt_rak": "2800",
+                        "pt_rat": "445",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Leonardo RAMIREZ",
+                        "pt_rak": "515",
+                        "pt_rat": "364",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Jandi BARBOSA",
+                        "pt_rak": "410",
+                        "pt_rat": "417",
+                        "status": ""
+                    }
+                ]
+            },
+            {
+                "grupo": "ABSOLUTO F MAS - Grupo 10",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Lam FAI",
+                        "pt_rak": "1495",
+                        "pt_rat": "410",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "André WELCOFF",
+                        "pt_rak": "920",
+                        "pt_rat": "419",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Emanuel MAINGUE",
+                        "pt_rak": "0",
+                        "pt_rat": "479",
+                        "status": ""
+                    }
+                ]
+            }
+        ],
+        "ABSOLUTO G MAS": [
+            {
+                "grupo": "ABSOLUTO G MAS - Grupo 04",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Edgar JUNIOR",
+                        "pt_rak": "300",
+                        "pt_rat": "187",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Felipe RIBEIRO",
+                        "pt_rak": "100",
+                        "pt_rat": "202",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Davi NOVAES",
+                        "pt_rak": "0",
+                        "pt_rat": "250",
+                        "status": ""
+                    }
+                ]
+            },
+            {
+                "grupo": "ABSOLUTO G MAS - Grupo 10",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Matheus SILVEIRA",
+                        "pt_rak": "200",
+                        "pt_rat": "208",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Ian JUNIOR",
+                        "pt_rak": "100",
+                        "pt_rat": "256",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Marlom SCHMITT",
+                        "pt_rak": "0",
+                        "pt_rat": "249",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Davi MARCARINI",
+                        "pt_rak": "0",
+                        "pt_rat": "21",
+                        "status": ""
+                    }
+                ]
+            }
+        ],
+        "MASTER 60MAS": [
+            {
+                "grupo": "MASTER 60MAS - Grupo 02",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Olides JÚNIOR",
+                        "pt_rak": "20100",
+                        "pt_rat": "1436",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Claudio IURCK",
+                        "pt_rak": "3840",
+                        "pt_rat": "1072",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Domingo FERNANDEZ",
+                        "pt_rak": "10",
+                        "pt_rat": "545",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Walter JUNIOR",
+                        "pt_rak": "0",
+                        "pt_rat": "232",
+                        "status": ""
+                    }
+                ]
+            },
+            {
+                "grupo": "MASTER 60MAS - Grupo 03",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Sílvio ALBUQUERQUE",
+                        "pt_rak": "16000",
+                        "pt_rat": "1202",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Benjamim TAKATSUKI",
+                        "pt_rak": "4210",
+                        "pt_rat": "1004",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Marcio WATANABE",
+                        "pt_rak": "10",
+                        "pt_rat": "242",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "José DEZIE",
+                        "pt_rak": "0",
+                        "pt_rat": "911",
+                        "status": ""
+                    }
+                ]
+            }
+        ],
+        "SUB-09 MAS": [
+            {
+                "grupo": "SUB-09 MAS - Grupo 01",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Gabriel NARDI",
+                        "pt_rak": "18010",
+                        "pt_rat": "656",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Joaquim MANTOVANI",
+                        "pt_rak": "2400",
+                        "pt_rat": "316",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Joaquim PRADO",
+                        "pt_rak": "2000",
+                        "pt_rat": "232",
+                        "status": ""
+                    }
+                ]
+            },
+            {
+                "grupo": "SUB-09 MAS - Grupo 02",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Alexandre GLIZT",
+                        "pt_rak": "9800",
+                        "pt_rat": "312",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Ítalo RAMIREZ",
+                        "pt_rak": "4295",
+                        "pt_rat": "59",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Arthur LIMA",
+                        "pt_rak": "0",
+                        "pt_rat": "250",
+                        "status": ""
+                    }
+                ]
+            },
+            {
+                "grupo": "SUB-09 MAS - Grupo 03",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Martim AMARAL",
+                        "pt_rak": "8700",
+                        "pt_rat": "316",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Henrique ITO",
+                        "pt_rak": "5900",
+                        "pt_rat": "212",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Daniel MELO",
+                        "pt_rak": "410",
+                        "pt_rat": "93",
+                        "status": ""
+                    }
+                ]
+            },
+            {
+                "grupo": "SUB-09 MAS - Grupo 04",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Cristoffer VIEIRA",
+                        "pt_rak": "6350",
+                        "pt_rat": "444",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Heitor MELLO",
+                        "pt_rak": "6010",
+                        "pt_rat": "410",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Miguel SOUZA",
+                        "pt_rak": "1200",
+                        "pt_rat": "113",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Matias BARBOSA",
+                        "pt_rak": "1700",
+                        "pt_rat": "328",
+                        "status": ""
+                    }
+                ]
+            }
+        ],
+        "SUB-11 FEM": [
+            {
+                "grupo": "SUB-11 FEM - Grupo 02",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Melissa JERONIMO",
+                        "pt_rak": "10300",
+                        "pt_rat": "1122",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Laura OLIVEIRA",
+                        "pt_rak": "8080",
+                        "pt_rat": "704",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Sarah ABADIE",
+                        "pt_rak": "400",
+                        "pt_rat": "142",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Jasmim BLANCO",
+                        "pt_rak": "200",
+                        "pt_rat": "133",
+                        "status": ""
+                    }
+                ]
+            }
+        ],
+        "SUB-11 MAS": [
+            {
+                "grupo": "SUB-11 MAS - Grupo 01",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Brian MUZER",
+                        "pt_rak": "21850",
+                        "pt_rat": "1001",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Martim AMARAL",
+                        "pt_rak": "500",
+                        "pt_rat": "316",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Bernardo COSTA",
+                        "pt_rak": "800",
+                        "pt_rat": "244",
+                        "status": ""
+                    }
+                ]
+            },
+            {
+                "grupo": "SUB-11 MAS - Grupo 03",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Benjamin HORST",
+                        "pt_rak": "11200",
+                        "pt_rat": "693",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Mohammad KORYANI",
+                        "pt_rak": "2500",
+                        "pt_rat": "371",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Ítalo RAMIREZ",
+                        "pt_rak": "500",
+                        "pt_rat": "59",
+                        "status": ""
+                    }
+                ]
+            },
+            {
+                "grupo": "SUB-11 MAS - Grupo 05",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Theo MACHADO",
+                        "pt_rak": "6630",
+                        "pt_rat": "535",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Gabriel NARDI",
+                        "pt_rak": "3300",
+                        "pt_rat": "656",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Heitor MELLO",
+                        "pt_rak": "400",
+                        "pt_rat": "410",
+                        "status": ""
+                    }
+                ]
+            },
+            {
+                "grupo": "SUB-11 MAS - Grupo 06",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Samuel MATSUMOTO",
+                        "pt_rak": "4920",
+                        "pt_rat": "507",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Henrique ITO",
+                        "pt_rak": "3400",
+                        "pt_rat": "212",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Davi MELO",
+                        "pt_rak": "210",
+                        "pt_rat": "135",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Joaquim MANTOVANI",
+                        "pt_rak": "100",
+                        "pt_rat": "316",
+                        "status": ""
+                    }
+                ]
+            }
+        ],
+        "SUB-13 FEM": [
+            {
+                "grupo": "SUB-13 FEM - Grupo 01",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Nivin ABDALLAH",
+                        "pt_rak": "41800",
+                        "pt_rat": "2664",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Manuela DOI",
+                        "pt_rak": "1400",
+                        "pt_rat": "336",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Mariana CAMARGO",
+                        "pt_rak": "310",
+                        "pt_rat": "446",
+                        "status": ""
+                    }
+                ]
+            }
+        ],
+        "SUB-13 MAS": [
+            {
+                "grupo": "SUB-13 MAS - Grupo 08",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Arthur KADLUBISKI",
+                        "pt_rak": "5500",
+                        "pt_rat": "994",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Mansur JOMAA",
+                        "pt_rak": "2755",
+                        "pt_rat": "583",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Renato FILHO",
+                        "pt_rak": "0",
+                        "pt_rat": "250",
+                        "status": ""
+                    }
+                ]
+            }
+        ],
+        "SUB-15 FEM": [
+            {
+                "grupo": "SUB-15 FEM - Grupo 01",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Yasmin SÁ",
+                        "pt_rak": "32400",
+                        "pt_rat": "3022",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Isabelly RIOS",
+                        "pt_rak": "12280",
+                        "pt_rat": "1777",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Eloah PRADO",
+                        "pt_rak": "9440",
+                        "pt_rat": "1908",
+                        "status": ""
+                    }
+                ]
+            },
+            {
+                "grupo": "SUB-15 FEM - Grupo 02",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Bianca SANTOS",
+                        "pt_rak": "22300",
+                        "pt_rat": "1996",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Nihan ABDALLAH",
+                        "pt_rak": "12700",
+                        "pt_rat": "1940",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Ana BRAGA",
+                        "pt_rak": "3900",
+                        "pt_rat": "1482",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Julia DA SILVA",
+                        "pt_rak": "400",
+                        "pt_rat": "431",
+                        "status": ""
+                    }
+                ]
+            },
+            {
+                "grupo": "SUB-15 FEM - Grupo 03",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Nivin ABDALLAH",
+                        "pt_rak": "19515",
+                        "pt_rat": "2664",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Laura SILVEIRA",
+                        "pt_rak": "14440",
+                        "pt_rat": "2162",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Livia DUTKO",
+                        "pt_rak": "2400",
+                        "pt_rat": "1151",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Ana MARQUES",
+                        "pt_rak": "1800",
+                        "pt_rat": "960",
+                        "status": ""
+                    }
+                ]
+            }
+        ],
+        "SUB-17 FEM": [
+            {
+                "grupo": "SUB-17 FEM - Grupo 01",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Emanuelly SANTOS",
+                        "pt_rak": "62400",
+                        "pt_rat": "3736",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Nihan ABDALLAH",
+                        "pt_rak": "7500",
+                        "pt_rat": "1940",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Isabela HAAB",
+                        "pt_rak": "3700",
+                        "pt_rat": "846",
+                        "status": ""
+                    }
+                ]
+            },
+            {
+                "grupo": "SUB-17 FEM - Grupo 02",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Yasmin SÁ",
+                        "pt_rak": "26400",
+                        "pt_rat": "3022",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Eloah PRADO",
+                        "pt_rak": "4300",
+                        "pt_rat": "1908",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Ana BRAGA",
+                        "pt_rak": "3000",
+                        "pt_rat": "1482",
+                        "status": ""
+                    }
+                ]
+            }
+        ],
+        "SUB-17 MAS": [
+            {
+                "grupo": "SUB-17 MAS - Grupo 03",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Matheus JACUMASSO",
+                        "pt_rak": "9400",
+                        "pt_rat": "1625",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Riccardo MACIEL",
+                        "pt_rak": "3800",
+                        "pt_rat": "1363",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Cauã MATHEUS",
+                        "pt_rak": "2000",
+                        "pt_rat": "1216",
+                        "status": ""
+                    }
+                ]
+            },
+            {
+                "grupo": "SUB-17 MAS - Grupo 04",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Cauã KNACK",
+                        "pt_rak": "8800",
+                        "pt_rat": "2371",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Gustavo KANASHIRO",
+                        "pt_rak": "3900",
+                        "pt_rat": "1553",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Otávio IENERICH",
+                        "pt_rak": "2000",
+                        "pt_rat": "1052",
+                        "status": ""
+                    }
+                ]
+            }
+        ],
+        "SUB-19 MAS": [
+            {
+                "grupo": "SUB-19 MAS - Grupo 01",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Felipe LARA",
+                        "pt_rak": "31300",
+                        "pt_rat": "3435",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Anthony ACOSTA",
+                        "pt_rak": "2255",
+                        "pt_rat": "2992",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Gustavo KANASHIRO",
+                        "pt_rak": "3025",
+                        "pt_rat": "1553",
+                        "status": ""
+                    }
+                ]
+            },
+            {
+                "grupo": "SUB-19 MAS - Grupo 04",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Fabricio MARIN",
+                        "pt_rak": "10140",
+                        "pt_rat": "2380",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Arthur PIGNATTI",
+                        "pt_rak": "6150",
+                        "pt_rat": "2483",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Omar ABDALLAH",
+                        "pt_rak": "535",
+                        "pt_rat": "2156",
+                        "status": ""
+                    }
+                ]
+            },
+            {
+                "grupo": "SUB-19 MAS - Grupo 05",
+                "integrantes": [
+                    {
+                        "posicao": "",
+                        "nome": "Matheus LESME",
+                        "pt_rak": "7100",
+                        "pt_rat": "2204",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Cauã KNACK",
+                        "pt_rak": "6705",
+                        "pt_rat": "2371",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "",
+                        "nome": "Otávio IENERICH",
+                        "pt_rak": "300",
+                        "pt_rat": "1052",
+                        "status": ""
+                    }
+                ]
+            }
+        ]
+    }
+}
