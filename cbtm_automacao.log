@@ -828,3 +828,136 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 -------------------------------------------------------------------------
 📋 Preparando arquivos para exportação...
 📄 Extraindo as últimas 1000 linhas de /home/emersonb/python/cbtm_automacao.log...
+⚙️ Copiando config.json...
+[1/2] Criando commit...
+[main f97690d] Sincronização e limpeza de arquivos remotos em 2026-08-19 20:07:37
+ 3 files changed, 293 insertions(+), 3 deletions(-)
+[2/2] Enviando para o GitHub (push)...
+To https://github.com/barratella/cbtmexport.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/barratella/cbtmexport.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+-------------------------------------------------------------------------
+✅ Concluído: Arquivos indesejados removidos do GitHub e mantidos na VPS!
+-------------------------------------------------------------------------
+2026-08-19 20:07:38 [INFO] [agenda_crontab.sh] ✅ Passo 7 concluido com sucesso.
+2026-08-19 20:07:38 [INFO] [agenda_crontab.sh] 🏁 Toda a sequencia foi executada e concluida perfeitamente.
+2026-08-19 20:07:38 [INFO] [agenda_crontab.sh] ==================================================
+2026-08-19 21:00:01 [INFO] [agenda_crontab.sh] ==================================================
+2026-08-19 21:00:01 [INFO] [agenda_crontab.sh] 🚀 Iniciando sequencia automatizada via agenda_crontab.sh...
+2026-08-19 21:00:01 [INFO] [agenda_crontab.sh] ▶️ [1/7] Executando raspagem de resultados (/home/emersonb/python/4_cbtm_resultados.sh)...
+2026-08-19 21:00:01 [INFO] [4_cbtm_resultados.sh] Criando copia de seguranca preventiva de /home/emersonb/python/export/cbtm_resultados.json para /home/emersonb/python/export/cbtm_resultados.json.bkp
+2026-08-19 21:00:01 [INFO] [4_cbtm_resultados.sh] Iniciando raspagem de resultados...
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] Configuracoes carregadas. PID: 170659
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] Configuracoes carregadas. PID: 170659
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] Arquivo de backup encontrado em disco.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] Arquivo de backup encontrado em disco.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] Cache dentro da validade. Ultima execucao completa ha 0.9h.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] Cache dentro da validade. Ultima execucao completa ha 0.9h.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] 🏆 Processando Evento ID 5997 (15 categoria(s))...
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] 🏆 Processando Evento ID 5997 (15 categoria(s))...
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: ABSOLUTO A FEM -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: ABSOLUTO A FEM -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: ABSOLUTO D MAS -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: ABSOLUTO D MAS -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: ABSOLUTO E FEM -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: ABSOLUTO E FEM -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: ABSOLUTO F MAS -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: ABSOLUTO F MAS -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: ABSOLUTO G MAS -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: ABSOLUTO G MAS -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: MASTER 60MAS -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: MASTER 60MAS -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-09 MAS -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-09 MAS -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-11 FEM -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-11 FEM -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-11 MAS -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-11 MAS -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-13 FEM -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-13 FEM -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-13 MAS -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-13 MAS -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-15 FEM -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-15 FEM -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-17 FEM -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-17 FEM -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-17 MAS -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-17 MAS -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-19 MAS -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-19 MAS -- Apenas jogos em datas futuras.
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] Arquivo de resultados atualizado e consolidado com sucesso!
+2026-08-19 21:00:05 [INFO] [cbtm_carregar_resultados.py] Arquivo de resultados atualizado e consolidado com sucesso!
+2026-08-19 21:00:06 [INFO] [4_cbtm_resultados.sh] Raspagem e ciclo de resultados finalizados com sucesso.
+2026-08-19 21:00:06 [INFO] [agenda_crontab.sh] ✅ Passo 1 concluido com sucesso.
+2026-08-19 21:00:06 [INFO] [agenda_crontab.sh] ▶️ [2/7] Executando busca de dependencias extras (/home/emersonb/python/5_cbtm_extras.sh)...
+2026-08-19 21:00:06 [INFO] Iniciando resolução de dependências extras (grupos e jogos)...
+2026-08-19 21:00:09 [INFO] [EXTRAS] Carregando resultados a partir de: /home/emersonb/python/export/cbtm_resultados.json
+2026-08-19 21:00:09 [INFO] [EXTRAS] Carregando resultados a partir de: /home/emersonb/python/export/cbtm_resultados.json
+2026-08-19 21:00:09 [INFO] [EXTRAS] Pendências identificadas: 2 grupo(s), 0 jogo(s).
+2026-08-19 21:00:09 [INFO] [EXTRAS] Pendências identificadas: 2 grupo(s), 0 jogo(s).
+2026-08-19 21:00:09 [INFO] [EXTRAS] 🌐 Buscando Grupo 7 em [ABSOLUTO G MAS] (Evento ID 5997)...
+2026-08-19 21:00:09 [INFO] [EXTRAS] 🌐 Buscando Grupo 7 em [ABSOLUTO G MAS] (Evento ID 5997)...
+2026-08-19 21:00:09 [INFO] [EXTRAS] Inicializando Chrome Headless...
+2026-08-19 21:00:09 [INFO] [EXTRAS] Inicializando Chrome Headless...
+2026-08-19 21:00:10 [INFO] [EXTRAS] patching driver executable /home/emersonb/.local/share/undetected_chromedriver/undetected_chromedriver
+2026-08-19 21:00:10 [INFO] [EXTRAS] patching driver executable /home/emersonb/.local/share/undetected_chromedriver/undetected_chromedriver
+2026-08-19 21:00:22 [INFO] [EXTRAS] Navegando para: https://app.cbtm.org.br/IUI/App/Evento?tab=1&EVE_Evento_ID=5997
+2026-08-19 21:00:22 [INFO] [EXTRAS] Navegando para: https://app.cbtm.org.br/IUI/App/Evento?tab=1&EVE_Evento_ID=5997
+2026-08-19 21:00:59 [INFO] [EXTRAS] 🌐 Buscando Grupo 8 em [ABSOLUTO G MAS] (Evento ID 5997)...
+2026-08-19 21:00:59 [INFO] [EXTRAS] 🌐 Buscando Grupo 8 em [ABSOLUTO G MAS] (Evento ID 5997)...
+2026-08-19 21:01:17 [INFO] [EXTRAS] 📁 Grupos Extras concatenados com sucesso em: /home/emersonb/python/export/cbtm_grupos_extras.json
+2026-08-19 21:01:17 [INFO] [EXTRAS] 📁 Grupos Extras concatenados com sucesso em: /home/emersonb/python/export/cbtm_grupos_extras.json
+2026-08-19 21:01:17 [INFO] [EXTRAS] 📁 Jogos Extras salvos em: /home/emersonb/python/export/cbtm_jogos_extras.json
+2026-08-19 21:01:17 [INFO] [EXTRAS] 📁 Jogos Extras salvos em: /home/emersonb/python/export/cbtm_jogos_extras.json
+2026-08-19 21:01:19 [INFO] Processo de busca de extras finalizado. Trava liberada.
+2026-08-19 21:01:19 [INFO] [agenda_crontab.sh] ✅ Passo 2 concluido com sucesso.
+2026-08-19 21:01:19 [INFO] [agenda_crontab.sh] ▶️ [3/7] Executando processamento Telegram local (/home/emersonb/python/7_cbtm_telegram_processa.sh)...
+2026-08-19 21:01:19 [INFO] [cbtm_telegram-processa.sh] Iniciando processamento de arquivos locais (cbtm_telegram-processa.py)...
+[INFO] Iniciando processamento de arquivos locais...
+--- [1/5] Gerando Resultados Consolidados (show-all) ---
+[INFO] Backup CSV criado em: /home/emersonb/python/export/telegram-result.csv.bkp
+[INFO] Arquivo CSV gerado com sucesso em '/home/emersonb/python/export/telegram-result.csv'.
+--- [2/5] Gerando Grupos Consolidados (show-grupos) ---
+[INFO] Backup do CSV de grupos criado em: '/home/emersonb/python/export/telegram-grupos.csv.bkp'.
+[INFO] Arquivo CSV de grupos gerado com sucesso em '/home/emersonb/python/export/telegram-grupos.csv'.
+--- [3/5] Gerando Diferenças de Grupos (show-diff-grupos) ---
+[INFO] Arquivo de diferenças de grupos CSV gerado com sucesso em '/home/emersonb/python/export/telegram-grupos.csv.diff'.
+--- [4/5] Gerando Diferenças de Resultados (show-diff) ---
+[INFO] Arquivo de diferenças CSV gerado com sucesso em '/home/emersonb/python/export/telegram-result.csv.diff'.
+--- [5/5] Gerando Programação Pendente (show-prog) ---
+[INFO] Arquivo CSV de jogos pendentes gerado em '/home/emersonb/python/export/telegram-result.csv.prog'.
+[INFO] Processamento de arquivos locais concluído com sucesso!
+2026-08-19 21:01:19 [INFO] [cbtm_telegram-processa.sh] Processamento de arquivos locais concluido com sucesso!
+2026-08-19 21:01:19 [INFO] [agenda_crontab.sh] ✅ Passo 3 concluido com sucesso.
+2026-08-19 21:01:19 [INFO] [agenda_crontab.sh] ▶️ [4/7] Executando disparo de notificacoes Telegram (/home/emersonb/python/8_cbtm_telegram_envia.sh)...
+2026-08-19 21:01:19 [INFO] [8_cbtm_telegram_envia.sh] ⏭️ [SKIP] Execucao desativada no config.json ('telegram_enviar_atualizacao' != 1). Encerrando.
+2026-08-19 21:01:19 [INFO] [agenda_crontab.sh] ✅ Passo 4 concluido com sucesso.
+2026-08-19 21:01:19 [INFO] [agenda_crontab.sh] ▶️ [5/7] Executando atualizacao de rating (/home/emersonb/python/9_cbtm_rating.sh)...
+[INFO] Executando cbtm_estimar_rating.py...
+[INFO] cbtm_estimar_rating.py executado com sucesso.
+2026-08-19 21:01:19 [INFO] [agenda_crontab.sh] ✅ Passo 5 concluido com sucesso.
+2026-08-19 21:01:19 [INFO] [agenda_crontab.sh] ▶️ [6/7] Executando upload para o portal ATMFOZ (/home/emersonb/python/6_cbtm_upload_atmfoz.sh)...
+2026-08-19 21:01:20 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Resultados sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-19 21:01:20 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Categorias sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-19 21:01:20 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Grupos Base sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-19 21:01:20 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Grupos Extras sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-19 21:01:20 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Jogos Extras sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-19 21:01:20 [WARNING] [upload_atmfoz.sh] ⚠️ [IGNORADO] Resultados ALL nao encontrado em (/home/emersonb/python/export/cbtm_resultados_all.json). Prosseguindo...
+2026-08-19 21:01:20 [WARNING] [upload_atmfoz.sh] ⚠️ [IGNORADO] Categorias ALL nao encontrado em (/home/emersonb/python/export/cbtm_categorias_all.json). Prosseguindo...
+2026-08-19 21:01:20 [WARNING] [upload_atmfoz.sh] ⚠️ [IGNORADO] Programação de Mesas (mesas.csv) nao encontrado em (/home/emersonb/python/export/mesas.csv). Prosseguindo...
+2026-08-19 21:01:20 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Configuracao (config.json) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-19 21:01:20 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (telegram-grupos.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-19 21:01:20 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (telegram-result.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-19 21:01:20 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Log de Automacao (Invertido) (/tmp/cbtm_automacao.log). Enviando via Rclone...
+2026-08-19 21:01:31 [INFO] [upload_atmfoz.sh] ✅ Log de Automacao (Invertido) enviado e controle atualizado.
+2026-08-19 21:01:31 [INFO] [upload_atmfoz.sh] ✅ Ciclo de sincronizacao concluido com sucesso!
+2026-08-19 21:01:31 [INFO] [agenda_crontab.sh] ✅ Passo 6 concluido com sucesso.
+2026-08-19 21:01:31 [INFO] [agenda_crontab.sh] ▶️ [7/7] Executando sincronizacao GitHub export (/home/emersonb/python/6_github-export.sh)...
+-------------------------------------------------------------------------
+📋 Preparando arquivos para exportação...
+📄 Extraindo as últimas 1000 linhas de /home/emersonb/python/cbtm_automacao.log...
