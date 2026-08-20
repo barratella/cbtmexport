@@ -6,6 +6,8 @@
 2026-08-20 08:07:28 | /home/emersonb/python/export/cbtm_resultados.json | 38263 | 735f1b59614d2525e5b56bf5b2d04f0d
 2026-08-20 08:07:34 | /home/emersonb/python/export/telegram-result.csv | 6384 | 30eb30a9831ff4b23b4892496cb4eea7
 2026-08-20 10:07:46 | /home/emersonb/python/config.json | 2863 | 28677ee96f39b7522ab95dd5f7611ae6
-2026-08-20 11:02:43 | /home/emersonb/python/export/cbtm_categorias_all.json | 106561 | d4216e5e6def8535c578e584a33f2042
 2026-08-20 11:02:46 | /home/emersonb/python/export/rating_simulado.csv | 8483 | af5a8f4e36092032263bfbea1c70defc
-2026-08-20 11:02:49 | /tmp/cbtm_automacao.log | 25596 | 3de0ee06fe547ca5873815151a21a6f9
+2026-08-20 17:29:50 | /home/emersonb/python/export/cbtm_resultados_all.json | 423570 | 33177601155458ccee58d9c521cdab39
+2026-08-20 17:29:53 | /home/emersonb/python/export/cbtm_categorias_all.json | 84424 | 0bcdbd3a5cb668aa926aefaf0bb97208
+2026-08-20 17:29:54 | /home/emersonb/python/export/mesas.csv | 52332 | 1286482842f8385006465ef802f31c7d
+2026-08-20 17:29:57 | /tmp/cbtm_automacao.log | 27285 | 06234101620b8e41c08b596ae55fa99e
