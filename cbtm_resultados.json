@@ -938,10 +938,58 @@
         ],
         "SUB-17 FEM": [
             {
-                "fase": "SUB-15 FEM - Grupo 01",
+                "fase": "SUB-17 FEM - Grupo 02",
                 "placar_geral": "Agendado",
-                "info_mesa": "Jogo 001 - Mesa 6 - 08:00",
-                "data": "23/08/2026",
+                "info_mesa": "Jogo 002 - Mesa 22 - 08:30",
+                "data": "22/08/2026",
+                "competidores": [
+                    {
+                        "nome": "YASMIN  SÁ",
+                        "sets": []
+                    },
+                    {
+                        "nome": "ANA  BRAGA",
+                        "sets": []
+                    }
+                ]
+            },
+            {
+                "fase": "SUB-17 FEM - Grupo 01",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 005 - Mesa 21 - 09:45",
+                "data": "22/08/2026",
+                "competidores": [
+                    {
+                        "nome": "NIHAN  ABDALLAH",
+                        "sets": []
+                    },
+                    {
+                        "nome": "ISABELA  HAAB",
+                        "sets": []
+                    }
+                ]
+            },
+            {
+                "fase": "SUB-17 FEM - Grupo 01",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 009 - Mesa 21 - 11:00",
+                "data": "22/08/2026",
+                "competidores": [
+                    {
+                        "nome": "EMANUELLY  SANTOS",
+                        "sets": []
+                    },
+                    {
+                        "nome": "NIHAN  ABDALLAH",
+                        "sets": []
+                    }
+                ]
+            },
+            {
+                "fase": "SUB-17 FEM - Grupo 02",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 010 - Mesa 22 - 11:00",
+                "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "YASMIN  SÁ",
@@ -952,67 +1000,167 @@
                         "sets": []
                     }
                 ]
-            },
+            }
+        ],
+        "SUB-17 MAS": [
             {
-                "fase": "SUB-15 FEM - Grupo 02",
+                "fase": "SUB-17 MAS - Grupo 04",
                 "placar_geral": "Agendado",
-                "info_mesa": "Jogo 003 - Mesa 7 - 08:25",
-                "data": "23/08/2026",
+                "info_mesa": "Jogo 004 - Mesa 20 - 09:20",
+                "data": "22/08/2026",
                 "competidores": [
                     {
-                        "nome": "NIHAN  ABDALLAH",
+                        "nome": "CAUÃ  KNACK",
                         "sets": []
                     },
                     {
-                        "nome": "ANA  BRAGA",
+                        "nome": "OTÁVIO  IENERICH",
                         "sets": []
                     }
                 ]
             },
             {
-                "fase": "SUB-15 FEM - Grupo 02",
+                "fase": "SUB-17 MAS - Grupo 03",
                 "placar_geral": "Agendado",
-                "info_mesa": "Jogo 008 - Mesa 7 - 09:15",
-                "data": "23/08/2026",
+                "info_mesa": "Jogo 011 - Mesa 19 - 10:35",
+                "data": "22/08/2026",
                 "competidores": [
                     {
-                        "nome": "NIHAN  ABDALLAH",
+                        "nome": "RICCARDO  MACIEL",
                         "sets": []
                     },
                     {
-                        "nome": "JULIA  DA SILVA",
+                        "nome": "CAUÃ  MATHEUS",
                         "sets": []
                     }
                 ]
             },
             {
-                "fase": "SUB-15 FEM - Grupo 01",
+                "fase": "SUB-17 MAS - Grupo 03",
                 "placar_geral": "Agendado",
-                "info_mesa": "Jogo 011 - Mesa 6 - 09:40",
-                "data": "23/08/2026",
+                "info_mesa": "Jogo 019 - Mesa 19 - 11:50",
+                "data": "22/08/2026",
                 "competidores": [
                     {
-                        "nome": "YASMIN  SÁ",
+                        "nome": "MATHEUS  JACUMASSO",
                         "sets": []
                     },
                     {
-                        "nome": "ISABELLY  RIOS",
+                        "nome": "RICCARDO  MACIEL",
                         "sets": []
                     }
                 ]
             },
             {
-                "fase": "SUB-15 FEM - Grupo 02",
+                "fase": "SUB-17 MAS - Grupo 04",
                 "placar_geral": "Agendado",
-                "info_mesa": "Jogo 012 - Mesa 7 - 09:40",
-                "data": "23/08/2026",
+                "info_mesa": "Jogo 020 - Mesa 20 - 11:50",
+                "data": "22/08/2026",
                 "competidores": [
                     {
-                        "nome": "BIANCA  SANTOS",
+                        "nome": "CAUÃ  KNACK",
                         "sets": []
                     },
                     {
-                        "nome": "NIHAN  ABDALLAH",
+                        "nome": "GUSTAVO  KANASHIRO",
+                        "sets": []
+                    }
+                ]
+            }
+        ],
+        "SUB-19 MAS": [
+            {
+                "fase": "SUB-19 MAS - Grupo 04",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 004 - Mesa 19 - 08:25",
+                "data": "23/08/2026",
+                "competidores": [
+                    {
+                        "nome": "FABRICIO  MARIN",
+                        "sets": []
+                    },
+                    {
+                        "nome": "OMAR  ABDALLAH",
+                        "sets": []
+                    }
+                ]
+            },
+            {
+                "fase": "SUB-19 MAS - Grupo 01",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 006 - Mesa 16 - 09:15",
+                "data": "23/08/2026",
+                "competidores": [
+                    {
+                        "nome": "ANTHONY  ACOSTA",
+                        "sets": []
+                    },
+                    {
+                        "nome": "GUSTAVO  KANASHIRO",
+                        "sets": []
+                    }
+                ]
+            },
+            {
+                "fase": "SUB-19 MAS - Grupo 04",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 009 - Mesa 19 - 09:15",
+                "data": "23/08/2026",
+                "competidores": [
+                    {
+                        "nome": "ARTHUR  PIGNATTI",
+                        "sets": []
+                    },
+                    {
+                        "nome": "OMAR  ABDALLAH",
+                        "sets": []
+                    }
+                ]
+            },
+            {
+                "fase": "SUB-19 MAS - Grupo 05",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 010 - Mesa 20 - 09:15",
+                "data": "23/08/2026",
+                "competidores": [
+                    {
+                        "nome": "CAUÃ  KNACK",
+                        "sets": []
+                    },
+                    {
+                        "nome": "OTÁVIO  IENERICH",
+                        "sets": []
+                    }
+                ]
+            },
+            {
+                "fase": "SUB-19 MAS - Grupo 01",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 011 - Mesa 16 - 10:05",
+                "data": "23/08/2026",
+                "competidores": [
+                    {
+                        "nome": "FELIPE  LARA",
+                        "sets": []
+                    },
+                    {
+                        "nome": "ANTHONY  ACOSTA",
+                        "sets": []
+                    }
+                ]
+            },
+            {
+                "fase": "SUB-19 MAS - Grupo 05",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 015 - Mesa 20 - 10:05",
+                "data": "23/08/2026",
+                "competidores": [
+                    {
+                        "nome": "MATHEUS  LESME",
+                        "sets": []
+                    },
+                    {
+                        "nome": "CAUÃ  KNACK",
                         "sets": []
                     }
                 ]
