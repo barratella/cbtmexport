@@ -1,291 +1,3 @@
-2026-08-19 22:03:14 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-11 FEM (8/15)
-2026-08-19 22:03:30 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) LAURA  OLIVEIRA vs SARAH  ABADIE
-2026-08-19 22:03:30 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) LAURA  OLIVEIRA vs SARAH  ABADIE
-2026-08-19 22:03:30 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) MELISSA  JERONIMO vs SARAH  ABADIE
-2026-08-19 22:03:30 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) MELISSA  JERONIMO vs SARAH  ABADIE
-2026-08-19 22:03:30 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) SARAH  ABADIE vs JASMIM  BLANCO
-2026-08-19 22:03:30 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) SARAH  ABADIE vs JASMIM  BLANCO
-2026-08-19 22:03:35 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-11 MAS (9/15)
-2026-08-19 22:03:35 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-11 MAS (9/15)
-2026-08-19 22:03:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) BENJAMIN  HORST vs ÍTALO  RAMIREZ
-2026-08-19 22:03:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) BENJAMIN  HORST vs ÍTALO  RAMIREZ
-2026-08-19 22:03:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) THEO  MACHADO vs HEITOR  MELLO
-2026-08-19 22:03:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) THEO  MACHADO vs HEITOR  MELLO
-2026-08-19 22:03:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) SAMUEL  MATSUMOTO vs JOAQUIM  MANTOVANI
-2026-08-19 22:03:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) SAMUEL  MATSUMOTO vs JOAQUIM  MANTOVANI
-2026-08-19 22:03:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) MARTIM  AMARAL vs BERNARDO  COSTA
-2026-08-19 22:03:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) MARTIM  AMARAL vs BERNARDO  COSTA
-2026-08-19 22:03:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) MOHAMMAD  KORYANI vs ÍTALO  RAMIREZ
-2026-08-19 22:03:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) MOHAMMAD  KORYANI vs ÍTALO  RAMIREZ
-2026-08-19 22:03:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) GABRIEL  NARDI vs HEITOR  MELLO
-2026-08-19 22:03:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) GABRIEL  NARDI vs HEITOR  MELLO
-2026-08-19 22:03:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) HENRIQUE  ITO vs JOAQUIM  MANTOVANI
-2026-08-19 22:03:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) HENRIQUE  ITO vs JOAQUIM  MANTOVANI
-2026-08-19 22:03:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) BRIAN  MUZER vs MARTIM  AMARAL
-2026-08-19 22:03:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) BRIAN  MUZER vs MARTIM  AMARAL
-2026-08-19 22:03:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) DAVI  MELO vs JOAQUIM  MANTOVANI
-2026-08-19 22:03:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) DAVI  MELO vs JOAQUIM  MANTOVANI
-2026-08-19 22:03:54 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-13 FEM (10/15)
-2026-08-19 22:03:54 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-13 FEM (10/15)
-2026-08-19 22:04:09 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) NIVIN  ABDALLAH vs MARIANA  CAMARGO
-2026-08-19 22:04:09 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) NIVIN  ABDALLAH vs MARIANA  CAMARGO
-2026-08-19 22:04:09 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) NIVIN  ABDALLAH vs MANUELA  DOI
-2026-08-19 22:04:09 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) NIVIN  ABDALLAH vs MANUELA  DOI
-2026-08-19 22:04:14 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-13 MAS (11/15)
-2026-08-19 22:04:14 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-13 MAS (11/15)
-2026-08-19 22:04:32 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) MANSUR  JOMAA vs RENATO  FILHO
-2026-08-19 22:04:32 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) MANSUR  JOMAA vs RENATO  FILHO
-2026-08-19 22:04:32 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) ARTHUR  KADLUBISKI vs MANSUR  JOMAA
-2026-08-19 22:04:32 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) ARTHUR  KADLUBISKI vs MANSUR  JOMAA
-2026-08-19 22:04:37 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-15 FEM (12/15)
-2026-08-19 22:04:37 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-15 FEM (12/15)
-2026-08-19 22:04:52 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) YASMIN  SÁ vs ELOAH  PRADO
-2026-08-19 22:04:52 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) YASMIN  SÁ vs ELOAH  PRADO
-2026-08-19 22:04:52 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) NIVIN  ABDALLAH vs ANA  MARQUES
-2026-08-19 22:04:52 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) NIVIN  ABDALLAH vs ANA  MARQUES
-2026-08-19 22:04:52 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) NIHAN  ABDALLAH vs ANA  BRAGA
-2026-08-19 22:04:52 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) NIHAN  ABDALLAH vs ANA  BRAGA
-2026-08-19 22:04:52 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) NIVIN  ABDALLAH vs LIVIA  DUTKO
-2026-08-19 22:04:52 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) NIVIN  ABDALLAH vs LIVIA  DUTKO
-2026-08-19 22:04:52 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) NIHAN  ABDALLAH vs JULIA  DA SILVA
-2026-08-19 22:04:52 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) NIHAN  ABDALLAH vs JULIA  DA SILVA
-2026-08-19 22:04:52 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) YASMIN  SÁ vs ISABELLY  RIOS
-2026-08-19 22:04:52 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) YASMIN  SÁ vs ISABELLY  RIOS
-2026-08-19 22:04:52 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) BIANCA  SANTOS vs NIHAN  ABDALLAH
-2026-08-19 22:04:52 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) BIANCA  SANTOS vs NIHAN  ABDALLAH
-2026-08-19 22:04:52 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) NIVIN  ABDALLAH vs LAURA  SILVEIRA
-2026-08-19 22:04:52 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) NIVIN  ABDALLAH vs LAURA  SILVEIRA
-2026-08-19 22:04:57 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-17 FEM (13/15)
-2026-08-19 22:04:57 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-17 FEM (13/15)
-2026-08-19 22:05:14 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) YASMIN  SÁ vs ELOAH  PRADO
-2026-08-19 22:05:14 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) YASMIN  SÁ vs ELOAH  PRADO
-2026-08-19 22:05:14 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) NIHAN  ABDALLAH vs ANA  BRAGA
-2026-08-19 22:05:14 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) NIHAN  ABDALLAH vs ANA  BRAGA
-2026-08-19 22:05:14 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) NIHAN  ABDALLAH vs JULIA  DA SILVA
-2026-08-19 22:05:14 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) NIHAN  ABDALLAH vs JULIA  DA SILVA
-2026-08-19 22:05:14 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) YASMIN  SÁ vs ISABELLY  RIOS
-2026-08-19 22:05:14 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) YASMIN  SÁ vs ISABELLY  RIOS
-2026-08-19 22:05:14 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) BIANCA  SANTOS vs NIHAN  ABDALLAH
-2026-08-19 22:05:14 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) BIANCA  SANTOS vs NIHAN  ABDALLAH
-2026-08-19 22:05:19 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-17 MAS (14/15)
-2026-08-19 22:05:19 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-17 MAS (14/15)
-2026-08-19 22:05:39 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-19 MAS (15/15)
-2026-08-19 22:05:39 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-19 MAS (15/15)
-2026-08-19 22:05:40 [ERROR] [cbtm_carregar_resultados.py] Erro ao selecionar categoria SUB-19 MAS no evento 5997: Alert Text: Callback request failed due to an internal server error.
-Message: unexpected alert open: {Alert text : Callback request failed due to an internal server error.}
-  (Session info: chrome=151.0.7922.169)
-Stacktrace:
-#0 0x562e787e444a <unknown>
-#1 0x562e781bc8c9 <unknown>
-#2 0x562e7825afee <unknown>
-#3 0x562e782053ff <unknown>
-#4 0x562e78206261 <unknown>
-#5 0x562e787a9cc7 <unknown>
-#6 0x562e787a84a8 <unknown>
-#7 0x562e78793196 <unknown>
-#8 0x562e787a906a <unknown>
-#9 0x562e7877b020 <unknown>
-#10 0x562e787cfb98 <unknown>
-#11 0x562e787cfd35 <unknown>
-#12 0x562e787e2ffe <unknown>
-#13 0x7f15e32c5b7b <unknown>
-
-2026-08-19 22:05:40 [ERROR] [cbtm_carregar_resultados.py] Erro ao selecionar categoria SUB-19 MAS no evento 5997: Alert Text: Callback request failed due to an internal server error.
-Message: unexpected alert open: {Alert text : Callback request failed due to an internal server error.}
-  (Session info: chrome=151.0.7922.169)
-Stacktrace:
-#0 0x562e787e444a <unknown>
-#1 0x562e781bc8c9 <unknown>
-#2 0x562e7825afee <unknown>
-#3 0x562e782053ff <unknown>
-#4 0x562e78206261 <unknown>
-#5 0x562e787a9cc7 <unknown>
-#6 0x562e787a84a8 <unknown>
-#7 0x562e78793196 <unknown>
-#8 0x562e787a906a <unknown>
-#9 0x562e7877b020 <unknown>
-#10 0x562e787cfb98 <unknown>
-#11 0x562e787cfd35 <unknown>
-#12 0x562e787e2ffe <unknown>
-#13 0x7f15e32c5b7b <unknown>
-
-2026-08-19 22:05:40 [INFO] [cbtm_carregar_resultados.py] Arquivo de resultados atualizado e consolidado com sucesso!
-2026-08-19 22:05:40 [INFO] [cbtm_carregar_resultados.py] Arquivo de resultados atualizado e consolidado com sucesso!
-2026-08-19 22:05:40 [INFO] [cbtm_carregar_resultados.py] Registrando timestamp da execucao completa no config.json: 2026-08-19 22:05:40
-2026-08-19 22:05:40 [INFO] [cbtm_carregar_resultados.py] Registrando timestamp da execucao completa no config.json: 2026-08-19 22:05:40
-2026-08-19 22:05:40 [INFO] [cbtm_carregar_resultados.py] Parametro salvo com sucesso!
-2026-08-19 22:05:40 [INFO] [cbtm_carregar_resultados.py] Parametro salvo com sucesso!
-2026-08-19 22:05:41 [INFO] [4_cbtm_resultados.sh] Raspagem e ciclo de resultados finalizados com sucesso.
-2026-08-19 22:05:41 [INFO] [agenda_crontab.sh] ✅ Passo 1 concluido com sucesso.
-2026-08-19 22:05:41 [INFO] [agenda_crontab.sh] ▶️ [2/7] Executando busca de dependencias extras (/home/emersonb/python/5_cbtm_extras.sh)...
-2026-08-19 22:05:41 [INFO] Iniciando resolução de dependências extras (grupos e jogos)...
-2026-08-19 22:05:42 [INFO] [EXTRAS] Carregando resultados a partir de: /home/emersonb/python/export/cbtm_resultados.json
-2026-08-19 22:05:42 [INFO] [EXTRAS] Carregando resultados a partir de: /home/emersonb/python/export/cbtm_resultados.json
-2026-08-19 22:05:42 [INFO] [EXTRAS] Pendências identificadas: 2 grupo(s), 0 jogo(s).
-2026-08-19 22:05:42 [INFO] [EXTRAS] Pendências identificadas: 2 grupo(s), 0 jogo(s).
-2026-08-19 22:05:42 [INFO] [EXTRAS] 🌐 Buscando Grupo 7 em [ABSOLUTO G MAS] (Evento ID 5997)...
-2026-08-19 22:05:42 [INFO] [EXTRAS] 🌐 Buscando Grupo 7 em [ABSOLUTO G MAS] (Evento ID 5997)...
-2026-08-19 22:05:42 [INFO] [EXTRAS] Inicializando Chrome Headless...
-2026-08-19 22:05:42 [INFO] [EXTRAS] Inicializando Chrome Headless...
-2026-08-19 22:05:43 [INFO] [EXTRAS] patching driver executable /home/emersonb/.local/share/undetected_chromedriver/undetected_chromedriver
-2026-08-19 22:05:43 [INFO] [EXTRAS] patching driver executable /home/emersonb/.local/share/undetected_chromedriver/undetected_chromedriver
-2026-08-19 22:05:47 [INFO] [EXTRAS] Navegando para: https://app.cbtm.org.br/IUI/App/Evento?tab=1&EVE_Evento_ID=5997
-2026-08-19 22:05:47 [INFO] [EXTRAS] Navegando para: https://app.cbtm.org.br/IUI/App/Evento?tab=1&EVE_Evento_ID=5997
-2026-08-19 22:06:20 [INFO] [EXTRAS] 🌐 Buscando Grupo 8 em [ABSOLUTO G MAS] (Evento ID 5997)...
-2026-08-19 22:06:20 [INFO] [EXTRAS] 🌐 Buscando Grupo 8 em [ABSOLUTO G MAS] (Evento ID 5997)...
-2026-08-19 22:06:34 [INFO] [EXTRAS] 📁 Grupos Extras concatenados com sucesso em: /home/emersonb/python/export/cbtm_grupos_extras.json
-2026-08-19 22:06:34 [INFO] [EXTRAS] 📁 Grupos Extras concatenados com sucesso em: /home/emersonb/python/export/cbtm_grupos_extras.json
-2026-08-19 22:06:34 [INFO] [EXTRAS] 📁 Jogos Extras salvos em: /home/emersonb/python/export/cbtm_jogos_extras.json
-2026-08-19 22:06:34 [INFO] [EXTRAS] 📁 Jogos Extras salvos em: /home/emersonb/python/export/cbtm_jogos_extras.json
-2026-08-19 22:06:36 [INFO] Processo de busca de extras finalizado. Trava liberada.
-2026-08-19 22:06:36 [INFO] [agenda_crontab.sh] ✅ Passo 2 concluido com sucesso.
-2026-08-19 22:06:36 [INFO] [agenda_crontab.sh] ▶️ [3/7] Executando processamento Telegram local (/home/emersonb/python/7_cbtm_telegram_processa.sh)...
-2026-08-19 22:06:36 [INFO] [cbtm_telegram-processa.sh] Iniciando processamento de arquivos locais (cbtm_telegram-processa.py)...
-[INFO] Iniciando processamento de arquivos locais...
---- [1/5] Gerando Resultados Consolidados (show-all) ---
-[INFO] Backup CSV criado em: /home/emersonb/python/export/telegram-result.csv.bkp
-[INFO] Arquivo CSV gerado com sucesso em '/home/emersonb/python/export/telegram-result.csv'.
---- [2/5] Gerando Grupos Consolidados (show-grupos) ---
-[INFO] Backup do CSV de grupos criado em: '/home/emersonb/python/export/telegram-grupos.csv.bkp'.
-[INFO] Arquivo CSV de grupos gerado com sucesso em '/home/emersonb/python/export/telegram-grupos.csv'.
---- [3/5] Gerando Diferenças de Grupos (show-diff-grupos) ---
-[INFO] Arquivo de diferenças de grupos CSV gerado com sucesso em '/home/emersonb/python/export/telegram-grupos.csv.diff'.
---- [4/5] Gerando Diferenças de Resultados (show-diff) ---
-[INFO] Arquivo de diferenças CSV gerado com sucesso em '/home/emersonb/python/export/telegram-result.csv.diff'.
---- [5/5] Gerando Programação Pendente (show-prog) ---
-[INFO] Arquivo CSV de jogos pendentes gerado em '/home/emersonb/python/export/telegram-result.csv.prog'.
-[INFO] Processamento de arquivos locais concluído com sucesso!
-2026-08-19 22:06:36 [INFO] [cbtm_telegram-processa.sh] Processamento de arquivos locais concluido com sucesso!
-2026-08-19 22:06:36 [INFO] [agenda_crontab.sh] ✅ Passo 3 concluido com sucesso.
-2026-08-19 22:06:36 [INFO] [agenda_crontab.sh] ▶️ [4/7] Executando disparo de notificacoes Telegram (/home/emersonb/python/8_cbtm_telegram_envia.sh)...
-2026-08-19 22:06:36 [INFO] [8_cbtm_telegram_envia.sh] ⏭️ [SKIP] Execucao desativada no config.json ('telegram_enviar_atualizacao' != 1). Encerrando.
-2026-08-19 22:06:36 [INFO] [agenda_crontab.sh] ✅ Passo 4 concluido com sucesso.
-2026-08-19 22:06:36 [INFO] [agenda_crontab.sh] ▶️ [5/7] Executando atualizacao de rating (/home/emersonb/python/9_cbtm_rating.sh)...
-[INFO] Executando cbtm_estimar_rating.py...
-[INFO] cbtm_estimar_rating.py executado com sucesso.
-2026-08-19 22:06:36 [INFO] [agenda_crontab.sh] ✅ Passo 5 concluido com sucesso.
-2026-08-19 22:06:36 [INFO] [agenda_crontab.sh] ▶️ [6/7] Executando upload para o portal ATMFOZ (/home/emersonb/python/6_cbtm_upload_atmfoz.sh)...
-2026-08-19 22:06:36 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Resultados (/home/emersonb/python/export/cbtm_resultados.json). Enviando via Rclone...
-2026-08-19 22:06:39 [INFO] [upload_atmfoz.sh] ✅ Resultados enviado e controle atualizado.
-2026-08-19 22:06:39 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Categorias sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-19 22:06:39 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Grupos Base sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-19 22:06:39 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Grupos Extras sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-19 22:06:39 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Jogos Extras sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-19 22:06:39 [WARNING] [upload_atmfoz.sh] ⚠️ [IGNORADO] Resultados ALL nao encontrado em (/home/emersonb/python/export/cbtm_resultados_all.json). Prosseguindo...
-2026-08-19 22:06:39 [WARNING] [upload_atmfoz.sh] ⚠️ [IGNORADO] Categorias ALL nao encontrado em (/home/emersonb/python/export/cbtm_categorias_all.json). Prosseguindo...
-2026-08-19 22:06:39 [WARNING] [upload_atmfoz.sh] ⚠️ [IGNORADO] Programação de Mesas (mesas.csv) nao encontrado em (/home/emersonb/python/export/mesas.csv). Prosseguindo...
-2026-08-19 22:06:39 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Configuracao (config.json) (/home/emersonb/python/config.json). Enviando via Rclone...
-2026-08-19 22:06:42 [INFO] [upload_atmfoz.sh] ✅ Configuracao (config.json) enviado e controle atualizado.
-2026-08-19 22:06:42 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (telegram-grupos.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-19 22:06:42 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Export CSV (telegram-result.csv) (/home/emersonb/python/export/telegram-result.csv). Enviando via Rclone...
-2026-08-19 22:06:44 [INFO] [upload_atmfoz.sh] ✅ Export CSV (telegram-result.csv) enviado e controle atualizado.
-2026-08-19 22:06:44 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Log de Automacao (Invertido) (/tmp/cbtm_automacao.log). Enviando via Rclone...
-2026-08-19 22:06:47 [INFO] [upload_atmfoz.sh] ✅ Log de Automacao (Invertido) enviado e controle atualizado.
-2026-08-19 22:06:47 [INFO] [upload_atmfoz.sh] ✅ Ciclo de sincronizacao concluido com sucesso!
-2026-08-19 22:06:47 [INFO] [agenda_crontab.sh] ✅ Passo 6 concluido com sucesso.
-2026-08-19 22:06:47 [INFO] [agenda_crontab.sh] ▶️ [7/7] Executando sincronizacao GitHub export (/home/emersonb/python/6_github-export.sh)...
--------------------------------------------------------------------------
-📋 Preparando arquivos para exportação...
-📄 Extraindo as últimas 1000 linhas de /home/emersonb/python/cbtm_automacao.log...
-⚙️ Copiando config.json...
-[1/2] Criando commit...
-[main 4aa8a1d] Sincronização e limpeza de arquivos remotos em 2026-08-19 22:06:47
- 5 files changed, 337 insertions(+), 457 deletions(-)
-[2/2] Enviando para o GitHub (push)...
-To https://github.com/barratella/cbtmexport.git
- ! [rejected]        main -> main (fetch first)
-error: failed to push some refs to 'https://github.com/barratella/cbtmexport.git'
-hint: Updates were rejected because the remote contains work that you do not
-hint: have locally. This is usually caused by another repository pushing to
-hint: the same ref. If you want to integrate the remote changes, use
-hint: 'git pull' before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
--------------------------------------------------------------------------
-✅ Concluído: Arquivos indesejados removidos do GitHub e mantidos na VPS!
--------------------------------------------------------------------------
-2026-08-19 22:06:47 [INFO] [agenda_crontab.sh] ✅ Passo 7 concluido com sucesso.
-2026-08-19 22:06:48 [INFO] [agenda_crontab.sh] 🏁 Toda a sequencia foi executada e concluida perfeitamente.
-2026-08-19 22:06:48 [INFO] [agenda_crontab.sh] ==================================================
-2026-08-20 00:30:04 [INFO] [cbtm_carregar_grupos.py] Iniciando raspagem de GRUPOS inteligente (com suporte a ratings negativos). PID: 195763
-2026-08-20 00:30:04 [INFO] [cbtm_carregar_grupos.py] Backup carregado com sucesso de '/home/emersonb/python/export/cbtm_grupos.json.bkp' para verificação de grupos pendentes.
-2026-08-20 00:30:04 [INFO] [cbtm_carregar_grupos.py] 🏆 Processando Grupos do Evento ID 5997 (15 categoria(s))...
-2026-08-20 00:30:04 [INFO] [cbtm_carregar_grupos.py] Inicializando Chrome Headless para Grupos...
-2026-08-20 00:30:04 [INFO] [cbtm_carregar_grupos.py] patching driver executable /home/emersonb/.local/share/undetected_chromedriver/undetected_chromedriver
-2026-08-20 00:30:14 [INFO] [cbtm_carregar_grupos.py] Navegando para a Aba de Grupos: https://app.cbtm.org.br/IUI/App/Evento?tab=1&EVE_Evento_ID=5997
-2026-08-20 00:30:29 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: ABSOLUTO A FEM (1/15)
-2026-08-20 00:30:48 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - ABSOLUTO A FEM]: ABSOLUTO A FEM - Grupo 02 (4 atletas)
-2026-08-20 00:30:53 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: ABSOLUTO D MAS (2/15)
-2026-08-20 00:31:10 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - ABSOLUTO D MAS]: ABSOLUTO D MAS - Grupo 06 (3 atletas)
-2026-08-20 00:31:15 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: ABSOLUTO E FEM (3/15)
-2026-08-20 00:31:30 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - ABSOLUTO E FEM]: ABSOLUTO E FEM - Grupo 02 (3 atletas)
-2026-08-20 00:31:35 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: ABSOLUTO F MAS (4/15)
-2026-08-20 00:31:51 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - ABSOLUTO F MAS]: ABSOLUTO F MAS - Grupo 02 (3 atletas)
-2026-08-20 00:31:51 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - ABSOLUTO F MAS]: ABSOLUTO F MAS - Grupo 10 (3 atletas)
-2026-08-20 00:31:56 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: ABSOLUTO G MAS (5/15)
-2026-08-20 00:32:13 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - ABSOLUTO G MAS]: ABSOLUTO G MAS - Grupo 04 (3 atletas)
-2026-08-20 00:32:13 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - ABSOLUTO G MAS]: ABSOLUTO G MAS - Grupo 10 (4 atletas)
-2026-08-20 00:32:18 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: MASTER 60MAS (6/15)
-2026-08-20 00:32:34 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - MASTER 60MAS]: MASTER 60MAS - Grupo 02 (4 atletas)
-2026-08-20 00:32:34 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - MASTER 60MAS]: MASTER 60MAS - Grupo 03 (4 atletas)
-2026-08-20 00:32:39 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: SUB-09 MAS (7/15)
-2026-08-20 00:32:55 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-09 MAS]: SUB-09 MAS - Grupo 01 (3 atletas)
-2026-08-20 00:32:55 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-09 MAS]: SUB-09 MAS - Grupo 02 (3 atletas)
-2026-08-20 00:32:55 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-09 MAS]: SUB-09 MAS - Grupo 03 (3 atletas)
-2026-08-20 00:32:55 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-09 MAS]: SUB-09 MAS - Grupo 04 (4 atletas)
-2026-08-20 00:33:00 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: SUB-11 FEM (8/15)
-2026-08-20 00:33:15 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-11 FEM]: SUB-11 FEM - Grupo 02 (4 atletas)
-2026-08-20 00:33:20 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: SUB-11 MAS (9/15)
-2026-08-20 00:33:37 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-11 MAS]: SUB-11 MAS - Grupo 01 (3 atletas)
-2026-08-20 00:33:37 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-11 MAS]: SUB-11 MAS - Grupo 03 (3 atletas)
-2026-08-20 00:33:37 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-11 MAS]: SUB-11 MAS - Grupo 05 (3 atletas)
-2026-08-20 00:33:37 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-11 MAS]: SUB-11 MAS - Grupo 06 (4 atletas)
-2026-08-20 00:33:42 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: SUB-13 FEM (10/15)
-2026-08-20 00:33:57 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-13 FEM]: SUB-13 FEM - Grupo 01 (3 atletas)
-2026-08-20 00:34:02 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: SUB-13 MAS (11/15)
-2026-08-20 00:34:18 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-13 MAS]: SUB-13 MAS - Grupo 08 (3 atletas)
-2026-08-20 00:34:23 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: SUB-15 FEM (12/15)
-2026-08-20 00:34:38 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-15 FEM]: SUB-15 FEM - Grupo 01 (3 atletas)
-2026-08-20 00:34:38 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-15 FEM]: SUB-15 FEM - Grupo 02 (4 atletas)
-2026-08-20 00:34:38 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-15 FEM]: SUB-15 FEM - Grupo 03 (4 atletas)
-2026-08-20 00:34:43 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: SUB-17 FEM (13/15)
-2026-08-20 00:34:59 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-17 FEM]: SUB-17 FEM - Grupo 01 (3 atletas)
-2026-08-20 00:34:59 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-17 FEM]: SUB-17 FEM - Grupo 02 (3 atletas)
-2026-08-20 00:35:04 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: SUB-17 MAS (14/15)
-2026-08-20 00:35:21 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-17 MAS]: SUB-17 MAS - Grupo 03 (3 atletas)
-2026-08-20 00:35:21 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-17 MAS]: SUB-17 MAS - Grupo 04 (3 atletas)
-2026-08-20 00:35:26 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: SUB-19 MAS (15/15)
-2026-08-20 00:35:41 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-19 MAS]: SUB-19 MAS - Grupo 01 (3 atletas)
-2026-08-20 00:35:41 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-19 MAS]: SUB-19 MAS - Grupo 04 (3 atletas)
-2026-08-20 00:35:41 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-19 MAS]: SUB-19 MAS - Grupo 05 (3 atletas)
-2026-08-20 00:35:41 [INFO] [cbtm_carregar_grupos.py] Arquivo de grupos gravado com sucesso em: '/home/emersonb/python/export/cbtm_grupos.json'
-2026-08-20 06:30:04 [INFO] [cbtm_carregar_grupos.py] Iniciando raspagem de GRUPOS inteligente (com suporte a ratings negativos). PID: 232937
-2026-08-20 06:30:04 [INFO] [cbtm_carregar_grupos.py] Backup carregado com sucesso de '/home/emersonb/python/export/cbtm_grupos.json.bkp' para verificação de grupos pendentes.
-2026-08-20 06:30:04 [INFO] [cbtm_carregar_grupos.py] 🏆 Processando Grupos do Evento ID 5997 (15 categoria(s))...
-2026-08-20 06:30:04 [INFO] [cbtm_carregar_grupos.py] Inicializando Chrome Headless para Grupos...
-2026-08-20 06:30:05 [INFO] [cbtm_carregar_grupos.py] patching driver executable /home/emersonb/.local/share/undetected_chromedriver/undetected_chromedriver
-2026-08-20 06:30:15 [INFO] [cbtm_carregar_grupos.py] Navegando para a Aba de Grupos: https://app.cbtm.org.br/IUI/App/Evento?tab=1&EVE_Evento_ID=5997
-2026-08-20 06:30:37 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: ABSOLUTO A FEM (1/15)
-2026-08-20 06:30:55 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - ABSOLUTO A FEM]: ABSOLUTO A FEM - Grupo 02 (4 atletas)
-2026-08-20 06:31:00 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: ABSOLUTO D MAS (2/15)
-2026-08-20 06:31:19 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - ABSOLUTO D MAS]: ABSOLUTO D MAS - Grupo 06 (3 atletas)
-2026-08-20 06:31:24 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: ABSOLUTO E FEM (3/15)
-2026-08-20 06:31:42 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - ABSOLUTO E FEM]: ABSOLUTO E FEM - Grupo 02 (3 atletas)
-2026-08-20 06:31:47 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: ABSOLUTO F MAS (4/15)
-2026-08-20 06:32:05 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - ABSOLUTO F MAS]: ABSOLUTO F MAS - Grupo 02 (3 atletas)
-2026-08-20 06:32:05 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - ABSOLUTO F MAS]: ABSOLUTO F MAS - Grupo 10 (3 atletas)
-2026-08-20 06:32:10 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: ABSOLUTO G MAS (5/15)
-2026-08-20 06:32:27 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - ABSOLUTO G MAS]: ABSOLUTO G MAS - Grupo 04 (3 atletas)
-2026-08-20 06:32:27 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - ABSOLUTO G MAS]: ABSOLUTO G MAS - Grupo 10 (4 atletas)
-2026-08-20 06:32:32 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: MASTER 60MAS (6/15)
-2026-08-20 06:32:48 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - MASTER 60MAS]: MASTER 60MAS - Grupo 02 (4 atletas)
-2026-08-20 06:32:48 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - MASTER 60MAS]: MASTER 60MAS - Grupo 03 (4 atletas)
-2026-08-20 06:32:53 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: SUB-09 MAS (7/15)
-2026-08-20 06:33:07 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-09 MAS]: SUB-09 MAS - Grupo 01 (3 atletas)
-2026-08-20 06:33:07 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-09 MAS]: SUB-09 MAS - Grupo 02 (3 atletas)
-2026-08-20 06:33:07 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-09 MAS]: SUB-09 MAS - Grupo 03 (3 atletas)
-2026-08-20 06:33:07 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-09 MAS]: SUB-09 MAS - Grupo 04 (4 atletas)
-2026-08-20 06:33:12 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: SUB-11 FEM (8/15)
-2026-08-20 06:33:27 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-11 FEM]: SUB-11 FEM - Grupo 02 (4 atletas)
 2026-08-20 06:33:32 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: SUB-11 MAS (9/15)
 2026-08-20 06:33:47 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-11 MAS]: SUB-11 MAS - Grupo 01 (3 atletas)
 2026-08-20 06:33:47 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-11 MAS]: SUB-11 MAS - Grupo 03 (3 atletas)
@@ -995,6 +707,294 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 2026-08-20 10:07:49 [INFO] [upload_atmfoz.sh] ✅ Ciclo de sincronizacao concluido com sucesso!
 2026-08-20 10:07:49 [INFO] [agenda_crontab.sh] ✅ Passo 6 concluido com sucesso.
 2026-08-20 10:07:49 [INFO] [agenda_crontab.sh] ▶️ [7/7] Executando sincronizacao GitHub export (/home/emersonb/python/6_github-export.sh)...
+-------------------------------------------------------------------------
+📋 Preparando arquivos para exportação...
+📄 Extraindo as últimas 1000 linhas de /home/emersonb/python/cbtm_automacao.log...
+⚙️ Copiando config.json...
+[1/2] Criando commit...
+[main 699dc93] Sincronização e limpeza de arquivos remotos em 2026-08-20 10:07:49
+ 3 files changed, 289 insertions(+), 289 deletions(-)
+[2/2] Enviando para o GitHub (push)...
+To https://github.com/barratella/cbtmexport.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/barratella/cbtmexport.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+-------------------------------------------------------------------------
+✅ Concluído: Arquivos indesejados removidos do GitHub e mantidos na VPS!
+-------------------------------------------------------------------------
+2026-08-20 10:07:50 [INFO] [agenda_crontab.sh] ✅ Passo 7 concluido com sucesso.
+2026-08-20 10:07:50 [INFO] [agenda_crontab.sh] 🏁 Toda a sequencia foi executada e concluida perfeitamente.
+2026-08-20 10:07:50 [INFO] [agenda_crontab.sh] ==================================================
+2026-08-20 10:56:06 [INFO] [CATEGORIAS-ALL] ⚙️ Configurações carregadas (MODO READ-ONLY + METADADOS ATLETAS). 1 evento(s) localizado(s).
+2026-08-20 10:56:06 [INFO] [CATEGORIAS-ALL] 🤖 Inicializando navegador...
+2026-08-20 10:56:07 [INFO] [CATEGORIAS-ALL] patching driver executable /home/emersonb/.local/share/undetected_chromedriver/undetected_chromedriver
+2026-08-20 10:56:16 [INFO] [CATEGORIAS-ALL] ==================================================
+2026-08-20 10:56:16 [INFO] [CATEGORIAS-ALL] 🚀 Processando Evento ALL 1/1 (ID: 5997) | Chave: url_evento_1
+2026-08-20 10:56:34 [INFO] [CATEGORIAS-ALL] 🏷️ Nome do Evento no Portal: '5997 - TMB Estadual - 5ª Etapa - Guaira/PR - 2026'
+2026-08-20 10:56:34 [INFO] [CATEGORIAS-ALL] 🔄 Localizando o campo 'Selecione uma Categoria'...
+2026-08-20 10:56:38 [INFO] [CATEGORIAS-ALL] ⌨️ Digitando 'Tot:' para listar todos os atletas de todos os clubes...
+2026-08-20 10:56:46 [INFO] [CATEGORIAS-ALL] ⏳ Aguardando renderização completa dos cards na tela...
+2026-08-20 10:56:56 [INFO] [CATEGORIAS-ALL] 🔍 Extraindo cards de todos os clubes do evento 5997...
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL] ✅ Evento 5997 concluído. Categorias: 39 | Total Atletas/Inscrições: 496
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL] ==================================================
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL] 📋 RESUMO GERAL DE TODOS OS EVENTOS (COM METADADOS):
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL] 🏆 Evento ID: 5997
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • ABSOLUTO A FEM (8 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • ABSOLUTO A MAS (13 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • ABSOLUTO B MAS (4 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • ABSOLUTO C FEM (7 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • ABSOLUTO C MAS (9 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • ABSOLUTO D FEM (8 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • ABSOLUTO D MAS (21 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • ABSOLUTO E FEM (22 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • ABSOLUTO E MAS (20 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • ABSOLUTO F MAS (35 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • ABSOLUTO G MAS (68 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • ADULTO FEM (3 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • ADULTO MAS (6 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • MASTER 30FEM (3 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • MASTER 30MAS (16 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • MASTER 40FEM (3 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • MASTER 40MAS (7 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • MASTER 50FEM (3 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • MASTER 50MAS (10 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • MASTER 60FEM (6 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • MASTER 60MAS (11 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • MASTER 70FEM (5 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • MASTER 70MAS (6 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • MASTER 75MAS (5 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • SUB-07 MAS (4 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • SUB-09 FEM (7 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • SUB-09 MAS (13 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • SUB-11 FEM (8 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • SUB-11 MAS (23 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • SUB-13 FEM (12 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • SUB-13 MAS (30 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • SUB-15 FEM (11 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • SUB-15 MAS (24 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • SUB-17 FEM (12 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • SUB-17 MAS (20 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • SUB-19 FEM (9 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • SUB-19 MAS (15 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • SUB-21 FEM (4 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL]     • SUB-21 MAS (5 atleta(s))
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL] ==================================================
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL] 📁 Arquivo geral consolidado salvo em: /home/emersonb/python/export/cbtm_categorias_all.json
+2026-08-20 10:57:30 [INFO] [CATEGORIAS-ALL] 🏁 Finalizando navegador.
+2026-08-20 10:58:19 [INFO] [RESULTADOS-ALL] ⚙️ Configurações carregadas (MODO ALL RESULTADOS). PID: 269087
+2026-08-20 10:58:19 [INFO] [RESULTADOS-ALL] 🏆 Processando Resultados do Evento ID 5997 (39 categoria(s))...
+2026-08-20 10:58:19 [INFO] [RESULTADOS-ALL] 🤖 Inicializando Chrome Headless...
+2026-08-20 10:58:21 [INFO] [RESULTADOS-ALL] patching driver executable /home/emersonb/.local/share/undetected_chromedriver/undetected_chromedriver
+2026-08-20 10:58:30 [INFO] [RESULTADOS-ALL] 🌐 Navegando para o Evento (Tentativa 1/3): https://app.cbtm.org.br/IUI/App/Evento?tab=2&EVE_Evento_ID=5997
+2026-08-20 10:59:16 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: ABSOLUTO A FEM (1/39)
+2026-08-20 10:59:36 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) MELISSA  AOYAMA vs JULLY  NAGAO
+2026-08-20 10:59:36 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) VANESSA  HAYASHI vs ISABELLE  TANAKA
+2026-08-20 10:59:36 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) MARIA  MENDES vs SABRINA  MIZVA
+2026-08-20 10:59:36 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) MARIA  ALVES vs RENATA  TSUKADA
+2026-08-20 10:59:36 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) MELISSA  AOYAMA vs ISABELLE  TANAKA
+2026-08-20 10:59:36 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) VANESSA  HAYASHI vs JULLY  NAGAO
+2026-08-20 10:59:36 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) MARIA  MENDES vs RENATA  TSUKADA
+2026-08-20 10:59:36 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) MARIA  ALVES vs SABRINA  MIZVA
+2026-08-20 10:59:36 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) ISABELLE  TANAKA vs JULLY  NAGAO
+2026-08-20 10:59:36 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) MELISSA  AOYAMA vs VANESSA  HAYASHI
+2026-08-20 10:59:36 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) RENATA  TSUKADA vs SABRINA  MIZVA
+2026-08-20 10:59:36 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) MARIA  MENDES vs MARIA  ALVES
+2026-08-20 10:59:36 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) 1-1 vs 2-2
+2026-08-20 10:59:36 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) 2-1 vs 1-2
+2026-08-20 10:59:36 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) V13 vs V14
+2026-08-20 10:59:41 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: ABSOLUTO A MAS (2/39)
+2026-08-20 11:00:02 [INFO] [agenda_crontab.sh] ==================================================
+2026-08-20 11:00:02 [INFO] [agenda_crontab.sh] 🚀 Iniciando sequencia automatizada via agenda_crontab.sh...
+2026-08-20 11:00:02 [INFO] [agenda_crontab.sh] ▶️ [1/7] Executando raspagem de resultados (/home/emersonb/python/4_cbtm_resultados.sh)...
+2026-08-20 11:00:02 [INFO] [4_cbtm_resultados.sh] Criando copia de seguranca preventiva de /home/emersonb/python/export/cbtm_resultados.json para /home/emersonb/python/export/cbtm_resultados.json.bkp
+2026-08-20 11:00:02 [INFO] [4_cbtm_resultados.sh] Iniciando raspagem de resultados...
+2026-08-20 11:00:04 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) FELIPE  LARA vs ARTHUR  PIGNATTI
+2026-08-20 11:00:04 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) HOON  SHIM vs NESTOR  CHAVES
+2026-08-20 11:00:04 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) GUILHERME  RODRIGUES vs IGOR  GAVAZZONI
+2026-08-20 11:00:04 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) EGON  LOVATO vs GABRIEL  CHICUTA
+2026-08-20 11:00:04 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) EDUARDO  GRUCHOSKI vs FELIPE  BORGES
+2026-08-20 11:00:04 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) ALLEX  SAKATA vs ARTHUR  PIGNATTI
+2026-08-20 11:00:04 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) KEVIN  OLIVEIRA vs NESTOR  CHAVES
+2026-08-20 11:00:04 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) MESSIAS  SANTOS vs IGOR  GAVAZZONI
+2026-08-20 11:00:04 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) EGON  LOVATO vs FELIPE  BORGES
+2026-08-20 11:00:04 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) EDUARDO  GRUCHOSKI vs GABRIEL  CHICUTA
+2026-08-20 11:00:04 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) FELIPE  LARA vs ALLEX  SAKATA
+2026-08-20 11:00:04 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) HOON  SHIM vs KEVIN  OLIVEIRA
+2026-08-20 11:00:04 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) GUILHERME  RODRIGUES vs MESSIAS  SANTOS
+2026-08-20 11:00:04 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) FELIPE  BORGES vs GABRIEL  CHICUTA
+2026-08-20 11:00:04 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) EGON  LOVATO vs EDUARDO  GRUCHOSKI
+2026-08-20 11:00:04 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) 1-1 vs 2-2
+2026-08-20 11:00:04 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) 2-3 vs 1-4
+2026-08-20 11:00:04 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) 1-3 vs 2-4
+2026-08-20 11:00:04 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) 2-1 vs 1-2
+2026-08-20 11:00:04 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) V16 vs V17
+2026-08-20 11:00:04 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) V18 vs V19
+2026-08-20 11:00:04 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) V20 vs V21
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] Configuracoes carregadas. PID: 269774
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] Configuracoes carregadas. PID: 269774
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] Arquivo de backup encontrado em disco.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] Arquivo de backup encontrado em disco.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] Cache dentro da validade. Ultima execucao completa ha 0.9h.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] Cache dentro da validade. Ultima execucao completa ha 0.9h.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] 🏆 Processando Evento ID 5997 (15 categoria(s))...
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] 🏆 Processando Evento ID 5997 (15 categoria(s))...
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: ABSOLUTO A FEM -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: ABSOLUTO A FEM -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: ABSOLUTO D MAS -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: ABSOLUTO D MAS -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: ABSOLUTO E FEM -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: ABSOLUTO E FEM -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: ABSOLUTO F MAS -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: ABSOLUTO F MAS -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: ABSOLUTO G MAS -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: ABSOLUTO G MAS -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: MASTER 60MAS -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: MASTER 60MAS -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-09 MAS -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-09 MAS -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-11 FEM -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-11 FEM -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-11 MAS -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-11 MAS -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-13 FEM -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-13 FEM -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-13 MAS -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-13 MAS -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-15 FEM -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-15 FEM -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-17 FEM -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-17 FEM -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-17 MAS -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-17 MAS -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-19 MAS -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-19 MAS -- Apenas jogos em datas futuras.
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] Arquivo de resultados atualizado e consolidado com sucesso!
+2026-08-20 11:00:09 [INFO] [cbtm_carregar_resultados.py] Arquivo de resultados atualizado e consolidado com sucesso!
+2026-08-20 11:00:09 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: ABSOLUTO B MAS (3/39)
+2026-08-20 11:00:11 [INFO] [4_cbtm_resultados.sh] Raspagem e ciclo de resultados finalizados com sucesso.
+2026-08-20 11:00:11 [INFO] [agenda_crontab.sh] ✅ Passo 1 concluido com sucesso.
+2026-08-20 11:00:11 [INFO] [agenda_crontab.sh] ▶️ [2/7] Executando busca de dependencias extras (/home/emersonb/python/5_cbtm_extras.sh)...
+2026-08-20 11:00:11 [INFO] Iniciando resolução de dependências extras (grupos e jogos)...
+2026-08-20 11:00:16 [INFO] [EXTRAS] Carregando resultados a partir de: /home/emersonb/python/export/cbtm_resultados.json
+2026-08-20 11:00:16 [INFO] [EXTRAS] Carregando resultados a partir de: /home/emersonb/python/export/cbtm_resultados.json
+2026-08-20 11:00:16 [INFO] [EXTRAS] Pendências identificadas: 2 grupo(s), 0 jogo(s).
+2026-08-20 11:00:16 [INFO] [EXTRAS] Pendências identificadas: 2 grupo(s), 0 jogo(s).
+2026-08-20 11:00:16 [INFO] [EXTRAS] 🌐 Buscando Grupo 7 em [ABSOLUTO G MAS] (Evento ID 5997)...
+2026-08-20 11:00:16 [INFO] [EXTRAS] 🌐 Buscando Grupo 7 em [ABSOLUTO G MAS] (Evento ID 5997)...
+2026-08-20 11:00:16 [INFO] [EXTRAS] Inicializando Chrome Headless...
+2026-08-20 11:00:16 [INFO] [EXTRAS] Inicializando Chrome Headless...
+2026-08-20 11:00:19 [INFO] [EXTRAS] patching driver executable /home/emersonb/.local/share/undetected_chromedriver/undetected_chromedriver
+2026-08-20 11:00:19 [INFO] [EXTRAS] patching driver executable /home/emersonb/.local/share/undetected_chromedriver/undetected_chromedriver
+2026-08-20 11:00:39 [INFO] [EXTRAS] Navegando para: https://app.cbtm.org.br/IUI/App/Evento?tab=1&EVE_Evento_ID=5997
+2026-08-20 11:00:39 [INFO] [EXTRAS] Navegando para: https://app.cbtm.org.br/IUI/App/Evento?tab=1&EVE_Evento_ID=5997
+2026-08-20 11:00:49 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) PEDRO  TUSSET vs EDUARDO  LARA
+2026-08-20 11:00:49 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) HERNANI  NIGRIN vs EDILSON  OKAMURA
+2026-08-20 11:00:49 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) PEDRO  TUSSET vs EDILSON  OKAMURA
+2026-08-20 11:00:49 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) HERNANI  NIGRIN vs EDUARDO  LARA
+2026-08-20 11:00:49 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) EDILSON  OKAMURA vs EDUARDO  LARA
+2026-08-20 11:00:49 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) PEDRO  TUSSET vs HERNANI  NIGRIN
+2026-08-20 11:00:54 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: ABSOLUTO C FEM (4/39)
+2026-08-20 11:01:31 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) JULIA  COITO vs LETÍCIA  DOMINGUES
+2026-08-20 11:01:31 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) ROSANA  HAYASHI vs ISABELA  OLIVEIRA
+2026-08-20 11:01:31 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) JULIANA  MILLÉO vs MILENE  VASCONCELLOS
+2026-08-20 11:01:31 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) AMANDA  OLIVEIRA vs LETÍCIA  DOMINGUES
+2026-08-20 11:01:31 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) ROSANA  HAYASHI vs MILENE  VASCONCELLOS
+2026-08-20 11:01:31 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) JULIANA  MILLÉO vs ISABELA  OLIVEIRA
+2026-08-20 11:01:31 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) JULIA  COITO vs AMANDA  OLIVEIRA
+2026-08-20 11:01:31 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) MILENE  VASCONCELLOS vs ISABELA  OLIVEIRA
+2026-08-20 11:01:31 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) ROSANA  HAYASHI vs JULIANA  MILLÉO
+2026-08-20 11:01:31 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) 1-1 vs 2-2
+2026-08-20 11:01:31 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) 2-1 vs 1-2
+2026-08-20 11:01:31 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) V10 vs V11
+2026-08-20 11:01:34 [INFO] [EXTRAS] 🌐 Buscando Grupo 8 em [ABSOLUTO G MAS] (Evento ID 5997)...
+2026-08-20 11:01:34 [INFO] [EXTRAS] 🌐 Buscando Grupo 8 em [ABSOLUTO G MAS] (Evento ID 5997)...
+2026-08-20 11:01:36 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: ABSOLUTO C MAS (5/39)
+2026-08-20 11:02:01 [INFO] [EXTRAS] 📁 Grupos Extras concatenados com sucesso em: /home/emersonb/python/export/cbtm_grupos_extras.json
+2026-08-20 11:02:01 [INFO] [EXTRAS] 📁 Grupos Extras concatenados com sucesso em: /home/emersonb/python/export/cbtm_grupos_extras.json
+2026-08-20 11:02:01 [INFO] [EXTRAS] 📁 Jogos Extras salvos em: /home/emersonb/python/export/cbtm_jogos_extras.json
+2026-08-20 11:02:01 [INFO] [EXTRAS] 📁 Jogos Extras salvos em: /home/emersonb/python/export/cbtm_jogos_extras.json
+2026-08-20 11:02:04 [INFO] Processo de busca de extras finalizado. Trava liberada.
+2026-08-20 11:02:04 [INFO] [agenda_crontab.sh] ✅ Passo 2 concluido com sucesso.
+2026-08-20 11:02:04 [INFO] [agenda_crontab.sh] ▶️ [3/7] Executando processamento Telegram local (/home/emersonb/python/7_cbtm_telegram_processa.sh)...
+2026-08-20 11:02:04 [INFO] [cbtm_telegram-processa.sh] Iniciando processamento de arquivos locais (cbtm_telegram-processa.py)...
+[INFO] Iniciando processamento de arquivos locais...
+--- [1/5] Gerando Resultados Consolidados (show-all) ---
+[INFO] Backup CSV criado em: /home/emersonb/python/export/telegram-result.csv.bkp
+[INFO] Arquivo CSV gerado com sucesso em '/home/emersonb/python/export/telegram-result.csv'.
+--- [2/5] Gerando Grupos Consolidados (show-grupos) ---
+[INFO] Backup do CSV de grupos criado em: '/home/emersonb/python/export/telegram-grupos.csv.bkp'.
+[INFO] Arquivo CSV de grupos gerado com sucesso em '/home/emersonb/python/export/telegram-grupos.csv'.
+--- [3/5] Gerando Diferenças de Grupos (show-diff-grupos) ---
+[INFO] Arquivo de diferenças de grupos CSV gerado com sucesso em '/home/emersonb/python/export/telegram-grupos.csv.diff'.
+--- [4/5] Gerando Diferenças de Resultados (show-diff) ---
+[INFO] Arquivo de diferenças CSV gerado com sucesso em '/home/emersonb/python/export/telegram-result.csv.diff'.
+--- [5/5] Gerando Programação Pendente (show-prog) ---
+[INFO] Arquivo CSV de jogos pendentes gerado em '/home/emersonb/python/export/telegram-result.csv.prog'.
+[INFO] Processamento de arquivos locais concluído com sucesso!
+2026-08-20 11:02:04 [INFO] [cbtm_telegram-processa.sh] Processamento de arquivos locais concluido com sucesso!
+2026-08-20 11:02:04 [INFO] [agenda_crontab.sh] ✅ Passo 3 concluido com sucesso.
+2026-08-20 11:02:04 [INFO] [agenda_crontab.sh] ▶️ [4/7] Executando disparo de notificacoes Telegram (/home/emersonb/python/8_cbtm_telegram_envia.sh)...
+2026-08-20 11:02:04 [INFO] [8_cbtm_telegram_envia.sh] ⏭️ [SKIP] Execucao desativada no config.json ('telegram_enviar_atualizacao' != 1). Encerrando.
+2026-08-20 11:02:04 [INFO] [agenda_crontab.sh] ✅ Passo 4 concluido com sucesso.
+2026-08-20 11:02:04 [INFO] [agenda_crontab.sh] ▶️ [5/7] Executando atualizacao de rating (/home/emersonb/python/9_cbtm_rating.sh)...
+[INFO] Executando cbtm_estimar_rating.py...
+[INFO] cbtm_estimar_rating.py executado com sucesso.
+2026-08-20 11:02:04 [INFO] [agenda_crontab.sh] ✅ Passo 5 concluido com sucesso.
+2026-08-20 11:02:04 [INFO] [agenda_crontab.sh] ▶️ [6/7] Executando upload para o portal ATMFOZ (/home/emersonb/python/6_cbtm_upload_atmfoz.sh)...
+2026-08-20 11:02:05 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Resultados sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-20 11:02:05 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Categorias sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-20 11:02:05 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Grupos Base sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-20 11:02:05 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Grupos Extras sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-20 11:02:05 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Jogos Extras sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-20 11:02:05 [WARNING] [upload_atmfoz.sh] ⚠️ [IGNORADO] Resultados ALL nao encontrado em (/home/emersonb/python/export/cbtm_resultados_all.json). Prosseguindo...
+2026-08-20 11:02:05 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Categorias ALL (/home/emersonb/python/export/cbtm_categorias_all.json). Enviando via Rclone...
+2026-08-20 11:02:09 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) YAN  MORAIS vs MATHEUS  SAKURADA
+2026-08-20 11:02:09 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) LUCAS  TAVARES vs LUIZ  HARDT
+2026-08-20 11:02:09 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) RAFAEL  SAMPAIO vs BENJAMIM  SOUZA
+2026-08-20 11:02:09 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) MATHEUS  SANTOS vs MATHEUS  SAKURADA
+2026-08-20 11:02:09 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) DAVI  SILVA vs LUIZ  HARDT
+2026-08-20 11:02:09 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) BRUNO  FERREIRA vs BENJAMIM  SOUZA
+2026-08-20 11:02:09 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) YAN  MORAIS vs MATHEUS  SANTOS
+2026-08-20 11:02:09 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) LUCAS  TAVARES vs DAVI  SILVA
+2026-08-20 11:02:09 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) RAFAEL  SAMPAIO vs BRUNO  FERREIRA
+2026-08-20 11:02:09 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) 2-2 vs 2-3
+2026-08-20 11:02:09 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) 1-3 vs 2-1
+2026-08-20 11:02:09 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) 1-1 vs V10
+2026-08-20 11:02:09 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) V11 vs 1-2
+2026-08-20 11:02:09 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) V12 vs V13
+2026-08-20 11:02:14 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: ABSOLUTO D FEM (6/39)
+2026-08-20 11:02:35 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) RILLARY  SERAPHIM vs NATHÁLIA  FERNANDES
+2026-08-20 11:02:35 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) REBECA  SCHNEIDER vs ERIKA  FERREIRA
+2026-08-20 11:02:35 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) EDUARDA  AFONSO vs LUISA  BREY
+2026-08-20 11:02:35 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) ISABELLY  PASSOS vs YASMIM  ALVES
+2026-08-20 11:02:35 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) RILLARY  SERAPHIM vs ERIKA  FERREIRA
+2026-08-20 11:02:35 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) REBECA  SCHNEIDER vs NATHÁLIA  FERNANDES
+2026-08-20 11:02:35 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) EDUARDA  AFONSO vs YASMIM  ALVES
+2026-08-20 11:02:35 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) ISABELLY  PASSOS vs LUISA  BREY
+2026-08-20 11:02:35 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) ERIKA  FERREIRA vs NATHÁLIA  FERNANDES
+2026-08-20 11:02:35 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) RILLARY  SERAPHIM vs REBECA  SCHNEIDER
+2026-08-20 11:02:35 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) YASMIM  ALVES vs LUISA  BREY
+2026-08-20 11:02:35 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) EDUARDA  AFONSO vs ISABELLY  PASSOS
+2026-08-20 11:02:35 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) 1-1 vs 2-2
+2026-08-20 11:02:35 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) 2-1 vs 1-2
+2026-08-20 11:02:35 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) V13 vs V14
+2026-08-20 11:02:40 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: ABSOLUTO D MAS (7/39)
+2026-08-20 11:02:43 [INFO] [upload_atmfoz.sh] ✅ Categorias ALL enviado e controle atualizado.
+2026-08-20 11:02:43 [WARNING] [upload_atmfoz.sh] ⚠️ [IGNORADO] Programação de Mesas (mesas.csv) nao encontrado em (/home/emersonb/python/export/mesas.csv). Prosseguindo...
+2026-08-20 11:02:43 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Configuracao (config.json) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-20 11:02:43 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Export CSV (rating_simulado.csv) (/home/emersonb/python/export/rating_simulado.csv). Enviando via Rclone...
+2026-08-20 11:02:46 [INFO] [upload_atmfoz.sh] ✅ Export CSV (rating_simulado.csv) enviado e controle atualizado.
+2026-08-20 11:02:46 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (telegram-grupos.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-20 11:02:46 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (telegram-result.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-20 11:02:46 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Log de Automacao (Invertido) (/tmp/cbtm_automacao.log). Enviando via Rclone...
+2026-08-20 11:02:49 [INFO] [upload_atmfoz.sh] ✅ Log de Automacao (Invertido) enviado e controle atualizado.
+2026-08-20 11:02:49 [INFO] [upload_atmfoz.sh] ✅ Ciclo de sincronizacao concluido com sucesso!
+2026-08-20 11:02:50 [INFO] [agenda_crontab.sh] ✅ Passo 6 concluido com sucesso.
+2026-08-20 11:02:50 [INFO] [agenda_crontab.sh] ▶️ [7/7] Executando sincronizacao GitHub export (/home/emersonb/python/6_github-export.sh)...
 -------------------------------------------------------------------------
 📋 Preparando arquivos para exportação...
 📄 Extraindo as últimas 1000 linhas de /home/emersonb/python/cbtm_automacao.log...
