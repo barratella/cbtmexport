@@ -35,7 +35,7 @@
   "telegram_result": "/home/emersonb/python/export/telegram-result.txt",
   "telegram_result_file_csv": "/home/emersonb/python/export/telegram-result.csv",
   "telegram_grupos.csv": "/home/emersonb/python/export/telegram-grupos.csv",
-  "telegram_app_url": "https://atmfoz-rating.ai.studio/",
+  "telegram_app_url": "https://atmfoz.ai.studio/",
   "telegram_enviar_atualizacao_grupos": 0,
   "telegram_enviar_atualizacao": 0,
   "telegram_modo_resposta": "grupo",
