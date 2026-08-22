@@ -53,17 +53,29 @@
         "ABSOLUTO D MAS": [
             {
                 "fase": "ABSOLUTO D MAS - Grupo 06",
-                "placar_geral": "Agendado",
+                "placar_geral": "1-3",
                 "info_mesa": "Jogo 006 - Mesa 19 - 08:30",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "ALAN  GONÇALVES",
-                        "sets": []
+                        "sets": [
+                            "1",
+                            "11",
+                            "5",
+                            "4",
+                            "3"
+                        ]
                     },
                     {
                         "nome": "MATHEUS  GOMES",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "6",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     }
                 ]
             },
@@ -121,17 +133,27 @@
         "ABSOLUTO F MAS": [
             {
                 "fase": "ABSOLUTO F MAS - Grupo 10",
-                "placar_geral": "Agendado",
+                "placar_geral": "0-3",
                 "info_mesa": "Jogo 010 - Mesa 22 - 08:55",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "LAM  FAI",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "4",
+                            "6",
+                            "9"
+                        ]
                     },
                     {
                         "nome": "EMANUEL  MAINGUE",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     }
                 ]
             },
@@ -187,33 +209,57 @@
         "ABSOLUTO G MAS": [
             {
                 "fase": "ABSOLUTO G MAS - Grupo 04",
-                "placar_geral": "Agendado",
+                "placar_geral": "1-3",
                 "info_mesa": "Jogo 004 - Mesa 4 - 08:30",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "EDGAR  JUNIOR",
-                        "sets": []
+                        "sets": [
+                            "1",
+                            "9",
+                            "11",
+                            "4",
+                            "6"
+                        ]
                     },
                     {
                         "nome": "DAVI  NOVAES",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "8",
+                            "11",
+                            "11"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "ABSOLUTO G MAS - Grupo 10",
-                "placar_geral": "Agendado",
+                "placar_geral": "1-3",
                 "info_mesa": "Jogo 011 - Mesa 11 - 08:30",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "IAN  JUNIOR",
-                        "sets": []
+                        "sets": [
+                            "1",
+                            "11",
+                            "4",
+                            "5",
+                            "3"
+                        ]
                     },
                     {
                         "nome": "MARLOM  SCHMITT",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "9",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     }
                 ]
             },
