@@ -625,33 +625,53 @@
         "MASTER 60MAS": [
             {
                 "fase": "MASTER 60MAS - Grupo 02",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 003 - Mesa 14 - 13:55",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "CLAUDIO  IURCK",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "DOMINGO  FERNANDEZ",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "5",
+                            "5",
+                            "6"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "MASTER 60MAS - Grupo 03",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 005 - Mesa 16 - 13:55",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "BENJAMIM  TAKATSUKI",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "12",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "MARCIO  WATANABE",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "10",
+                            "5",
+                            "6"
+                        ]
                     }
                 ]
             },
