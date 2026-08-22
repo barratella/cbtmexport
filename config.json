@@ -27,7 +27,7 @@
   "tempo_espera_categorias_segundos": 5,
   "tempo_expiracao_completa_horas": 1,
   "destino_drive": "gdrive:Backup_VPS/ATMFOZ/upload",
-  "ultima_execucao_completa": "2026-08-22 14:17:00",
+  "ultima_execucao_completa": "2026-08-22 15:26:15",
   "url_rating": "https://app.cbtm.org.br/iUI/Site/RatingResultadoDetalhe?Rating=X&Associado=00000&Colocacao=0&Pontos=0",
   "telegram_chat_id_teste": "-1003502214058",
   "telegram_chat_id": "-1004398862397",
