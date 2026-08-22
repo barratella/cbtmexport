@@ -1251,8 +1251,34 @@
             },
             {
                 "fase": "SUB-13 FEM - Grupo 01",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 009 - Mesa 13 - 16:00",
+                "data": "22/08/2026",
+                "competidores": [
+                    {
+                        "nome": "NIVIN  ABDALLAH",
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
+                    },
+                    {
+                        "nome": "MANUELA  DOI",
+                        "sets": [
+                            "0",
+                            "5",
+                            "4",
+                            "3"
+                        ]
+                    }
+                ]
+            },
+            {
+                "fase": "SUB-13 FEM - Quartas de Final",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 013 - Mesa 1 - 17:15",
                 "data": "22/08/2026",
                 "competidores": [
                     {
@@ -1260,7 +1286,7 @@
                         "sets": []
                     },
                     {
-                        "nome": "MANUELA  DOI",
+                        "nome": "REBECA  AFONSO",
                         "sets": []
                     }
                 ]
@@ -1325,12 +1351,42 @@
             },
             {
                 "fase": "SUB-13 MAS - Fase 16",
-                "placar_geral": "Agendado",
+                "placar_geral": "2-3",
                 "info_mesa": "Jogo 033 - Mesa 3 - 15:35",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "HENRIQUE  KUMAGAI",
+                        "sets": [
+                            "2",
+                            "11",
+                            "11",
+                            "9",
+                            "6",
+                            "10"
+                        ]
+                    },
+                    {
+                        "nome": "MANSUR  JOMAA",
+                        "sets": [
+                            "3",
+                            "9",
+                            "7",
+                            "11",
+                            "11",
+                            "12"
+                        ]
+                    }
+                ]
+            },
+            {
+                "fase": "SUB-13 MAS - Oitavas de Final",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 039 - Mesa 5 - 16:50",
+                "data": "22/08/2026",
+                "competidores": [
+                    {
+                        "nome": "DAVI  MATTOS",
                         "sets": []
                     },
                     {
