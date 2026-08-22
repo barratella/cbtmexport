@@ -197,17 +197,27 @@
             },
             {
                 "fase": "ABSOLUTO F MAS - Grupo 02",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 026 - Mesa 14 - 11:25",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "DANIEL  VAZ",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "12",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "LEONARDO  RAMIREZ",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "7",
+                            "10",
+                            "7"
+                        ]
                     }
                 ]
             },
@@ -234,6 +244,22 @@
                             "11",
                             "11"
                         ]
+                    }
+                ]
+            },
+            {
+                "fase": "ABSOLUTO F MAS - Fase 16",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 037 - Mesa 23 - 12:15",
+                "data": "22/08/2026",
+                "competidores": [
+                    {
+                        "nome": "LEONARDO  RAMIREZ",
+                        "sets": []
+                    },
+                    {
+                        "nome": "2-7",
+                        "sets": []
                     }
                 ]
             }

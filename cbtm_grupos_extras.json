@@ -109,6 +109,34 @@
                     }
                 ]
             }
+        ],
+        "ABSOLUTO F MAS": [
+            {
+                "grupo": "ABSOLUTO F MAS - Grupo 07",
+                "integrantes": [
+                    {
+                        "posicao": "1",
+                        "nome": "Samuel ZILIO",
+                        "pt_rak": "1800",
+                        "pt_rat": "534",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "2",
+                        "nome": "Willian OLIVEIRA",
+                        "pt_rak": "900",
+                        "pt_rat": "446",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "3",
+                        "nome": "Caio BONI",
+                        "pt_rak": "100",
+                        "pt_rat": "362",
+                        "status": ""
+                    }
+                ]
+            }
         ]
     }
 }
