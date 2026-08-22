@@ -40,24 +40,24 @@
                 "grupo": "ABSOLUTO D MAS - Grupo 06",
                 "integrantes": [
                     {
-                        "posicao": "",
+                        "posicao": "1",
+                        "nome": "Matheus GOMES",
+                        "pt_rak": "400",
+                        "pt_rat": "980",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "2",
                         "nome": "Alan GONÇALVES",
                         "pt_rak": "3100",
                         "pt_rat": "1059",
                         "status": ""
                     },
                     {
-                        "posicao": "",
+                        "posicao": "3",
                         "nome": "Gabriel SENNA",
                         "pt_rak": "1990",
                         "pt_rat": "1234",
-                        "status": ""
-                    },
-                    {
-                        "posicao": "",
-                        "nome": "Matheus GOMES",
-                        "pt_rak": "400",
-                        "pt_rat": "980",
                         "status": ""
                     }
                 ]
@@ -96,24 +96,24 @@
                 "grupo": "ABSOLUTO F MAS - Grupo 02",
                 "integrantes": [
                     {
-                        "posicao": "",
+                        "posicao": "1",
                         "nome": "Daniel VAZ",
                         "pt_rak": "2800",
                         "pt_rat": "445",
                         "status": ""
                     },
                     {
-                        "posicao": "",
-                        "nome": "Leonardo RAMIREZ",
-                        "pt_rak": "515",
-                        "pt_rat": "364",
-                        "status": ""
-                    },
-                    {
-                        "posicao": "",
+                        "posicao": "2",
                         "nome": "Jandi BARBOSA",
                         "pt_rak": "410",
                         "pt_rat": "417",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "3",
+                        "nome": "Leonardo RAMIREZ",
+                        "pt_rak": "515",
+                        "pt_rat": "364",
                         "status": ""
                     }
                 ]
@@ -122,24 +122,24 @@
                 "grupo": "ABSOLUTO F MAS - Grupo 10",
                 "integrantes": [
                     {
-                        "posicao": "",
+                        "posicao": "1",
+                        "nome": "Emanuel MAINGUE",
+                        "pt_rak": "0",
+                        "pt_rat": "479",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "2",
                         "nome": "Lam FAI",
                         "pt_rak": "1495",
                         "pt_rat": "410",
                         "status": ""
                     },
                     {
-                        "posicao": "",
+                        "posicao": "3",
                         "nome": "André WELCOFF",
                         "pt_rak": "920",
                         "pt_rat": "419",
-                        "status": ""
-                    },
-                    {
-                        "posicao": "",
-                        "nome": "Emanuel MAINGUE",
-                        "pt_rak": "0",
-                        "pt_rat": "479",
                         "status": ""
                     }
                 ]
@@ -150,24 +150,24 @@
                 "grupo": "ABSOLUTO G MAS - Grupo 04",
                 "integrantes": [
                     {
-                        "posicao": "",
+                        "posicao": "1",
+                        "nome": "Davi NOVAES",
+                        "pt_rak": "0",
+                        "pt_rat": "250",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "2",
                         "nome": "Edgar JUNIOR",
                         "pt_rak": "300",
                         "pt_rat": "187",
                         "status": ""
                     },
                     {
-                        "posicao": "",
+                        "posicao": "3",
                         "nome": "Felipe RIBEIRO",
                         "pt_rak": "100",
                         "pt_rat": "202",
-                        "status": ""
-                    },
-                    {
-                        "posicao": "",
-                        "nome": "Davi NOVAES",
-                        "pt_rak": "0",
-                        "pt_rat": "250",
                         "status": ""
                     }
                 ]
@@ -176,31 +176,31 @@
                 "grupo": "ABSOLUTO G MAS - Grupo 10",
                 "integrantes": [
                     {
-                        "posicao": "",
-                        "nome": "Matheus SILVEIRA",
-                        "pt_rak": "200",
-                        "pt_rat": "208",
-                        "status": ""
-                    },
-                    {
-                        "posicao": "",
-                        "nome": "Ian JUNIOR",
-                        "pt_rak": "100",
-                        "pt_rat": "256",
-                        "status": ""
-                    },
-                    {
-                        "posicao": "",
+                        "posicao": "1",
                         "nome": "Marlom SCHMITT",
                         "pt_rak": "0",
                         "pt_rat": "249",
                         "status": ""
                     },
                     {
-                        "posicao": "",
+                        "posicao": "2",
                         "nome": "Davi MARCARINI",
                         "pt_rak": "0",
                         "pt_rat": "21",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "3",
+                        "nome": "Ian JUNIOR",
+                        "pt_rak": "100",
+                        "pt_rat": "256",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "4",
+                        "nome": "Matheus SILVEIRA",
+                        "pt_rak": "200",
+                        "pt_rat": "208",
                         "status": ""
                     }
                 ]
@@ -568,24 +568,24 @@
                 "grupo": "SUB-13 MAS - Grupo 08",
                 "integrantes": [
                     {
-                        "posicao": "",
+                        "posicao": "1",
                         "nome": "Arthur KADLUBISKI",
                         "pt_rak": "5500",
                         "pt_rat": "994",
                         "status": ""
                     },
                     {
-                        "posicao": "",
-                        "nome": "Mansur JOMAA",
-                        "pt_rak": "2755",
-                        "pt_rat": "583",
-                        "status": ""
-                    },
-                    {
-                        "posicao": "",
+                        "posicao": "2",
                         "nome": "Renato FILHO",
                         "pt_rak": "0",
                         "pt_rat": "250",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "3",
+                        "nome": "Mansur JOMAA",
+                        "pt_rak": "2755",
+                        "pt_rat": "583",
                         "status": ""
                     }
                 ]
@@ -690,24 +690,24 @@
                 "grupo": "SUB-17 FEM - Grupo 01",
                 "integrantes": [
                     {
-                        "posicao": "",
+                        "posicao": "1",
                         "nome": "Emanuelly SANTOS",
                         "pt_rak": "62400",
                         "pt_rat": "3736",
                         "status": ""
                     },
                     {
-                        "posicao": "",
-                        "nome": "Nihan ABDALLAH",
-                        "pt_rak": "7500",
-                        "pt_rat": "1940",
-                        "status": ""
-                    },
-                    {
-                        "posicao": "",
+                        "posicao": "2",
                         "nome": "Isabela HAAB",
                         "pt_rak": "3700",
                         "pt_rat": "846",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "3",
+                        "nome": "Nihan ABDALLAH",
+                        "pt_rak": "7500",
+                        "pt_rat": "1940",
                         "status": ""
                     }
                 ]
@@ -716,24 +716,24 @@
                 "grupo": "SUB-17 FEM - Grupo 02",
                 "integrantes": [
                     {
-                        "posicao": "",
+                        "posicao": "1",
                         "nome": "Yasmin SÁ",
                         "pt_rak": "26400",
                         "pt_rat": "3022",
                         "status": ""
                     },
                     {
-                        "posicao": "",
-                        "nome": "Eloah PRADO",
-                        "pt_rak": "4300",
-                        "pt_rat": "1908",
-                        "status": ""
-                    },
-                    {
-                        "posicao": "",
+                        "posicao": "2",
                         "nome": "Ana BRAGA",
                         "pt_rak": "3000",
                         "pt_rat": "1482",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "3",
+                        "nome": "Eloah PRADO",
+                        "pt_rak": "4300",
+                        "pt_rat": "1908",
                         "status": ""
                     }
                 ]
