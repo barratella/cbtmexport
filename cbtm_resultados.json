@@ -939,17 +939,27 @@
         "SUB-17 FEM": [
             {
                 "fase": "SUB-17 FEM - Grupo 02",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 002 - Mesa 22 - 08:30",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "YASMIN  SÁ",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "ANA  BRAGA",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "5",
+                            "8",
+                            "5"
+                        ]
                     }
                 ]
             },
