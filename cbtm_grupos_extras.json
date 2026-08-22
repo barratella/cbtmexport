@@ -53,6 +53,34 @@
                     }
                 ]
             }
+        ],
+        "SUB-17 FEM": [
+            {
+                "grupo": "SUB-17 FEM - Grupo 01",
+                "integrantes": [
+                    {
+                        "posicao": "1",
+                        "nome": "Emanuelly SANTOS",
+                        "pt_rak": "62400",
+                        "pt_rat": "3736",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "2",
+                        "nome": "Nihan ABDALLAH",
+                        "pt_rak": "7500",
+                        "pt_rat": "1940",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "3",
+                        "nome": "Isabela HAAB",
+                        "pt_rak": "3700",
+                        "pt_rat": "846",
+                        "status": ""
+                    }
+                ]
+            }
         ]
     }
 }
