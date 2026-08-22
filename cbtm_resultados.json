@@ -2015,17 +2015,27 @@
             },
             {
                 "fase": "SUB-17 MAS - Quartas de Final",
-                "placar_geral": "Agendado",
+                "placar_geral": "0-3",
                 "info_mesa": "Jogo 031 - Mesa 23 - 17:40",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "RICCARDO  MACIEL",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "5",
+                            "7",
+                            "10"
+                        ]
                     },
                     {
                         "nome": "MATHEUS  LESME",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "12"
+                        ]
                     }
                 ]
             }
