@@ -81,17 +81,31 @@
             },
             {
                 "fase": "ABSOLUTO D MAS - Grupo 06",
-                "placar_geral": "Agendado",
+                "placar_geral": "2-3",
                 "info_mesa": "Jogo 020 - Mesa 19 - 11:00",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "ALAN  GONÇALVES",
-                        "sets": []
+                        "sets": [
+                            "2",
+                            "8",
+                            "11",
+                            "5",
+                            "12",
+                            "10"
+                        ]
                     },
                     {
                         "nome": "GABRIEL  SENNA",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "9",
+                            "11",
+                            "10",
+                            "12"
+                        ]
                     }
                 ]
             }
@@ -125,16 +139,42 @@
             },
             {
                 "fase": "ABSOLUTO E FEM - Grupo 02",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 018 - Mesa 10 - 11:50",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "ISADHORA  FERREIRA",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "YUMI  SOUZA",
+                        "sets": [
+                            "0",
+                            "5",
+                            "8",
+                            "4"
+                        ]
+                    }
+                ]
+            },
+            {
+                "fase": "ABSOLUTO E FEM - Oitavas de Final",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 025 - Mesa 17 - 14:20",
+                "data": "22/08/2026",
+                "competidores": [
+                    {
+                        "nome": "YUMI  SOUZA",
+                        "sets": []
+                    },
+                    {
+                        "nome": "KAMILY  ZANATTA",
                         "sets": []
                     }
                 ]
@@ -258,7 +298,7 @@
                         "sets": []
                     },
                     {
-                        "nome": "2-7",
+                        "nome": "SAMUEL  ZILIO",
                         "sets": []
                     }
                 ]
