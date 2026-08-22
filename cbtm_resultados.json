@@ -1061,17 +1061,27 @@
         "SUB-17 MAS": [
             {
                 "fase": "SUB-17 MAS - Grupo 04",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 004 - Mesa 20 - 09:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "CAUÃ  KNACK",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "OTÁVIO  IENERICH",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "7",
+                            "5",
+                            "5"
+                        ]
                     }
                 ]
             },
