@@ -1257,17 +1257,27 @@
             },
             {
                 "fase": "SUB-09 MAS - Semi Final",
-                "placar_geral": "Agendado",
+                "placar_geral": "0-3",
                 "info_mesa": "Jogo 021 - Mesa 19 - 18:55",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "MARTIM  AMARAL",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "9",
+                            "5",
+                            "8"
+                        ]
                     },
                     {
                         "nome": "GABRIEL  NARDI",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     }
                 ]
             }
