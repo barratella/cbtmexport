@@ -3,17 +3,27 @@
         "ABSOLUTO A FEM": [
             {
                 "fase": "ABSOLUTO A FEM - Grupo 02",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 003 - Mesa 8 - 13:30",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "MARIA  MENDES",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "SABRINA  MIZVA",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "7",
+                            "9",
+                            "3"
+                        ]
                     }
                 ]
             },
@@ -174,7 +184,7 @@
                         "sets": []
                     },
                     {
-                        "nome": "KAMILY  ZANATTA",
+                        "nome": "ROSANA  OHASHI",
                         "sets": []
                     }
                 ]
@@ -713,33 +723,53 @@
         "SUB-09 MAS": [
             {
                 "fase": "SUB-09 MAS - Grupo 03",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 003 - Mesa 19 - 13:30",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "MARTIM  AMARAL",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "12",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "DANIEL  MELO",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "1",
+                            "10",
+                            "5"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "SUB-09 MAS - Grupo 04",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 005 - Mesa 21 - 13:30",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "HEITOR  MELLO",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "MIGUEL  SOUZA",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "4",
+                            "7",
+                            "2"
+                        ]
                     }
                 ]
             },
@@ -1055,17 +1085,27 @@
         "SUB-13 FEM": [
             {
                 "fase": "SUB-13 FEM - Grupo 01",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 001 - Mesa 13 - 13:30",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "NIVIN  ABDALLAH",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "MARIANA  CAMARGO",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "2",
+                            "8",
+                            "3"
+                        ]
                     }
                 ]
             },
