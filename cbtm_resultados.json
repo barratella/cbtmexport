@@ -1383,16 +1383,44 @@
             },
             {
                 "fase": "SUB-17 MAS - Grupo 04",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-1",
                 "info_mesa": "Jogo 020 - Mesa 20 - 11:50",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "CAUÃ  KNACK",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "9",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "GUSTAVO  KANASHIRO",
+                        "sets": [
+                            "1",
+                            "8",
+                            "7",
+                            "11",
+                            "0"
+                        ]
+                    }
+                ]
+            },
+            {
+                "fase": "SUB-17 MAS - Quartas de Final",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 030 - Mesa 22 - 17:40",
+                "data": "22/08/2026",
+                "competidores": [
+                    {
+                        "nome": "V26",
+                        "sets": []
+                    },
+                    {
+                        "nome": "CAUÃ  KNACK",
                         "sets": []
                     }
                 ]

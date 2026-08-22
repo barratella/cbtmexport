@@ -137,6 +137,34 @@
                     }
                 ]
             }
+        ],
+        "SUB-17 MAS": [
+            {
+                "grupo": "SUB-17 MAS - Grupo 03",
+                "integrantes": [
+                    {
+                        "posicao": "1",
+                        "nome": "Cauã MATHEUS",
+                        "pt_rak": "2000",
+                        "pt_rat": "1216",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "2",
+                        "nome": "Matheus JACUMASSO",
+                        "pt_rak": "9400",
+                        "pt_rat": "1625",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "3",
+                        "nome": "Riccardo MACIEL",
+                        "pt_rak": "3800",
+                        "pt_rat": "1363",
+                        "status": ""
+                    }
+                ]
+            }
         ]
     }
 }

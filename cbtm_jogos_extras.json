@@ -1,1 +1,22 @@
-{}
+{
+    "5997": {
+        "SUB-17 MAS": [
+            {
+                "fase": "SUB-17 MAS - Oitavas de Final",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 026 - Mesa 18 - 15:10",
+                "data": "22/08/2026",
+                "competidores": [
+                    {
+                        "nome": "FABRICIO  MARIN",
+                        "sets": []
+                    },
+                    {
+                        "nome": "2-3",
+                        "sets": []
+                    }
+                ]
+            }
+        ]
+    }
+}
