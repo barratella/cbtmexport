@@ -393,17 +393,29 @@
             },
             {
                 "fase": "ABSOLUTO F MAS - Oitavas de Final",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-1",
                 "info_mesa": "Jogo 043 - Mesa 9 - 16:50",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "RAPHAEL  SOUZA",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "13",
+                            "7",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "LEONARDO  RAMIREZ",
-                        "sets": []
+                        "sets": [
+                            "1",
+                            "11",
+                            "11",
+                            "3",
+                            "4"
+                        ]
                     }
                 ]
             }
