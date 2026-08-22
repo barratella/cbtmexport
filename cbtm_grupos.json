@@ -5,28 +5,28 @@
                 "grupo": "ABSOLUTO A FEM - Grupo 02",
                 "integrantes": [
                     {
-                        "posicao": "",
+                        "posicao": "1",
                         "nome": "Maria MENDES",
                         "pt_rak": "11910",
                         "pt_rat": "3260",
                         "status": ""
                     },
                     {
-                        "posicao": "",
+                        "posicao": "2",
                         "nome": "Maria ALVES",
                         "pt_rak": "7720",
                         "pt_rat": "2849",
                         "status": ""
                     },
                     {
-                        "posicao": "",
+                        "posicao": "3",
                         "nome": "Renata TSUKADA",
                         "pt_rak": "1720",
                         "pt_rat": "1803",
                         "status": ""
                     },
                     {
-                        "posicao": "",
+                        "posicao": "4",
                         "nome": "Sabrina MIZVA",
                         "pt_rak": "1300",
                         "pt_rat": "2090",
@@ -211,31 +211,31 @@
                 "grupo": "MASTER 60MAS - Grupo 02",
                 "integrantes": [
                     {
-                        "posicao": "",
+                        "posicao": "1",
                         "nome": "Olides JÚNIOR",
                         "pt_rak": "20100",
                         "pt_rat": "1436",
                         "status": ""
                     },
                     {
-                        "posicao": "",
+                        "posicao": "2",
                         "nome": "Claudio IURCK",
                         "pt_rak": "3840",
                         "pt_rat": "1072",
                         "status": ""
                     },
                     {
-                        "posicao": "",
-                        "nome": "Domingo FERNANDEZ",
-                        "pt_rak": "10",
-                        "pt_rat": "545",
-                        "status": ""
-                    },
-                    {
-                        "posicao": "",
+                        "posicao": "3",
                         "nome": "Walter JUNIOR",
                         "pt_rak": "0",
                         "pt_rat": "232",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "4",
+                        "nome": "Domingo FERNANDEZ",
+                        "pt_rak": "10",
+                        "pt_rat": "545",
                         "status": ""
                     }
                 ]
@@ -244,31 +244,31 @@
                 "grupo": "MASTER 60MAS - Grupo 03",
                 "integrantes": [
                     {
-                        "posicao": "",
-                        "nome": "Sílvio ALBUQUERQUE",
-                        "pt_rak": "16000",
-                        "pt_rat": "1202",
-                        "status": ""
-                    },
-                    {
-                        "posicao": "",
+                        "posicao": "1",
                         "nome": "Benjamim TAKATSUKI",
                         "pt_rak": "4210",
                         "pt_rat": "1004",
                         "status": ""
                     },
                     {
-                        "posicao": "",
-                        "nome": "Marcio WATANABE",
-                        "pt_rak": "10",
-                        "pt_rat": "242",
+                        "posicao": "2",
+                        "nome": "Sílvio ALBUQUERQUE",
+                        "pt_rak": "16000",
+                        "pt_rat": "1202",
                         "status": ""
                     },
                     {
-                        "posicao": "",
+                        "posicao": "3",
                         "nome": "José DEZIE",
                         "pt_rak": "0",
                         "pt_rat": "911",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "4",
+                        "nome": "Marcio WATANABE",
+                        "pt_rak": "10",
+                        "pt_rat": "242",
                         "status": ""
                     }
                 ]
@@ -279,24 +279,24 @@
                 "grupo": "SUB-09 MAS - Grupo 01",
                 "integrantes": [
                     {
-                        "posicao": "",
+                        "posicao": "1",
                         "nome": "Gabriel NARDI",
                         "pt_rak": "18010",
                         "pt_rat": "656",
                         "status": ""
                     },
                     {
-                        "posicao": "",
-                        "nome": "Joaquim MANTOVANI",
-                        "pt_rak": "2400",
-                        "pt_rat": "316",
-                        "status": ""
-                    },
-                    {
-                        "posicao": "",
+                        "posicao": "2",
                         "nome": "Joaquim PRADO",
                         "pt_rak": "2000",
                         "pt_rat": "232",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "3",
+                        "nome": "Joaquim MANTOVANI",
+                        "pt_rak": "2400",
+                        "pt_rat": "316",
                         "status": ""
                     }
                 ]
@@ -305,24 +305,24 @@
                 "grupo": "SUB-09 MAS - Grupo 02",
                 "integrantes": [
                     {
-                        "posicao": "",
+                        "posicao": "1",
                         "nome": "Alexandre GLIZT",
                         "pt_rak": "9800",
                         "pt_rat": "312",
                         "status": ""
                     },
                     {
-                        "posicao": "",
-                        "nome": "Ítalo RAMIREZ",
-                        "pt_rak": "4295",
-                        "pt_rat": "59",
-                        "status": ""
-                    },
-                    {
-                        "posicao": "",
+                        "posicao": "2",
                         "nome": "Arthur LIMA",
                         "pt_rak": "0",
                         "pt_rat": "250",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "3",
+                        "nome": "Ítalo RAMIREZ",
+                        "pt_rak": "4295",
+                        "pt_rat": "59",
                         "status": ""
                     }
                 ]
@@ -331,24 +331,24 @@
                 "grupo": "SUB-09 MAS - Grupo 03",
                 "integrantes": [
                     {
-                        "posicao": "",
+                        "posicao": "1",
                         "nome": "Martim AMARAL",
                         "pt_rak": "8700",
                         "pt_rat": "316",
                         "status": ""
                     },
                     {
-                        "posicao": "",
-                        "nome": "Henrique ITO",
-                        "pt_rak": "5900",
-                        "pt_rat": "212",
-                        "status": ""
-                    },
-                    {
-                        "posicao": "",
+                        "posicao": "2",
                         "nome": "Daniel MELO",
                         "pt_rak": "410",
                         "pt_rat": "93",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "3",
+                        "nome": "Henrique ITO",
+                        "pt_rak": "5900",
+                        "pt_rat": "212",
                         "status": ""
                     }
                 ]
@@ -357,31 +357,31 @@
                 "grupo": "SUB-09 MAS - Grupo 04",
                 "integrantes": [
                     {
-                        "posicao": "",
+                        "posicao": "1",
                         "nome": "Cristoffer VIEIRA",
                         "pt_rak": "6350",
                         "pt_rat": "444",
                         "status": ""
                     },
                     {
-                        "posicao": "",
+                        "posicao": "2",
                         "nome": "Heitor MELLO",
                         "pt_rak": "6010",
                         "pt_rat": "410",
                         "status": ""
                     },
                     {
-                        "posicao": "",
-                        "nome": "Miguel SOUZA",
-                        "pt_rak": "1200",
-                        "pt_rat": "113",
-                        "status": ""
-                    },
-                    {
-                        "posicao": "",
+                        "posicao": "3",
                         "nome": "Matias BARBOSA",
                         "pt_rak": "1700",
                         "pt_rat": "328",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "4",
+                        "nome": "Miguel SOUZA",
+                        "pt_rak": "1200",
+                        "pt_rat": "113",
                         "status": ""
                     }
                 ]
@@ -540,24 +540,24 @@
                 "grupo": "SUB-13 FEM - Grupo 01",
                 "integrantes": [
                     {
-                        "posicao": "",
+                        "posicao": "1",
                         "nome": "Nivin ABDALLAH",
                         "pt_rak": "41800",
                         "pt_rat": "2664",
                         "status": ""
                     },
                     {
-                        "posicao": "",
-                        "nome": "Manuela DOI",
-                        "pt_rak": "1400",
-                        "pt_rat": "336",
-                        "status": ""
-                    },
-                    {
-                        "posicao": "",
+                        "posicao": "2",
                         "nome": "Mariana CAMARGO",
                         "pt_rak": "310",
                         "pt_rat": "446",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "3",
+                        "nome": "Manuela DOI",
+                        "pt_rak": "1400",
+                        "pt_rat": "336",
                         "status": ""
                     }
                 ]
