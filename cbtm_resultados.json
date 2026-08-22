@@ -1105,17 +1105,27 @@
             },
             {
                 "fase": "SUB-17 FEM - Grupo 01",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 009 - Mesa 21 - 11:00",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "EMANUELLY  SANTOS",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "14"
+                        ]
                     },
                     {
                         "nome": "NIHAN  ABDALLAH",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "6",
+                            "5",
+                            "12"
+                        ]
                     }
                 ]
             },
@@ -1156,7 +1166,7 @@
                         "sets": []
                     },
                     {
-                        "nome": "2-1",
+                        "nome": "NIHAN  ABDALLAH",
                         "sets": []
                     }
                 ]
