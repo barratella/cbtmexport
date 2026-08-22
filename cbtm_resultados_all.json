@@ -2007,129 +2007,213 @@
         "ABSOLUTO E FEM": [
             {
                 "fase": "ABSOLUTO E FEM - Grupo 01",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 001 - Mesa 9 - 09:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "ÉVELIN  LEMES",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "12",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "LAURA  MAROZ",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "10",
+                            "9",
+                            "8"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "ABSOLUTO E FEM - Grupo 02",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 002 - Mesa 10 - 09:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "ISADHORA  FERREIRA",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "ANA  VITO",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "5",
+                            "2",
+                            "4"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "ABSOLUTO E FEM - Grupo 03",
-                "placar_geral": "Agendado",
+                "placar_geral": "0-3",
                 "info_mesa": "Jogo 003 - Mesa 11 - 09:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "CAROLIN  BERTHOLDI",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "0",
+                            "0",
+                            "0"
+                        ]
                     },
                     {
                         "nome": "BIANCA  ALVES",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "ABSOLUTO E FEM - Grupo 04",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-2",
                 "info_mesa": "Jogo 004 - Mesa 12 - 09:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "LAVINIA  GUSSO",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "7",
+                            "9",
+                            "12",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "NICOLY  FERNANDES",
-                        "sets": []
+                        "sets": [
+                            "2",
+                            "11",
+                            "11",
+                            "10",
+                            "5",
+                            "6"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "ABSOLUTO E FEM - Grupo 05",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 005 - Mesa 13 - 09:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "MARCELA  KAWANO",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "12"
+                        ]
                     },
                     {
                         "nome": "LAURA  SOUZA",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "5",
+                            "7",
+                            "10"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "ABSOLUTO E FEM - Grupo 06",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 006 - Mesa 14 - 09:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "LIZ  OKUZONO",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "MARIA  MAIA",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "3",
+                            "8",
+                            "7"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "ABSOLUTO E FEM - Grupo 07",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 007 - Mesa 15 - 09:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "KAMILY  ZANATTA",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "ROSANA  OHASHI",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "1",
+                            "4",
+                            "1"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "ABSOLUTO E FEM - Grupo 07",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 008 - Mesa 16 - 09:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "ALICE  BLANCO",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "ANA  MAIA",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "0",
+                            "0",
+                            "0"
+                        ]
                     }
                 ]
             },
@@ -2601,129 +2685,225 @@
         "ABSOLUTO E MAS": [
             {
                 "fase": "ABSOLUTO E MAS - Grupo 01",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 001 - Mesa 1 - 09:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "RAFAEL  SANTOS",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "RAVI  BERTHOLDI",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "0",
+                            "0",
+                            "0"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "ABSOLUTO E MAS - Grupo 02",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 002 - Mesa 2 - 09:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "JOÃO  ITARUCZAK",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "THIAGO  WOLSKI",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "9",
+                            "2",
+                            "4"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "ABSOLUTO E MAS - Grupo 03",
-                "placar_geral": "Agendado",
+                "placar_geral": "1-3",
                 "info_mesa": "Jogo 003 - Mesa 3 - 09:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "LEANDRO  FILHO",
-                        "sets": []
+                        "sets": [
+                            "1",
+                            "9",
+                            "9",
+                            "11",
+                            "7"
+                        ]
                     },
                     {
                         "nome": "JOÃO  GONÇALVES",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "3",
+                            "11"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "ABSOLUTO E MAS - Grupo 04",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-2",
                 "info_mesa": "Jogo 004 - Mesa 4 - 09:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "ENZO  KADLUBISKI",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "8",
+                            "4",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "LEANDRO  SILVA",
-                        "sets": []
+                        "sets": [
+                            "2",
+                            "11",
+                            "11",
+                            "9",
+                            "3",
+                            "9"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "ABSOLUTO E MAS - Grupo 05",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 005 - Mesa 5 - 09:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "ALESANDRO  WOLSKI",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "JOSÉ  SILVA",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "5",
+                            "7",
+                            "8"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "ABSOLUTO E MAS - Grupo 05",
-                "placar_geral": "Agendado",
+                "placar_geral": "1-3",
                 "info_mesa": "Jogo 006 - Mesa 6 - 09:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "TIAGO  LEMES",
-                        "sets": []
+                        "sets": [
+                            "1",
+                            "6",
+                            "11",
+                            "5",
+                            "8"
+                        ]
                     },
                     {
                         "nome": "GIOVANI  JUNIOR",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "6",
+                            "11",
+                            "11"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "ABSOLUTO E MAS - Grupo 06",
-                "placar_geral": "Agendado",
+                "placar_geral": "2-3",
                 "info_mesa": "Jogo 007 - Mesa 7 - 09:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "PEDRO  SILVA",
-                        "sets": []
+                        "sets": [
+                            "2",
+                            "11",
+                            "11",
+                            "7",
+                            "11",
+                            "7"
+                        ]
                     },
                     {
                         "nome": "RAJ  ADDI",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "13",
+                            "9",
+                            "11",
+                            "4",
+                            "11"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "ABSOLUTO E MAS - Grupo 06",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-2",
                 "info_mesa": "Jogo 008 - Mesa 8 - 09:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "ADILSON  KUBO",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "3",
+                            "11",
+                            "10",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "HUGO  CAWASHIMA",
-                        "sets": []
+                        "sets": [
+                            "2",
+                            "11",
+                            "4",
+                            "12",
+                            "6",
+                            "8"
+                        ]
                     }
                 ]
             },
@@ -11993,129 +12173,215 @@
         "SUB-17 MAS": [
             {
                 "fase": "SUB-17 MAS - Grupo 01",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 001 - Mesa 17 - 09:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "GUSTAVO  AVELAR",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "JOÃO  GOLEMBA",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "3",
+                            "7",
+                            "3"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "SUB-17 MAS - Grupo 02",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 002 - Mesa 18 - 09:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "CAUÊ  MARTINS",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "MATHEUS  NASCIMENTO",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "5",
+                            "6",
+                            "7"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "SUB-17 MAS - Grupo 03",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 003 - Mesa 19 - 09:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "MATHEUS  JACUMASSO",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "CAUÃ  MATHEUS",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "3",
+                            "6",
+                            "3"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "SUB-17 MAS - Grupo 04",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 004 - Mesa 20 - 09:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "CAUÃ  KNACK",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "OTÁVIO  IENERICH",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "7",
+                            "5",
+                            "5"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "SUB-17 MAS - Grupo 05",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-2",
                 "info_mesa": "Jogo 005 - Mesa 21 - 09:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "FABRICIO  MARIN",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "8",
+                            "11",
+                            "11",
+                            "10",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "MURILO  ESSER",
-                        "sets": []
+                        "sets": [
+                            "2",
+                            "11",
+                            "9",
+                            "6",
+                            "12",
+                            "4"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "SUB-17 MAS - Grupo 05",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 006 - Mesa 22 - 09:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "DAVI  TAKAYAMA",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "DIOGO  RIVILI",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "4",
+                            "9",
+                            "7"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "SUB-17 MAS - Grupo 06",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 007 - Mesa 23 - 09:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "MATHEUS  LESME",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "THALES  LOPES",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "7",
+                            "8",
+                            "9"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "SUB-17 MAS - Grupo 06",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-1",
                 "info_mesa": "Jogo 008 - Mesa 24 - 09:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "VICTOR  DIAS",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "8",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "JOÃO  HAMAMOTO",
-                        "sets": []
+                        "sets": [
+                            "1",
+                            "9",
+                            "5",
+                            "11",
+                            "9"
+                        ]
                     }
                 ]
             },
