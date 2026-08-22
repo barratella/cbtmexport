@@ -289,16 +289,42 @@
             },
             {
                 "fase": "ABSOLUTO F MAS - Fase 16",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 037 - Mesa 23 - 12:15",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "LEONARDO  RAMIREZ",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "SAMUEL  ZILIO",
+                        "sets": [
+                            "0",
+                            "0",
+                            "0",
+                            "0"
+                        ]
+                    }
+                ]
+            },
+            {
+                "fase": "ABSOLUTO F MAS - Oitavas de Final",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 043 - Mesa 9 - 16:50",
+                "data": "22/08/2026",
+                "competidores": [
+                    {
+                        "nome": "RAPHAEL  SOUZA",
+                        "sets": []
+                    },
+                    {
+                        "nome": "LEONARDO  RAMIREZ",
                         "sets": []
                     }
                 ]
@@ -445,44 +471,122 @@
             },
             {
                 "fase": "ABSOLUTO G MAS - Fase 32",
-                "placar_geral": "Agendado",
+                "placar_geral": "0-3",
                 "info_mesa": "Jogo 041 - Mesa 2 - 12:15",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "VITOR  BARRATELLA",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "5",
+                            "5",
+                            "7"
+                        ]
                     },
                     {
                         "nome": "JOÃO  TRZASKOS",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "ABSOLUTO G MAS - Fase 32",
-                "placar_geral": "Agendado",
+                "placar_geral": "1-3",
                 "info_mesa": "Jogo 044 - Mesa 5 - 12:15",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "HELENO  AMARAL",
-                        "sets": []
+                        "sets": [
+                            "1",
+                            "5",
+                            "11",
+                            "7",
+                            "1"
+                        ]
                     },
                     {
                         "nome": "FABIO  MIURA",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "7",
+                            "11",
+                            "11"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "ABSOLUTO G MAS - Fase 32",
-                "placar_geral": "Agendado",
+                "placar_geral": "1-3",
                 "info_mesa": "Jogo 053 - Mesa 14 - 12:15",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "ERIC  TAKESHITA",
+                        "sets": [
+                            "1",
+                            "11",
+                            "9",
+                            "13",
+                            "12"
+                        ]
+                    },
+                    {
+                        "nome": "EDGAR  JUNIOR",
+                        "sets": [
+                            "3",
+                            "8",
+                            "11",
+                            "15",
+                            "14"
+                        ]
+                    }
+                ]
+            },
+            {
+                "fase": "ABSOLUTO G MAS - Fase 32",
+                "placar_geral": "1-3",
+                "info_mesa": "Jogo 058 - Mesa 19 - 12:15",
+                "data": "22/08/2026",
+                "competidores": [
+                    {
+                        "nome": "JACSSON  NASCIMENTO",
+                        "sets": [
+                            "1",
+                            "9",
+                            "13",
+                            "8",
+                            "9"
+                        ]
+                    },
+                    {
+                        "nome": "IAN  JUNIOR",
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11",
+                            "11"
+                        ]
+                    }
+                ]
+            },
+            {
+                "fase": "ABSOLUTO G MAS - Fase 16",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 071 - Mesa 10 - 14:20",
+                "data": "22/08/2026",
+                "competidores": [
+                    {
+                        "nome": "FELIPE  DAMASCENO",
                         "sets": []
                     },
                     {
@@ -492,13 +596,13 @@
                 ]
             },
             {
-                "fase": "ABSOLUTO G MAS - Fase 32",
+                "fase": "ABSOLUTO G MAS - Fase 16",
                 "placar_geral": "Agendado",
-                "info_mesa": "Jogo 058 - Mesa 19 - 12:15",
+                "info_mesa": "Jogo 075 - Mesa 14 - 14:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
-                        "nome": "JACSSON  NASCIMENTO",
+                        "nome": "NICOLAS  FARIA",
                         "sets": []
                     },
                     {
@@ -1367,17 +1471,27 @@
             },
             {
                 "fase": "SUB-17 MAS - Grupo 03",
-                "placar_geral": "Agendado",
+                "placar_geral": "0-3",
                 "info_mesa": "Jogo 019 - Mesa 19 - 11:50",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "MATHEUS  JACUMASSO",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "6",
+                            "6",
+                            "6"
+                        ]
                     },
                     {
                         "nome": "RICCARDO  MACIEL",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     }
                 ]
             },
@@ -1421,6 +1535,22 @@
                     },
                     {
                         "nome": "CAUÃ  KNACK",
+                        "sets": []
+                    }
+                ]
+            },
+            {
+                "fase": "SUB-17 MAS - Quartas de Final",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 031 - Mesa 23 - 17:40",
+                "data": "22/08/2026",
+                "competidores": [
+                    {
+                        "nome": "RICCARDO  MACIEL",
+                        "sets": []
+                    },
+                    {
+                        "nome": "V27",
                         "sets": []
                     }
                 ]
