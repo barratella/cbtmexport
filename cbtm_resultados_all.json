@@ -4964,17 +4964,29 @@
             },
             {
                 "fase": "ABSOLUTO F MAS - Fase 16",
-                "placar_geral": "Agendado",
+                "placar_geral": "1-3",
                 "info_mesa": "Jogo 039 - Mesa 17 - 12:16",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "ANDRÉ  WELCOFF",
-                        "sets": []
+                        "sets": [
+                            "1",
+                            "11",
+                            "8",
+                            "3",
+                            "8"
+                        ]
                     },
                     {
                         "nome": "LEONARDO  SUPERTI",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "4",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     }
                 ]
             },
@@ -5006,17 +5018,27 @@
             },
             {
                 "fase": "ABSOLUTO F MAS - Fase 16",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 041 - Mesa 19 - 12:16",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "NICOLAS  PERALTA",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "ODAIR  JAREMTCHUK",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "9",
+                            "5",
+                            "8"
+                        ]
                     }
                 ]
             },
@@ -5091,7 +5113,7 @@
                 "data": "22/08/2026",
                 "competidores": [
                     {
-                        "nome": "V39",
+                        "nome": "LEONARDO  SUPERTI",
                         "sets": []
                     },
                     {
@@ -5123,7 +5145,7 @@
                 "data": "22/08/2026",
                 "competidores": [
                     {
-                        "nome": "V41",
+                        "nome": "NICOLAS  PERALTA",
                         "sets": []
                     },
                     {
@@ -6334,17 +6356,29 @@
             },
             {
                 "fase": "ABSOLUTO G MAS - Fase 32",
-                "placar_geral": "Agendado",
+                "placar_geral": "1-3",
                 "info_mesa": "Jogo 040 - Mesa 1 - 12:15",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "ANDRÉ  KOCHI",
-                        "sets": []
+                        "sets": [
+                            "1",
+                            "11",
+                            "12",
+                            "8",
+                            "4"
+                        ]
                     },
                     {
                         "nome": "FABIO  RIVILI",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "7",
+                            "14",
+                            "11",
+                            "11"
+                        ]
                     }
                 ]
             },
@@ -6376,17 +6410,29 @@
             },
             {
                 "fase": "ABSOLUTO G MAS - Fase 32",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-1",
                 "info_mesa": "Jogo 042 - Mesa 3 - 12:15",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "VINÍCIUS  CHICUTA",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "5",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "JOÃO  CEZARIO",
-                        "sets": []
+                        "sets": [
+                            "1",
+                            "9",
+                            "11",
+                            "7",
+                            "7"
+                        ]
                     }
                 ]
             },
@@ -6472,33 +6518,57 @@
             },
             {
                 "fase": "ABSOLUTO G MAS - Fase 32",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-1",
                 "info_mesa": "Jogo 046 - Mesa 7 - 12:15",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "JOÃO  RODRIGUES",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "6",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "THIAGO  SILVA",
-                        "sets": []
+                        "sets": [
+                            "1",
+                            "11",
+                            "8",
+                            "8",
+                            "9"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "ABSOLUTO G MAS - Fase 32",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-1",
                 "info_mesa": "Jogo 047 - Mesa 8 - 12:15",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "LOHAN  OLIVEIRA",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "10",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "LUCAS  PAULA",
-                        "sets": []
+                        "sets": [
+                            "1",
+                            "5",
+                            "2",
+                            "12",
+                            "9"
+                        ]
                     }
                 ]
             },
@@ -6584,17 +6654,31 @@
             },
             {
                 "fase": "ABSOLUTO G MAS - Fase 32",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-2",
                 "info_mesa": "Jogo 051 - Mesa 12 - 12:15",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "PAULO  MITSUI",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "15",
+                            "11",
+                            "11",
+                            "10",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "IGOR  CECHET",
-                        "sets": []
+                        "sets": [
+                            "2",
+                            "17",
+                            "5",
+                            "7",
+                            "12",
+                            "2"
+                        ]
                     }
                 ]
             },
@@ -6626,17 +6710,29 @@
             },
             {
                 "fase": "ABSOLUTO G MAS - Fase 32",
-                "placar_geral": "Agendado",
+                "placar_geral": "1-3",
                 "info_mesa": "Jogo 053 - Mesa 14 - 12:15",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "ERIC  TAKESHITA",
-                        "sets": []
+                        "sets": [
+                            "1",
+                            "11",
+                            "9",
+                            "13",
+                            "12"
+                        ]
                     },
                     {
                         "nome": "EDGAR  JUNIOR",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "8",
+                            "11",
+                            "15",
+                            "14"
+                        ]
                     }
                 ]
             },
@@ -6694,17 +6790,29 @@
             },
             {
                 "fase": "ABSOLUTO G MAS - Fase 32",
-                "placar_geral": "Agendado",
+                "placar_geral": "1-3",
                 "info_mesa": "Jogo 056 - Mesa 17 - 12:15",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "PAULO  ASSIS",
-                        "sets": []
+                        "sets": [
+                            "1",
+                            "11",
+                            "7",
+                            "8",
+                            "3"
+                        ]
                     },
                     {
                         "nome": "LEONARDO  AMARAL",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "9",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     }
                 ]
             },
@@ -6738,49 +6846,89 @@
             },
             {
                 "fase": "ABSOLUTO G MAS - Fase 32",
-                "placar_geral": "Agendado",
+                "placar_geral": "1-3",
                 "info_mesa": "Jogo 058 - Mesa 19 - 12:15",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "JACSSON  NASCIMENTO",
-                        "sets": []
+                        "sets": [
+                            "1",
+                            "9",
+                            "13",
+                            "8",
+                            "9"
+                        ]
                     },
                     {
                         "nome": "IAN  JUNIOR",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "ABSOLUTO G MAS - Fase 32",
-                "placar_geral": "Agendado",
+                "placar_geral": "2-3",
                 "info_mesa": "Jogo 059 - Mesa 20 - 12:15",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "ARTHUR  FAEDO",
-                        "sets": []
+                        "sets": [
+                            "2",
+                            "11",
+                            "10",
+                            "6",
+                            "11",
+                            "6"
+                        ]
                     },
                     {
                         "nome": "MIGUEL  SCUSSIATTO",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "6",
+                            "12",
+                            "11",
+                            "5",
+                            "11"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "ABSOLUTO G MAS - Fase 32",
-                "placar_geral": "Agendado",
+                "placar_geral": "2-3",
                 "info_mesa": "Jogo 060 - Mesa 21 - 12:15",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "LUIZ  OLIVEIRA",
-                        "sets": []
+                        "sets": [
+                            "2",
+                            "11",
+                            "13",
+                            "9",
+                            "7",
+                            "7"
+                        ]
                     },
                     {
                         "nome": "JOSÉ  ROMITTI",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "6",
+                            "11",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     }
                 ]
             },
@@ -6823,7 +6971,7 @@
                         "sets": []
                     },
                     {
-                        "nome": "V40",
+                        "nome": "FABIO  RIVILI",
                         "sets": []
                     }
                 ]
@@ -6839,7 +6987,7 @@
                         "sets": []
                     },
                     {
-                        "nome": "V42",
+                        "nome": "VINÍCIUS  CHICUTA",
                         "sets": []
                     }
                 ]
@@ -6899,11 +7047,11 @@
                 "data": "22/08/2026",
                 "competidores": [
                     {
-                        "nome": "V46",
+                        "nome": "JOÃO  RODRIGUES",
                         "sets": []
                     },
                     {
-                        "nome": "V47",
+                        "nome": "LOHAN  OLIVEIRA",
                         "sets": []
                     }
                 ]
@@ -6951,7 +7099,7 @@
                         "sets": []
                     },
                     {
-                        "nome": "V51",
+                        "nome": "PAULO  MITSUI",
                         "sets": []
                     }
                 ]
@@ -6967,7 +7115,7 @@
                         "sets": []
                     },
                     {
-                        "nome": "V53",
+                        "nome": "EDGAR  JUNIOR",
                         "sets": []
                     }
                 ]
@@ -6999,7 +7147,7 @@
                         "sets": []
                     },
                     {
-                        "nome": "V56",
+                        "nome": "LEONARDO  AMARAL",
                         "sets": []
                     }
                 ]
@@ -7031,7 +7179,7 @@
                         "sets": []
                     },
                     {
-                        "nome": "V58",
+                        "nome": "IAN  JUNIOR",
                         "sets": []
                     }
                 ]
@@ -7043,11 +7191,11 @@
                 "data": "22/08/2026",
                 "competidores": [
                     {
-                        "nome": "V59",
+                        "nome": "MIGUEL  SCUSSIATTO",
                         "sets": []
                     },
                     {
-                        "nome": "V60",
+                        "nome": "JOSÉ  ROMITTI",
                         "sets": []
                     }
                 ]
