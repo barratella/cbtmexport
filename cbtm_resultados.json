@@ -827,17 +827,27 @@
             },
             {
                 "fase": "MASTER 60MAS - Grupo 03",
-                "placar_geral": "Agendado",
+                "placar_geral": "0-3",
                 "info_mesa": "Jogo 015 - Mesa 16 - 16:25",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "MARCIO  WATANABE",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "7",
+                            "4",
+                            "10"
+                        ]
                     },
                     {
                         "nome": "JOSÉ  DEZIE",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "12"
+                        ]
                     }
                 ]
             }
