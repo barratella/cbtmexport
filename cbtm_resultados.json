@@ -963,33 +963,55 @@
             },
             {
                 "fase": "SUB-09 MAS - Grupo 01",
-                "placar_geral": "Agendado",
+                "placar_geral": "1-3",
                 "info_mesa": "Jogo 011 - Mesa 17 - 16:00",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "GABRIEL  NARDI",
-                        "sets": []
+                        "sets": [
+                            "1",
+                            "11",
+                            "8",
+                            "7",
+                            "8"
+                        ]
                     },
                     {
                         "nome": "JOAQUIM  MANTOVANI",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "5",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "SUB-09 MAS - Grupo 02",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 012 - Mesa 18 - 16:00",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "ALEXANDRE  GLIZT",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "ÍTALO  RAMIREZ",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "7",
+                            "7",
+                            "6"
+                        ]
                     }
                 ]
             },
@@ -1048,6 +1070,22 @@
                             "11",
                             "11"
                         ]
+                    }
+                ]
+            },
+            {
+                "fase": "SUB-09 MAS - Quartas de Final",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 016 - Mesa 17 - 18:05",
+                "data": "22/08/2026",
+                "competidores": [
+                    {
+                        "nome": "JOAQUIM  MANTOVANI",
+                        "sets": []
+                    },
+                    {
+                        "nome": "ÍTALO  RAMIREZ",
+                        "sets": []
                     }
                 ]
             },
