@@ -797,17 +797,31 @@
             },
             {
                 "fase": "MASTER 60MAS - Grupo 02",
-                "placar_geral": "Agendado",
+                "placar_geral": "2-3",
                 "info_mesa": "Jogo 013 - Mesa 14 - 16:25",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "DOMINGO  FERNANDEZ",
-                        "sets": []
+                        "sets": [
+                            "2",
+                            "6",
+                            "8",
+                            "11",
+                            "11",
+                            "10"
+                        ]
                     },
                     {
                         "nome": "WALTER  JUNIOR",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "4",
+                            "9",
+                            "12"
+                        ]
                     }
                 ]
             },
