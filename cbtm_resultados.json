@@ -591,33 +591,61 @@
             },
             {
                 "fase": "ABSOLUTO G MAS - Fase 16",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-2",
                 "info_mesa": "Jogo 071 - Mesa 10 - 14:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "FELIPE  DAMASCENO",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "9",
+                            "11",
+                            "8",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "EDGAR  JUNIOR",
-                        "sets": []
+                        "sets": [
+                            "2",
+                            "7",
+                            "11",
+                            "4",
+                            "11",
+                            "6"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "ABSOLUTO G MAS - Fase 16",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-2",
                 "info_mesa": "Jogo 075 - Mesa 14 - 14:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "NICOLAS  FARIA",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "5",
+                            "7",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "IAN  JUNIOR",
-                        "sets": []
+                        "sets": [
+                            "2",
+                            "11",
+                            "11",
+                            "8",
+                            "5",
+                            "9"
+                        ]
                     }
                 ]
             }
