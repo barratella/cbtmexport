@@ -1189,17 +1189,27 @@
             },
             {
                 "fase": "SUB-09 MAS - Quartas de Final",
-                "placar_geral": "Agendado",
+                "placar_geral": "0-3",
                 "info_mesa": "Jogo 017 - Mesa 18 - 18:05",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "HENRIQUE  ITO",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "7",
+                            "12",
+                            "8"
+                        ]
                     },
                     {
                         "nome": "HEITOR  MELLO",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "14",
+                            "11"
+                        ]
                     }
                 ]
             },
@@ -1240,7 +1250,7 @@
                         "sets": []
                     },
                     {
-                        "nome": "V17",
+                        "nome": "HEITOR  MELLO",
                         "sets": []
                     }
                 ]
@@ -1539,8 +1549,36 @@
             },
             {
                 "fase": "SUB-13 FEM - Semi Final",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-1",
                 "info_mesa": "Jogo 017 - Mesa 3 - 18:30",
+                "data": "22/08/2026",
+                "competidores": [
+                    {
+                        "nome": "NIVIN  ABDALLAH",
+                        "sets": [
+                            "3",
+                            "7",
+                            "11",
+                            "11",
+                            "11"
+                        ]
+                    },
+                    {
+                        "nome": "LIVIA  DUTKO",
+                        "sets": [
+                            "1",
+                            "11",
+                            "8",
+                            "7",
+                            "6"
+                        ]
+                    }
+                ]
+            },
+            {
+                "fase": "SUB-13 FEM - Final",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 019 - Mesa 4 - 19:20",
                 "data": "22/08/2026",
                 "competidores": [
                     {
@@ -1548,7 +1586,7 @@
                         "sets": []
                     },
                     {
-                        "nome": "LIVIA  DUTKO",
+                        "nome": "LAURA  SILVEIRA",
                         "sets": []
                     }
                 ]
