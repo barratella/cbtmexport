@@ -29,17 +29,31 @@
             },
             {
                 "fase": "ABSOLUTO A FEM - Grupo 02",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-2",
                 "info_mesa": "Jogo 007 - Mesa 8 - 14:45",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "MARIA  MENDES",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "9",
+                            "11",
+                            "10",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "RENATA  TSUKADA",
-                        "sets": []
+                        "sets": [
+                            "2",
+                            "7",
+                            "11",
+                            "5",
+                            "12",
+                            "5"
+                        ]
                     }
                 ]
             },
@@ -823,49 +837,81 @@
             },
             {
                 "fase": "SUB-09 MAS - Grupo 01",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-1",
                 "info_mesa": "Jogo 006 - Mesa 17 - 14:45",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "JOAQUIM  MANTOVANI",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "8",
+                            "14",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "JOAQUIM  PRADO",
-                        "sets": []
+                        "sets": [
+                            "1",
+                            "11",
+                            "12",
+                            "8",
+                            "9"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "SUB-09 MAS - Grupo 02",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 007 - Mesa 18 - 14:45",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "ÍTALO  RAMIREZ",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "ARTHUR  LIMA",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "4",
+                            "1",
+                            "4"
+                        ]
                     }
                 ]
             },
             {
                 "fase": "SUB-09 MAS - Grupo 04",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 010 - Mesa 21 - 14:45",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "HEITOR  MELLO",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "MATIAS  BARBOSA",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "2",
+                            "2",
+                            "1"
+                        ]
                     }
                 ]
             },
