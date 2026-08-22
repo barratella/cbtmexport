@@ -2163,17 +2163,27 @@
             },
             {
                 "fase": "SUB-17 MAS - Semi Final",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 033 - Mesa 21 - 18:30",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "GUSTAVO  AVELAR",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "CAUÃ  KNACK",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "3",
+                            "5",
+                            "8"
+                        ]
                     }
                 ]
             }
