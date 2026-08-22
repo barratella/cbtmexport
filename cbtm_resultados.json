@@ -265,17 +265,27 @@
             },
             {
                 "fase": "ABSOLUTO G MAS - Grupo 10",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 024 - Mesa 11 - 09:45",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "IAN  JUNIOR",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "DAVI  MARCARINI",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "5",
+                            "6",
+                            "2"
+                        ]
                     }
                 ]
             },
@@ -821,17 +831,27 @@
         "SUB-13 MAS": [
             {
                 "fase": "SUB-13 MAS - Grupo 08",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 018 - Mesa 8 - 10:10",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "MANSUR  JOMAA",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "RENATO  FILHO",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "5",
+                            "5",
+                            "0"
+                        ]
                     }
                 ]
             },
@@ -1011,17 +1031,27 @@
             },
             {
                 "fase": "SUB-17 FEM - Grupo 01",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 005 - Mesa 21 - 09:45",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "NIHAN  ABDALLAH",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "ISABELA  HAAB",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "4",
+                            "5",
+                            "4"
+                        ]
                     }
                 ]
             },
