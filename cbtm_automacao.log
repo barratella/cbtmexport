@@ -1,673 +1,3 @@
-2026-08-22 19:17:35 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] LETICIA  JAREMTCHUK vs BIANCA  SANTOS
-2026-08-22 19:17:35 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] EMANUELLY  SANTOS vs ELOAH  PRADO
-2026-08-22 19:17:35 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] BIANCA  SANTOS vs ISABELLY  RIOS
-2026-08-22 19:17:35 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] KAROLINE  GRUCHOSKI vs LETICIA  JAREMTCHUK
-2026-08-22 19:17:35 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] YASMIN  SÁ vs NIHAN  ABDALLAH
-2026-08-22 19:17:35 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) EMANUELLY  SANTOS vs ISABELLY  RIOS
-2026-08-22 19:17:35 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) KAROLINE  GRUCHOSKI vs YASMIN  SÁ
-2026-08-22 19:17:35 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) V17 vs V18
-2026-08-22 19:17:40 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: SUB-17 MAS (35/39)
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] GUSTAVO  AVELAR vs JOÃO  GOLEMBA
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] CAUÊ  MARTINS vs MATHEUS  NASCIMENTO
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] MATHEUS  JACUMASSO vs CAUÃ  MATHEUS
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] CAUÃ  KNACK vs OTÁVIO  IENERICH
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] FABRICIO  MARIN vs MURILO  ESSER
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] DAVI  TAKAYAMA vs DIOGO  RIVILI
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] MATHEUS  LESME vs THALES  LOPES
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] VICTOR  DIAS vs JOÃO  HAMAMOTO
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] GUILHERME  FREITAS vs JOÃO  GOLEMBA
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] PEDRO  EGASHIRA vs MATHEUS  NASCIMENTO
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] RICCARDO  MACIEL vs CAUÃ  MATHEUS
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] GUSTAVO  KANASHIRO vs OTÁVIO  IENERICH
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] FABRICIO  MARIN vs DIOGO  RIVILI
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] DAVI  TAKAYAMA vs MURILO  ESSER
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] MATHEUS  LESME vs JOÃO  HAMAMOTO
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] VICTOR  DIAS vs THALES  LOPES
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] GUSTAVO  AVELAR vs GUILHERME  FREITAS
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] CAUÊ  MARTINS vs PEDRO  EGASHIRA
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] MATHEUS  JACUMASSO vs RICCARDO  MACIEL
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] CAUÃ  KNACK vs GUSTAVO  KANASHIRO
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] FABRICIO  MARIN vs DAVI  TAKAYAMA
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] DIOGO  RIVILI vs MURILO  ESSER
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] MATHEUS  LESME vs VICTOR  DIAS
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] JOÃO  HAMAMOTO vs THALES  LOPES
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] PEDRO  EGASHIRA vs VICTOR  DIAS
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] FABRICIO  MARIN vs MATHEUS  JACUMASSO
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] GUSTAVO  KANASHIRO vs MATHEUS  LESME
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] DAVI  TAKAYAMA vs GUILHERME  FREITAS
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] GUSTAVO  AVELAR vs PEDRO  EGASHIRA
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) FABRICIO  MARIN vs CAUÃ  KNACK
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] RICCARDO  MACIEL vs MATHEUS  LESME
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] GUILHERME  FREITAS vs CAUÊ  MARTINS
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) GUSTAVO  AVELAR vs V30
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) MATHEUS  LESME vs CAUÊ  MARTINS
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) V33 vs V34
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL] ♻️ REAPROVEITADO (BACKUP) [5997]: SUB-19 FEM -- Sem jogos agendados pendentes para hoje (22/08/2026).
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL] ♻️ REAPROVEITADO (BACKUP) [5997]: SUB-19 MAS -- Sem jogos agendados pendentes para hoje (22/08/2026).
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL] ♻️ REAPROVEITADO (BACKUP) [5997]: SUB-21 FEM -- Sem jogos agendados pendentes para hoje (22/08/2026).
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL] ♻️ REAPROVEITADO (BACKUP) [5997]: SUB-21 MAS -- Sem jogos agendados pendentes para hoje (22/08/2026).
-2026-08-22 19:17:56 [INFO] [RESULTADOS-ALL] 💾 Arquivo de resultados ALL atualizado e consolidado com sucesso!
-2026-08-22 19:17:58 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Resultados sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:17:58 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Categorias sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:17:58 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Grupos Base sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:17:58 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Grupos Extras sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:17:58 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Jogos Extras sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:17:58 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Resultados ALL (/home/emersonb/python/export/cbtm_resultados_all.json). Enviando via Rclone...
-2026-08-22 19:18:01 [INFO] [upload_atmfoz.sh] ✅ Resultados ALL enviado e controle atualizado.
-2026-08-22 19:18:01 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Categorias ALL sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:18:01 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Programação de Mesas (mesas.csv) (/home/emersonb/python/export/mesas.csv). Enviando via Rclone...
-2026-08-22 19:18:37 [INFO] [upload_atmfoz.sh] ✅ Programação de Mesas (mesas.csv) enviado e controle atualizado.
-2026-08-22 19:18:37 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Configuracao (config.json) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:18:37 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (categorias.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:18:37 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (clubes.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:18:37 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (eficiencia.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:18:37 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (inscricoes.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:18:37 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (mesas.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:18:37 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (rating_simulado.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:18:37 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (resultado_evento.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:18:37 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (telegram-grupos.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:18:37 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (telegram-result.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:18:37 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Log de Automacao (Invertido) (/tmp/cbtm_automacao.log). Enviando via Rclone...
-2026-08-22 19:18:39 [INFO] [upload_atmfoz.sh] ✅ Log de Automacao (Invertido) enviado e controle atualizado.
-2026-08-22 19:18:39 [INFO] [upload_atmfoz.sh] ✅ Ciclo de sincronizacao concluido com sucesso!
-2026-08-22 19:20:01 [INFO] [agenda_crontab.sh] ==================================================
-2026-08-22 19:20:01 [INFO] [agenda_crontab.sh] 🚀 Iniciando sequencia automatizada via agenda_crontab.sh...
-2026-08-22 19:20:01 [INFO] [agenda_crontab.sh] ▶️ [1/7] Executando raspagem de resultados (/home/emersonb/python/4_cbtm_resultados.sh)...
-2026-08-22 19:20:01 [INFO] [4_cbtm_resultados.sh] Criando copia de seguranca preventiva de /home/emersonb/python/export/cbtm_resultados.json para /home/emersonb/python/export/cbtm_resultados.json.bkp
-2026-08-22 19:20:01 [INFO] [4_cbtm_resultados.sh] Iniciando raspagem de resultados...
-2026-08-22 19:20:03 [INFO] [cbtm_carregar_resultados.py] Configuracoes carregadas. PID: 782681
-2026-08-22 19:20:03 [INFO] [cbtm_carregar_resultados.py] Configuracoes carregadas. PID: 782681
-2026-08-22 19:20:03 [INFO] [cbtm_carregar_resultados.py] Arquivo de backup encontrado em disco.
-2026-08-22 19:20:03 [INFO] [cbtm_carregar_resultados.py] Arquivo de backup encontrado em disco.
-2026-08-22 19:20:03 [INFO] [cbtm_carregar_resultados.py] Cache dentro da validade. Ultima execucao completa ha 0.4h.
-2026-08-22 19:20:03 [INFO] [cbtm_carregar_resultados.py] Cache dentro da validade. Ultima execucao completa ha 0.4h.
-2026-08-22 19:20:03 [INFO] [cbtm_carregar_resultados.py] 🏆 Processando Evento ID 5997 (15 categoria(s))...
-2026-08-22 19:20:03 [INFO] [cbtm_carregar_resultados.py] 🏆 Processando Evento ID 5997 (15 categoria(s))...
-2026-08-22 19:20:03 [INFO] [cbtm_carregar_resultados.py] Inicializando Chrome Headless sob demanda...
-2026-08-22 19:20:03 [INFO] [cbtm_carregar_resultados.py] Inicializando Chrome Headless sob demanda...
-2026-08-22 19:20:05 [INFO] [cbtm_carregar_resultados.py] patching driver executable /home/emersonb/.local/share/undetected_chromedriver/undetected_chromedriver
-2026-08-22 19:20:05 [INFO] [cbtm_carregar_resultados.py] patching driver executable /home/emersonb/.local/share/undetected_chromedriver/undetected_chromedriver
-2026-08-22 19:20:13 [INFO] [cbtm_carregar_resultados.py] Navegando para o Evento: https://app.cbtm.org.br/IUI/App/Evento?tab=2&EVE_Evento_ID=5997
-2026-08-22 19:20:13 [INFO] [cbtm_carregar_resultados.py] Navegando para o Evento: https://app.cbtm.org.br/IUI/App/Evento?tab=2&EVE_Evento_ID=5997
-2026-08-22 19:20:33 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: ABSOLUTO A FEM (1/15)
-2026-08-22 19:20:33 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: ABSOLUTO A FEM (1/15)
-2026-08-22 19:20:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] MARIA  MENDES vs SABRINA  MIZVA
-2026-08-22 19:20:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] MARIA  MENDES vs SABRINA  MIZVA
-2026-08-22 19:20:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-2] MARIA  MENDES vs RENATA  TSUKADA
-2026-08-22 19:20:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-2] MARIA  MENDES vs RENATA  TSUKADA
-2026-08-22 19:20:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-1] MARIA  MENDES vs MARIA  ALVES
-2026-08-22 19:20:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-1] MARIA  MENDES vs MARIA  ALVES
-2026-08-22 19:20:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) JULLY  NAGAO vs MARIA  MENDES
-2026-08-22 19:20:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) JULLY  NAGAO vs MARIA  MENDES
-2026-08-22 19:20:49 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO D MAS -- Nenhum jogo pendente.
-2026-08-22 19:20:49 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO D MAS -- Nenhum jogo pendente.
-2026-08-22 19:20:49 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO E FEM -- Nenhum jogo pendente.
-2026-08-22 19:20:49 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO E FEM -- Nenhum jogo pendente.
-2026-08-22 19:20:49 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO F MAS -- Nenhum jogo pendente.
-2026-08-22 19:20:49 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO F MAS -- Nenhum jogo pendente.
-2026-08-22 19:20:49 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO G MAS -- Nenhum jogo pendente.
-2026-08-22 19:20:49 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO G MAS -- Nenhum jogo pendente.
-2026-08-22 19:20:49 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: MASTER 60MAS -- Nenhum jogo pendente.
-2026-08-22 19:20:49 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: MASTER 60MAS -- Nenhum jogo pendente.
-2026-08-22 19:20:54 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-09 MAS (7/15)
-2026-08-22 19:20:54 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-09 MAS (7/15)
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] MARTIM  AMARAL vs DANIEL  MELO
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] MARTIM  AMARAL vs DANIEL  MELO
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] HEITOR  MELLO vs MIGUEL  SOUZA
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] HEITOR  MELLO vs MIGUEL  SOUZA
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-1] JOAQUIM  MANTOVANI vs JOAQUIM  PRADO
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-1] JOAQUIM  MANTOVANI vs JOAQUIM  PRADO
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] ÍTALO  RAMIREZ vs ARTHUR  LIMA
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] ÍTALO  RAMIREZ vs ARTHUR  LIMA
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] HEITOR  MELLO vs MATIAS  BARBOSA
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] HEITOR  MELLO vs MATIAS  BARBOSA
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [1-3] GABRIEL  NARDI vs JOAQUIM  MANTOVANI
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [1-3] GABRIEL  NARDI vs JOAQUIM  MANTOVANI
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] ALEXANDRE  GLIZT vs ÍTALO  RAMIREZ
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] ALEXANDRE  GLIZT vs ÍTALO  RAMIREZ
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-2] MARTIM  AMARAL vs HENRIQUE  ITO
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-2] MARTIM  AMARAL vs HENRIQUE  ITO
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [1-3] CRISTOFFER  VIEIRA vs HEITOR  MELLO
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [1-3] CRISTOFFER  VIEIRA vs HEITOR  MELLO
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] JOAQUIM  MANTOVANI vs ÍTALO  RAMIREZ
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] JOAQUIM  MANTOVANI vs ÍTALO  RAMIREZ
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) HENRIQUE  ITO vs HEITOR  MELLO
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) HENRIQUE  ITO vs HEITOR  MELLO
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] MARTIM  AMARAL vs CRISTOFFER  VIEIRA
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] MARTIM  AMARAL vs CRISTOFFER  VIEIRA
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) JOAQUIM  MANTOVANI vs V17
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) JOAQUIM  MANTOVANI vs V17
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) MARTIM  AMARAL vs GABRIEL  NARDI
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) MARTIM  AMARAL vs GABRIEL  NARDI
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-11 FEM -- Apenas jogos em datas futuras.
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-11 FEM -- Apenas jogos em datas futuras.
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-11 MAS -- Apenas jogos em datas futuras.
-2026-08-22 19:21:10 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-11 MAS -- Apenas jogos em datas futuras.
-2026-08-22 19:21:15 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-13 FEM (10/15)
-2026-08-22 19:21:15 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-13 FEM (10/15)
-2026-08-22 19:21:32 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] NIVIN  ABDALLAH vs MARIANA  CAMARGO
-2026-08-22 19:21:32 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] NIVIN  ABDALLAH vs MARIANA  CAMARGO
-2026-08-22 19:21:32 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] NIVIN  ABDALLAH vs MANUELA  DOI
-2026-08-22 19:21:32 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] NIVIN  ABDALLAH vs MANUELA  DOI
-2026-08-22 19:21:32 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] NIVIN  ABDALLAH vs REBECA  AFONSO
-2026-08-22 19:21:32 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] NIVIN  ABDALLAH vs REBECA  AFONSO
-2026-08-22 19:21:32 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) NIVIN  ABDALLAH vs LIVIA  DUTKO
-2026-08-22 19:21:32 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) NIVIN  ABDALLAH vs LIVIA  DUTKO
-2026-08-22 19:21:32 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: SUB-13 MAS -- Nenhum jogo pendente.
-2026-08-22 19:21:32 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: SUB-13 MAS -- Nenhum jogo pendente.
-2026-08-22 19:21:32 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-15 FEM -- Apenas jogos em datas futuras.
-2026-08-22 19:21:32 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-15 FEM -- Apenas jogos em datas futuras.
-2026-08-22 19:21:37 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-17 FEM (13/15)
-2026-08-22 19:21:37 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-17 FEM (13/15)
-2026-08-22 19:21:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] YASMIN  SÁ vs ANA  BRAGA
-2026-08-22 19:21:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] YASMIN  SÁ vs ANA  BRAGA
-2026-08-22 19:21:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] NIHAN  ABDALLAH vs ISABELA  HAAB
-2026-08-22 19:21:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] NIHAN  ABDALLAH vs ISABELA  HAAB
-2026-08-22 19:21:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] EMANUELLY  SANTOS vs NIHAN  ABDALLAH
-2026-08-22 19:21:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] EMANUELLY  SANTOS vs NIHAN  ABDALLAH
-2026-08-22 19:21:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] YASMIN  SÁ vs ELOAH  PRADO
-2026-08-22 19:21:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] YASMIN  SÁ vs ELOAH  PRADO
-2026-08-22 19:21:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] YASMIN  SÁ vs NIHAN  ABDALLAH
-2026-08-22 19:21:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] YASMIN  SÁ vs NIHAN  ABDALLAH
-2026-08-22 19:21:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] KAROLINE  GRUCHOSKI vs YASMIN  SÁ
-2026-08-22 19:21:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] KAROLINE  GRUCHOSKI vs YASMIN  SÁ
-2026-08-22 19:21:56 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-17 MAS (14/15)
-2026-08-22 19:21:56 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-17 MAS (14/15)
-2026-08-22 19:22:16 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] CAUÃ  KNACK vs OTÁVIO  IENERICH
-2026-08-22 19:22:16 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] CAUÃ  KNACK vs OTÁVIO  IENERICH
-2026-08-22 19:22:16 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [2-3] RICCARDO  MACIEL vs CAUÃ  MATHEUS
-2026-08-22 19:22:16 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [2-3] RICCARDO  MACIEL vs CAUÃ  MATHEUS
-2026-08-22 19:22:16 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [0-3] MATHEUS  JACUMASSO vs RICCARDO  MACIEL
-2026-08-22 19:22:16 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [0-3] MATHEUS  JACUMASSO vs RICCARDO  MACIEL
-2026-08-22 19:22:16 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-1] CAUÃ  KNACK vs GUSTAVO  KANASHIRO
-2026-08-22 19:22:16 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-1] CAUÃ  KNACK vs GUSTAVO  KANASHIRO
-2026-08-22 19:22:16 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) FABRICIO  MARIN vs CAUÃ  KNACK
-2026-08-22 19:22:16 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) FABRICIO  MARIN vs CAUÃ  KNACK
-2026-08-22 19:22:16 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [0-3] RICCARDO  MACIEL vs MATHEUS  LESME
-2026-08-22 19:22:16 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [0-3] RICCARDO  MACIEL vs MATHEUS  LESME
-2026-08-22 19:22:16 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-19 MAS -- Apenas jogos em datas futuras.
-2026-08-22 19:22:16 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-19 MAS -- Apenas jogos em datas futuras.
-2026-08-22 19:22:16 [INFO] [cbtm_carregar_resultados.py] Arquivo de resultados atualizado e consolidado com sucesso!
-2026-08-22 19:22:16 [INFO] [cbtm_carregar_resultados.py] Arquivo de resultados atualizado e consolidado com sucesso!
-2026-08-22 19:22:17 [INFO] [4_cbtm_resultados.sh] Raspagem e ciclo de resultados finalizados com sucesso.
-2026-08-22 19:22:17 [INFO] [agenda_crontab.sh] ✅ Passo 1 concluido com sucesso.
-2026-08-22 19:22:17 [INFO] [agenda_crontab.sh] ▶️ [2/7] Executando busca de dependencias extras (/home/emersonb/python/5_cbtm_extras.sh)...
-2026-08-22 19:22:17 [INFO] Iniciando resolução de dependências extras (grupos e jogos)...
-2026-08-22 19:22:18 [INFO] [EXTRAS] Carregando resultados a partir de: /home/emersonb/python/export/cbtm_resultados.json
-2026-08-22 19:22:18 [INFO] [EXTRAS] Carregando resultados a partir de: /home/emersonb/python/export/cbtm_resultados.json
-2026-08-22 19:22:18 [INFO] [EXTRAS] Pendências identificadas: 0 grupo(s), 1 jogo(s).
-2026-08-22 19:22:18 [INFO] [EXTRAS] Pendências identificadas: 0 grupo(s), 1 jogo(s).
-2026-08-22 19:22:18 [INFO] [EXTRAS] 🌐 Buscando Confronto Jogo 17 em [SUB-09 MAS] (Evento ID 5997)...
-2026-08-22 19:22:18 [INFO] [EXTRAS] 🌐 Buscando Confronto Jogo 17 em [SUB-09 MAS] (Evento ID 5997)...
-2026-08-22 19:22:18 [INFO] [EXTRAS] Inicializando Chrome Headless...
-2026-08-22 19:22:18 [INFO] [EXTRAS] Inicializando Chrome Headless...
-2026-08-22 19:22:19 [INFO] [EXTRAS] patching driver executable /home/emersonb/.local/share/undetected_chromedriver/undetected_chromedriver
-2026-08-22 19:22:19 [INFO] [EXTRAS] patching driver executable /home/emersonb/.local/share/undetected_chromedriver/undetected_chromedriver
-2026-08-22 19:22:25 [INFO] [EXTRAS] Navegando para: https://app.cbtm.org.br/IUI/App/Evento?tab=2&EVE_Evento_ID=5997
-2026-08-22 19:22:25 [INFO] [EXTRAS] Navegando para: https://app.cbtm.org.br/IUI/App/Evento?tab=2&EVE_Evento_ID=5997
-2026-08-22 19:22:55 [INFO] [EXTRAS] 📁 Grupos Extras concatenados com sucesso em: /home/emersonb/python/export/cbtm_grupos_extras.json
-2026-08-22 19:22:55 [INFO] [EXTRAS] 📁 Grupos Extras concatenados com sucesso em: /home/emersonb/python/export/cbtm_grupos_extras.json
-2026-08-22 19:22:55 [INFO] [EXTRAS] 📁 Jogos Extras salvos em: /home/emersonb/python/export/cbtm_jogos_extras.json
-2026-08-22 19:22:55 [INFO] [EXTRAS] 📁 Jogos Extras salvos em: /home/emersonb/python/export/cbtm_jogos_extras.json
-2026-08-22 19:22:56 [INFO] Processo de busca de extras finalizado. Trava liberada.
-2026-08-22 19:22:56 [INFO] [agenda_crontab.sh] ✅ Passo 2 concluido com sucesso.
-2026-08-22 19:22:56 [INFO] [agenda_crontab.sh] ▶️ [3/7] Executando processamento Telegram local (/home/emersonb/python/7_cbtm_telegram_processa.sh)...
-2026-08-22 19:22:56 [INFO] [cbtm_telegram-processa.sh] Iniciando processamento de arquivos locais (cbtm_telegram-processa.py)...
-[INFO] Iniciando processamento de arquivos locais...
---- [1/5] Gerando Resultados Consolidados (show-all) ---
-[INFO] Backup CSV criado em: /home/emersonb/python/export/telegram-result.csv.bkp
-[INFO] Arquivo CSV gerado com sucesso em '/home/emersonb/python/export/telegram-result.csv'.
---- [2/5] Gerando Grupos Consolidados (show-grupos) ---
-[INFO] Backup do CSV de grupos criado em: '/home/emersonb/python/export/telegram-grupos.csv.bkp'.
-[INFO] Arquivo CSV de grupos gerado com sucesso em '/home/emersonb/python/export/telegram-grupos.csv'.
---- [3/5] Gerando Diferenças de Grupos (show-diff-grupos) ---
-[INFO] Arquivo de diferenças de grupos CSV gerado com sucesso em '/home/emersonb/python/export/telegram-grupos.csv.diff'.
---- [4/5] Gerando Diferenças de Resultados (show-diff) ---
-[INFO] Arquivo de diferenças CSV gerado com sucesso em '/home/emersonb/python/export/telegram-result.csv.diff'.
---- [5/5] Gerando Programação Pendente (show-prog) ---
-[INFO] Arquivo CSV de jogos pendentes gerado em '/home/emersonb/python/export/telegram-result.csv.prog'.
-[INFO] Processamento de arquivos locais concluído com sucesso!
-2026-08-22 19:22:57 [INFO] [cbtm_telegram-processa.sh] Processamento de arquivos locais concluido com sucesso!
-2026-08-22 19:22:57 [INFO] [agenda_crontab.sh] ✅ Passo 3 concluido com sucesso.
-2026-08-22 19:22:57 [INFO] [agenda_crontab.sh] ▶️ [4/7] Executando disparo de notificacoes Telegram (/home/emersonb/python/8_cbtm_telegram_envia.sh)...
-2026-08-22 19:22:57 [INFO] [8_cbtm_telegram_envia.sh] Disparando notificacoes de jogos modificados para o grupo do Telegram (send-diff)...
-2026-08-22 19:22:57 [INFO] [TELEGRAM-ENVIO] Chat ID: -1004398862397 | Conteúdo enviado:
-```
-= = = = = = = = = = = = = = =
-🏆 ETAPA 5 - GUAIRA
-
-✅ JOGOS ENCERRADOS
-
-🏓 SUB-09 MAS
-📌 Quartas de Final
-📅 SÁB 18:05 | 📍 MESA 17
-▫️ [3] JOAQUIM MANTOVANI
-▫️ [0] ÍTALO RAMIREZ
-📊 (11-8)(11-5)(11-2)
-
-🏓 SUB-09 MAS
-📌 Quartas de Final
-📅 SÁB 18:05 | 📍 MESA 19
-▫️ [3] MARTIM AMARAL
-▫️ [0] CRISTOFFER VIEIRA
-📊 (11-8)(11-4)(11-3)
-
-🏓 SUB-17 FEM
-📌 Semifinal
-📅 SÁB 18:05 | 📍 MESA 24
-▫️ [3] KAROLINE GRUCHOSKI
-▫️ [0] YASMIN SÁ
-📊 (11-8)(11-7)(11-7)
-```
-
-2026-08-22 19:22:58 [INFO] Mensagem enviada com sucesso (200 OK) para o Chat ID -1004398862397.
-2026-08-22 19:23:00 [INFO] [TELEGRAM-ENVIO] Chat ID: -1004398862397 | Conteúdo enviado:
-```
-= = = = = = = = = = = = = = =
-🏆 ETAPA 5 - GUAIRA
-
-⏳ JOGOS PENDENTES
-
-🏓 SUB-09 MAS
-📌 Semifinal
-📅 SÁB 18:55 | 📍 MESA 18
-▫️ [ ] JOAQUIM MANTOVANI
-▫️ [ ] V17
-📊 Status: Agendado
-
-🏓 SUB-09 MAS
-📌 Semifinal
-📅 SÁB 18:55 | 📍 MESA 19
-▫️ [ ] MARTIM AMARAL
-▫️ [ ] GABRIEL NARDI
-📊 Status: Agendado
-```
-
-2026-08-22 19:23:00 [INFO] Mensagem enviada com sucesso (200 OK) para o Chat ID -1004398862397.
-[INFO] Notificações do arquivo .csv.diff enviadas com sucesso ao Telegram.
-2026-08-22 19:23:01 [INFO] [8_cbtm_telegram_envia.sh] ⏭️ [SKIP] Envio de notificacoes de grupos desativado no config.json ('telegram_enviar_atualizacao_grupos' != 1). Pulando Etapa 3.
-2026-08-22 19:23:01 [INFO] [8_cbtm_telegram_envia.sh] Rotina de atualizacoes do Telegram finalizada com sucesso!
-2026-08-22 19:23:01 [INFO] [agenda_crontab.sh] ✅ Passo 4 concluido com sucesso.
-2026-08-22 19:23:01 [INFO] [agenda_crontab.sh] ▶️ [5/7] Executando atualizacao de rating (/home/emersonb/python/9_cbtm_rating.sh)...
-[INFO] Executando cbtm_estimar_rating.py...
-[INFO] cbtm_estimar_rating.py executado com sucesso.
-2026-08-22 19:23:01 [INFO] [agenda_crontab.sh] ✅ Passo 5 concluido com sucesso.
-2026-08-22 19:23:01 [INFO] [agenda_crontab.sh] ▶️ [6/7] Executando upload para o portal ATMFOZ (/home/emersonb/python/6_cbtm_upload_atmfoz.sh)...
-2026-08-22 19:23:01 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Resultados (/home/emersonb/python/export/cbtm_resultados.json). Enviando via Rclone...
-2026-08-22 19:23:38 [INFO] [upload_atmfoz.sh] ✅ Resultados enviado e controle atualizado.
-2026-08-22 19:23:38 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Categorias sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:23:38 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Grupos Base sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:23:38 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Grupos Extras sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:23:38 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Jogos Extras sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:23:38 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Resultados ALL sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:23:39 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Categorias ALL sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:23:39 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Programação de Mesas (mesas.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:23:39 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Configuracao (config.json) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:23:39 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Export CSV (categorias.csv) (/home/emersonb/python/export/categorias.csv). Enviando via Rclone...
-2026-08-22 19:23:41 [INFO] [upload_atmfoz.sh] ✅ Export CSV (categorias.csv) enviado e controle atualizado.
-2026-08-22 19:23:41 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (clubes.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:23:41 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (eficiencia.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:23:41 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (inscricoes.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:23:41 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (mesas.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:23:41 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Export CSV (rating_simulado.csv) (/home/emersonb/python/export/rating_simulado.csv). Enviando via Rclone...
-2026-08-22 19:23:44 [INFO] [upload_atmfoz.sh] ✅ Export CSV (rating_simulado.csv) enviado e controle atualizado.
-2026-08-22 19:23:44 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Export CSV (resultado_evento.csv) (/home/emersonb/python/export/resultado_evento.csv). Enviando via Rclone...
-2026-08-22 19:23:46 [INFO] [upload_atmfoz.sh] ✅ Export CSV (resultado_evento.csv) enviado e controle atualizado.
-2026-08-22 19:23:46 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (telegram-grupos.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:23:46 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Export CSV (telegram-result.csv) (/home/emersonb/python/export/telegram-result.csv). Enviando via Rclone...
-2026-08-22 19:23:48 [INFO] [upload_atmfoz.sh] ✅ Export CSV (telegram-result.csv) enviado e controle atualizado.
-2026-08-22 19:23:48 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Log de Automacao (Invertido) (/tmp/cbtm_automacao.log). Enviando via Rclone...
-2026-08-22 19:23:50 [INFO] [upload_atmfoz.sh] ✅ Log de Automacao (Invertido) enviado e controle atualizado.
-2026-08-22 19:23:50 [INFO] [upload_atmfoz.sh] ✅ Ciclo de sincronizacao concluido com sucesso!
-2026-08-22 19:23:50 [INFO] [agenda_crontab.sh] ✅ Passo 6 concluido com sucesso.
-2026-08-22 19:23:50 [INFO] [agenda_crontab.sh] ▶️ [7/7] Executando sincronizacao GitHub export (/home/emersonb/python/6_github-export.sh)...
--------------------------------------------------------------------------
-📋 Preparando arquivos para exportação...
-📄 Extraindo as últimas 1000 linhas de /home/emersonb/python/cbtm_automacao.log...
-⚙️ Copiando config.json...
-[1/2] Criando commit...
-[main f4b34c6] Sincronização e limpeza de arquivos remotos em 2026-08-22 19:23:50
- 9 files changed, 1205 insertions(+), 896 deletions(-)
-[2/2] Enviando para o GitHub (push)...
-To https://github.com/barratella/cbtmexport.git
-   1b2df27..f4b34c6  main -> main
-branch 'main' set up to track 'origin/main'.
--------------------------------------------------------------------------
-✅ Concluído: Arquivos indesejados removidos do GitHub e mantidos na VPS!
--------------------------------------------------------------------------
-2026-08-22 19:23:52 [INFO] [agenda_crontab.sh] ✅ Passo 7 concluido com sucesso.
-2026-08-22 19:23:52 [INFO] [agenda_crontab.sh] 🏁 Toda a sequencia foi executada e concluida perfeitamente.
-2026-08-22 19:23:52 [INFO] [agenda_crontab.sh] ==================================================
-2026-08-22 19:30:01 [INFO] [agenda_crontab.sh] ==================================================
-2026-08-22 19:30:01 [INFO] [agenda_crontab.sh] 🚀 Iniciando sequencia automatizada via agenda_crontab.sh...
-2026-08-22 19:30:01 [INFO] [agenda_crontab.sh] ▶️ [1/7] Executando raspagem de resultados (/home/emersonb/python/4_cbtm_resultados.sh)...
-2026-08-22 19:30:01 [INFO] [4_cbtm_resultados.sh] Criando copia de seguranca preventiva de /home/emersonb/python/export/cbtm_resultados.json para /home/emersonb/python/export/cbtm_resultados.json.bkp
-2026-08-22 19:30:01 [INFO] [4_cbtm_resultados.sh] Iniciando raspagem de resultados...
-2026-08-22 19:30:03 [INFO] [cbtm_carregar_resultados.py] Configuracoes carregadas. PID: 785256
-2026-08-22 19:30:03 [INFO] [cbtm_carregar_resultados.py] Configuracoes carregadas. PID: 785256
-2026-08-22 19:30:03 [INFO] [cbtm_carregar_resultados.py] Arquivo de backup encontrado em disco.
-2026-08-22 19:30:03 [INFO] [cbtm_carregar_resultados.py] Arquivo de backup encontrado em disco.
-2026-08-22 19:30:03 [INFO] [cbtm_carregar_resultados.py] Cache dentro da validade. Ultima execucao completa ha 0.6h.
-2026-08-22 19:30:03 [INFO] [cbtm_carregar_resultados.py] Cache dentro da validade. Ultima execucao completa ha 0.6h.
-2026-08-22 19:30:03 [INFO] [cbtm_carregar_resultados.py] 🏆 Processando Evento ID 5997 (15 categoria(s))...
-2026-08-22 19:30:03 [INFO] [cbtm_carregar_resultados.py] 🏆 Processando Evento ID 5997 (15 categoria(s))...
-2026-08-22 19:30:03 [INFO] [cbtm_carregar_resultados.py] Inicializando Chrome Headless sob demanda...
-2026-08-22 19:30:03 [INFO] [cbtm_carregar_resultados.py] Inicializando Chrome Headless sob demanda...
-2026-08-22 19:30:05 [INFO] [cbtm_carregar_resultados.py] patching driver executable /home/emersonb/.local/share/undetected_chromedriver/undetected_chromedriver
-2026-08-22 19:30:05 [INFO] [cbtm_carregar_resultados.py] patching driver executable /home/emersonb/.local/share/undetected_chromedriver/undetected_chromedriver
-2026-08-22 19:30:13 [INFO] [cbtm_carregar_resultados.py] Navegando para o Evento: https://app.cbtm.org.br/IUI/App/Evento?tab=2&EVE_Evento_ID=5997
-2026-08-22 19:30:13 [INFO] [cbtm_carregar_resultados.py] Navegando para o Evento: https://app.cbtm.org.br/IUI/App/Evento?tab=2&EVE_Evento_ID=5997
-2026-08-22 19:30:31 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: ABSOLUTO A FEM (1/15)
-2026-08-22 19:30:31 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: ABSOLUTO A FEM (1/15)
-2026-08-22 19:30:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] MARIA  MENDES vs SABRINA  MIZVA
-2026-08-22 19:30:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] MARIA  MENDES vs SABRINA  MIZVA
-2026-08-22 19:30:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-2] MARIA  MENDES vs RENATA  TSUKADA
-2026-08-22 19:30:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-2] MARIA  MENDES vs RENATA  TSUKADA
-2026-08-22 19:30:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-1] MARIA  MENDES vs MARIA  ALVES
-2026-08-22 19:30:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-1] MARIA  MENDES vs MARIA  ALVES
-2026-08-22 19:30:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] JULLY  NAGAO vs MARIA  MENDES
-2026-08-22 19:30:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] JULLY  NAGAO vs MARIA  MENDES
-2026-08-22 19:30:49 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO D MAS -- Nenhum jogo pendente.
-2026-08-22 19:30:49 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO D MAS -- Nenhum jogo pendente.
-2026-08-22 19:30:49 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO E FEM -- Nenhum jogo pendente.
-2026-08-22 19:30:49 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO E FEM -- Nenhum jogo pendente.
-2026-08-22 19:30:49 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO F MAS -- Nenhum jogo pendente.
-2026-08-22 19:30:49 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO F MAS -- Nenhum jogo pendente.
-2026-08-22 19:30:49 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO G MAS -- Nenhum jogo pendente.
-2026-08-22 19:30:49 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO G MAS -- Nenhum jogo pendente.
-2026-08-22 19:30:49 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: MASTER 60MAS -- Nenhum jogo pendente.
-2026-08-22 19:30:49 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: MASTER 60MAS -- Nenhum jogo pendente.
-2026-08-22 19:30:54 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-09 MAS (7/15)
-2026-08-22 19:30:54 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-09 MAS (7/15)
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] MARTIM  AMARAL vs DANIEL  MELO
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] MARTIM  AMARAL vs DANIEL  MELO
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] HEITOR  MELLO vs MIGUEL  SOUZA
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] HEITOR  MELLO vs MIGUEL  SOUZA
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-1] JOAQUIM  MANTOVANI vs JOAQUIM  PRADO
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-1] JOAQUIM  MANTOVANI vs JOAQUIM  PRADO
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] ÍTALO  RAMIREZ vs ARTHUR  LIMA
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] ÍTALO  RAMIREZ vs ARTHUR  LIMA
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] HEITOR  MELLO vs MATIAS  BARBOSA
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] HEITOR  MELLO vs MATIAS  BARBOSA
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [1-3] GABRIEL  NARDI vs JOAQUIM  MANTOVANI
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [1-3] GABRIEL  NARDI vs JOAQUIM  MANTOVANI
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] ALEXANDRE  GLIZT vs ÍTALO  RAMIREZ
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] ALEXANDRE  GLIZT vs ÍTALO  RAMIREZ
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-2] MARTIM  AMARAL vs HENRIQUE  ITO
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-2] MARTIM  AMARAL vs HENRIQUE  ITO
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [1-3] CRISTOFFER  VIEIRA vs HEITOR  MELLO
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [1-3] CRISTOFFER  VIEIRA vs HEITOR  MELLO
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] JOAQUIM  MANTOVANI vs ÍTALO  RAMIREZ
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] JOAQUIM  MANTOVANI vs ÍTALO  RAMIREZ
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) HENRIQUE  ITO vs HEITOR  MELLO
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) HENRIQUE  ITO vs HEITOR  MELLO
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] MARTIM  AMARAL vs CRISTOFFER  VIEIRA
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] MARTIM  AMARAL vs CRISTOFFER  VIEIRA
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) JOAQUIM  MANTOVANI vs V17
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) JOAQUIM  MANTOVANI vs V17
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) MARTIM  AMARAL vs GABRIEL  NARDI
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) MARTIM  AMARAL vs GABRIEL  NARDI
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-11 FEM -- Apenas jogos em datas futuras.
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-11 FEM -- Apenas jogos em datas futuras.
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-11 MAS -- Apenas jogos em datas futuras.
-2026-08-22 19:31:10 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-11 MAS -- Apenas jogos em datas futuras.
-2026-08-22 19:31:15 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-13 FEM (10/15)
-2026-08-22 19:31:15 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-13 FEM (10/15)
-2026-08-22 19:31:31 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] NIVIN  ABDALLAH vs MARIANA  CAMARGO
-2026-08-22 19:31:31 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] NIVIN  ABDALLAH vs MARIANA  CAMARGO
-2026-08-22 19:31:31 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] NIVIN  ABDALLAH vs MANUELA  DOI
-2026-08-22 19:31:31 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] NIVIN  ABDALLAH vs MANUELA  DOI
-2026-08-22 19:31:31 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] NIVIN  ABDALLAH vs REBECA  AFONSO
-2026-08-22 19:31:31 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] NIVIN  ABDALLAH vs REBECA  AFONSO
-2026-08-22 19:31:31 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) NIVIN  ABDALLAH vs LIVIA  DUTKO
-2026-08-22 19:31:31 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) NIVIN  ABDALLAH vs LIVIA  DUTKO
-2026-08-22 19:31:31 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: SUB-13 MAS -- Nenhum jogo pendente.
-2026-08-22 19:31:31 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: SUB-13 MAS -- Nenhum jogo pendente.
-2026-08-22 19:31:31 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-15 FEM -- Apenas jogos em datas futuras.
-2026-08-22 19:31:31 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-15 FEM -- Apenas jogos em datas futuras.
-2026-08-22 19:31:31 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: SUB-17 FEM -- Nenhum jogo pendente.
-2026-08-22 19:31:31 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: SUB-17 FEM -- Nenhum jogo pendente.
-2026-08-22 19:31:36 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-17 MAS (14/15)
-2026-08-22 19:31:36 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-17 MAS (14/15)
-2026-08-22 19:31:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] CAUÃ  KNACK vs OTÁVIO  IENERICH
-2026-08-22 19:31:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] CAUÃ  KNACK vs OTÁVIO  IENERICH
-2026-08-22 19:31:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [2-3] RICCARDO  MACIEL vs CAUÃ  MATHEUS
-2026-08-22 19:31:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [2-3] RICCARDO  MACIEL vs CAUÃ  MATHEUS
-2026-08-22 19:31:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [0-3] MATHEUS  JACUMASSO vs RICCARDO  MACIEL
-2026-08-22 19:31:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [0-3] MATHEUS  JACUMASSO vs RICCARDO  MACIEL
-2026-08-22 19:31:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-1] CAUÃ  KNACK vs GUSTAVO  KANASHIRO
-2026-08-22 19:31:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-1] CAUÃ  KNACK vs GUSTAVO  KANASHIRO
-2026-08-22 19:31:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [1-3] FABRICIO  MARIN vs CAUÃ  KNACK
-2026-08-22 19:31:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [1-3] FABRICIO  MARIN vs CAUÃ  KNACK
-2026-08-22 19:31:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [0-3] RICCARDO  MACIEL vs MATHEUS  LESME
-2026-08-22 19:31:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [0-3] RICCARDO  MACIEL vs MATHEUS  LESME
-2026-08-22 19:31:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) GUSTAVO  AVELAR vs CAUÃ  KNACK
-2026-08-22 19:31:51 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) GUSTAVO  AVELAR vs CAUÃ  KNACK
-2026-08-22 19:31:51 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-19 MAS -- Apenas jogos em datas futuras.
-2026-08-22 19:31:51 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-19 MAS -- Apenas jogos em datas futuras.
-2026-08-22 19:31:51 [INFO] [cbtm_carregar_resultados.py] Arquivo de resultados atualizado e consolidado com sucesso!
-2026-08-22 19:31:51 [INFO] [cbtm_carregar_resultados.py] Arquivo de resultados atualizado e consolidado com sucesso!
-2026-08-22 19:31:52 [INFO] [4_cbtm_resultados.sh] Raspagem e ciclo de resultados finalizados com sucesso.
-2026-08-22 19:31:52 [INFO] [agenda_crontab.sh] ✅ Passo 1 concluido com sucesso.
-2026-08-22 19:31:52 [INFO] [agenda_crontab.sh] ▶️ [2/7] Executando busca de dependencias extras (/home/emersonb/python/5_cbtm_extras.sh)...
-2026-08-22 19:31:52 [INFO] Iniciando resolução de dependências extras (grupos e jogos)...
-2026-08-22 19:31:53 [INFO] [EXTRAS] Carregando resultados a partir de: /home/emersonb/python/export/cbtm_resultados.json
-2026-08-22 19:31:53 [INFO] [EXTRAS] Carregando resultados a partir de: /home/emersonb/python/export/cbtm_resultados.json
-2026-08-22 19:31:53 [INFO] [EXTRAS] Pendências identificadas: 0 grupo(s), 1 jogo(s).
-2026-08-22 19:31:53 [INFO] [EXTRAS] Pendências identificadas: 0 grupo(s), 1 jogo(s).
-2026-08-22 19:31:53 [INFO] [EXTRAS] 🌐 Buscando Confronto Jogo 17 em [SUB-09 MAS] (Evento ID 5997)...
-2026-08-22 19:31:53 [INFO] [EXTRAS] 🌐 Buscando Confronto Jogo 17 em [SUB-09 MAS] (Evento ID 5997)...
-2026-08-22 19:31:53 [INFO] [EXTRAS] Inicializando Chrome Headless...
-2026-08-22 19:31:53 [INFO] [EXTRAS] Inicializando Chrome Headless...
-2026-08-22 19:31:54 [INFO] [EXTRAS] patching driver executable /home/emersonb/.local/share/undetected_chromedriver/undetected_chromedriver
-2026-08-22 19:31:54 [INFO] [EXTRAS] patching driver executable /home/emersonb/.local/share/undetected_chromedriver/undetected_chromedriver
-2026-08-22 19:31:59 [INFO] [EXTRAS] Navegando para: https://app.cbtm.org.br/IUI/App/Evento?tab=2&EVE_Evento_ID=5997
-2026-08-22 19:31:59 [INFO] [EXTRAS] Navegando para: https://app.cbtm.org.br/IUI/App/Evento?tab=2&EVE_Evento_ID=5997
-2026-08-22 19:32:25 [INFO] [EXTRAS] 📁 Grupos Extras concatenados com sucesso em: /home/emersonb/python/export/cbtm_grupos_extras.json
-2026-08-22 19:32:25 [INFO] [EXTRAS] 📁 Grupos Extras concatenados com sucesso em: /home/emersonb/python/export/cbtm_grupos_extras.json
-2026-08-22 19:32:25 [INFO] [EXTRAS] 📁 Jogos Extras salvos em: /home/emersonb/python/export/cbtm_jogos_extras.json
-2026-08-22 19:32:25 [INFO] [EXTRAS] 📁 Jogos Extras salvos em: /home/emersonb/python/export/cbtm_jogos_extras.json
-2026-08-22 19:32:27 [INFO] Processo de busca de extras finalizado. Trava liberada.
-2026-08-22 19:32:27 [INFO] [agenda_crontab.sh] ✅ Passo 2 concluido com sucesso.
-2026-08-22 19:32:27 [INFO] [agenda_crontab.sh] ▶️ [3/7] Executando processamento Telegram local (/home/emersonb/python/7_cbtm_telegram_processa.sh)...
-2026-08-22 19:32:27 [INFO] [cbtm_telegram-processa.sh] Iniciando processamento de arquivos locais (cbtm_telegram-processa.py)...
-[INFO] Iniciando processamento de arquivos locais...
---- [1/5] Gerando Resultados Consolidados (show-all) ---
-[INFO] Backup CSV criado em: /home/emersonb/python/export/telegram-result.csv.bkp
-[INFO] Arquivo CSV gerado com sucesso em '/home/emersonb/python/export/telegram-result.csv'.
---- [2/5] Gerando Grupos Consolidados (show-grupos) ---
-[INFO] Backup do CSV de grupos criado em: '/home/emersonb/python/export/telegram-grupos.csv.bkp'.
-[INFO] Arquivo CSV de grupos gerado com sucesso em '/home/emersonb/python/export/telegram-grupos.csv'.
---- [3/5] Gerando Diferenças de Grupos (show-diff-grupos) ---
-[INFO] Arquivo de diferenças de grupos CSV gerado com sucesso em '/home/emersonb/python/export/telegram-grupos.csv.diff'.
---- [4/5] Gerando Diferenças de Resultados (show-diff) ---
-[INFO] Arquivo de diferenças CSV gerado com sucesso em '/home/emersonb/python/export/telegram-result.csv.diff'.
---- [5/5] Gerando Programação Pendente (show-prog) ---
-[INFO] Arquivo CSV de jogos pendentes gerado em '/home/emersonb/python/export/telegram-result.csv.prog'.
-[INFO] Processamento de arquivos locais concluído com sucesso!
-2026-08-22 19:32:27 [INFO] [cbtm_telegram-processa.sh] Processamento de arquivos locais concluido com sucesso!
-2026-08-22 19:32:27 [INFO] [agenda_crontab.sh] ✅ Passo 3 concluido com sucesso.
-2026-08-22 19:32:27 [INFO] [agenda_crontab.sh] ▶️ [4/7] Executando disparo de notificacoes Telegram (/home/emersonb/python/8_cbtm_telegram_envia.sh)...
-2026-08-22 19:32:27 [INFO] [8_cbtm_telegram_envia.sh] Disparando notificacoes de jogos modificados para o grupo do Telegram (send-diff)...
-2026-08-22 19:32:27 [INFO] [TELEGRAM-ENVIO] Chat ID: -1004398862397 | Conteúdo enviado:
-```
-= = = = = = = = = = = = = = =
-🏆 ETAPA 5 - GUAIRA
-
-✅ JOGOS ENCERRADOS
-
-🏓 SUB-17 MAS
-📌 Quartas de Final
-📅 SÁB 17:40 | 📍 MESA 22
-▫️ [1] FABRICIO MARIN
-▫️ [3] CAUÃ KNACK
-📊 (7-11)(14-16)(11-6)(4-11)
-
-🏓 ABSOLUTO A FEM
-📌 Semifinal
-📅 SÁB 18:05 | 📍 MESA 8
-▫️ [3] JULLY NAGAO
-▫️ [0] MARIA MENDES
-📊 (11-0)(11-0)(11-0)
-```
-
-2026-08-22 19:32:28 [INFO] Mensagem enviada com sucesso (200 OK) para o Chat ID -1004398862397.
-2026-08-22 19:32:30 [INFO] [TELEGRAM-ENVIO] Chat ID: -1004398862397 | Conteúdo enviado:
-```
-= = = = = = = = = = = = = = =
-🏆 ETAPA 5 - GUAIRA
-
-⏳ JOGOS PENDENTES
-
-🏓 SUB-17 MAS
-📌 Semifinal
-📅 SÁB 18:30 | 📍 MESA 21
-▫️ [ ] GUSTAVO AVELAR
-▫️ [ ] CAUÃ KNACK
-📊 Status: Agendado
-```
-
-2026-08-22 19:32:30 [INFO] Mensagem enviada com sucesso (200 OK) para o Chat ID -1004398862397.
-[INFO] Notificações do arquivo .csv.diff enviadas com sucesso ao Telegram.
-2026-08-22 19:32:30 [INFO] [8_cbtm_telegram_envia.sh] ⏭️ [SKIP] Envio de notificacoes de grupos desativado no config.json ('telegram_enviar_atualizacao_grupos' != 1). Pulando Etapa 3.
-2026-08-22 19:32:30 [INFO] [8_cbtm_telegram_envia.sh] Rotina de atualizacoes do Telegram finalizada com sucesso!
-2026-08-22 19:32:30 [INFO] [agenda_crontab.sh] ✅ Passo 4 concluido com sucesso.
-2026-08-22 19:32:30 [INFO] [agenda_crontab.sh] ▶️ [5/7] Executando atualizacao de rating (/home/emersonb/python/9_cbtm_rating.sh)...
-[INFO] Executando cbtm_estimar_rating.py...
-[INFO] cbtm_estimar_rating.py executado com sucesso.
-2026-08-22 19:32:30 [INFO] [agenda_crontab.sh] ✅ Passo 5 concluido com sucesso.
-2026-08-22 19:32:30 [INFO] [agenda_crontab.sh] ▶️ [6/7] Executando upload para o portal ATMFOZ (/home/emersonb/python/6_cbtm_upload_atmfoz.sh)...
-2026-08-22 19:32:31 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Resultados (/home/emersonb/python/export/cbtm_resultados.json). Enviando via Rclone...
-2026-08-22 19:32:33 [INFO] [upload_atmfoz.sh] ✅ Resultados enviado e controle atualizado.
-2026-08-22 19:32:33 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Categorias sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:32:33 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Grupos Base sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:32:33 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Grupos Extras sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:32:33 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Jogos Extras (/home/emersonb/python/export/cbtm_jogos_extras.json). Enviando via Rclone...
-2026-08-22 19:32:35 [INFO] [upload_atmfoz.sh] ✅ Jogos Extras enviado e controle atualizado.
-2026-08-22 19:32:35 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Resultados ALL sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:32:36 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Categorias ALL sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:32:36 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Programação de Mesas (mesas.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:32:36 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Configuracao (config.json) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:32:36 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (categorias.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:32:36 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (clubes.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:32:36 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (eficiencia.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:32:36 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (inscricoes.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:32:36 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (mesas.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:32:36 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (rating_simulado.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:32:36 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (resultado_evento.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:32:36 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (telegram-grupos.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
-2026-08-22 19:32:36 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Export CSV (telegram-result.csv) (/home/emersonb/python/export/telegram-result.csv). Enviando via Rclone...
-2026-08-22 19:32:38 [INFO] [upload_atmfoz.sh] ✅ Export CSV (telegram-result.csv) enviado e controle atualizado.
-2026-08-22 19:32:38 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Log de Automacao (Invertido) (/tmp/cbtm_automacao.log). Enviando via Rclone...
-2026-08-22 19:32:40 [INFO] [upload_atmfoz.sh] ✅ Log de Automacao (Invertido) enviado e controle atualizado.
-2026-08-22 19:32:40 [INFO] [upload_atmfoz.sh] ✅ Ciclo de sincronizacao concluido com sucesso!
-2026-08-22 19:32:40 [INFO] [agenda_crontab.sh] ✅ Passo 6 concluido com sucesso.
-2026-08-22 19:32:40 [INFO] [agenda_crontab.sh] ▶️ [7/7] Executando sincronizacao GitHub export (/home/emersonb/python/6_github-export.sh)...
--------------------------------------------------------------------------
-📋 Preparando arquivos para exportação...
-📄 Extraindo as últimas 1000 linhas de /home/emersonb/python/cbtm_automacao.log...
-⚙️ Copiando config.json...
-[1/2] Criando commit...
-[main cc26e19] Sincronização e limpeza de arquivos remotos em 2026-08-22 19:32:40
- 5 files changed, 315 insertions(+), 255 deletions(-)
-[2/2] Enviando para o GitHub (push)...
-To https://github.com/barratella/cbtmexport.git
-   f4b34c6..cc26e19  main -> main
-branch 'main' set up to track 'origin/main'.
--------------------------------------------------------------------------
-✅ Concluído: Arquivos indesejados removidos do GitHub e mantidos na VPS!
--------------------------------------------------------------------------
-2026-08-22 19:32:42 [INFO] [agenda_crontab.sh] ✅ Passo 7 concluido com sucesso.
-2026-08-22 19:32:42 [INFO] [agenda_crontab.sh] 🏁 Toda a sequencia foi executada e concluida perfeitamente.
-2026-08-22 19:32:42 [INFO] [agenda_crontab.sh] ==================================================
-2026-08-22 19:37:02 [INFO] [cbtm_carregar_grupos.py] Iniciando raspagem de GRUPOS inteligente (com suporte a ratings negativos). PID: 787458
-2026-08-22 19:37:02 [INFO] [cbtm_carregar_grupos.py] Backup carregado com sucesso de '/home/emersonb/python/export/cbtm_grupos.json.bkp' para verificação de grupos pendentes.
-2026-08-22 19:37:02 [INFO] [cbtm_carregar_grupos.py] 🏆 Processando Grupos do Evento ID 5997 (15 categoria(s))...
-2026-08-22 19:37:02 [INFO] [cbtm_carregar_grupos.py] ⚡ [SKIP SCRAPING] Categoria 'ABSOLUTO A FEM' [5997] já possui todos os grupos finalizados com posições no backup. Reutilizando dados salvos.
-2026-08-22 19:37:02 [INFO] [cbtm_carregar_grupos.py] ⚡ [SKIP SCRAPING] Categoria 'ABSOLUTO D MAS' [5997] já possui todos os grupos finalizados com posições no backup. Reutilizando dados salvos.
-2026-08-22 19:37:02 [INFO] [cbtm_carregar_grupos.py] ⚡ [SKIP SCRAPING] Categoria 'ABSOLUTO E FEM' [5997] já possui todos os grupos finalizados com posições no backup. Reutilizando dados salvos.
-2026-08-22 19:37:02 [INFO] [cbtm_carregar_grupos.py] ⚡ [SKIP SCRAPING] Categoria 'ABSOLUTO F MAS' [5997] já possui todos os grupos finalizados com posições no backup. Reutilizando dados salvos.
-2026-08-22 19:37:02 [INFO] [cbtm_carregar_grupos.py] ⚡ [SKIP SCRAPING] Categoria 'ABSOLUTO G MAS' [5997] já possui todos os grupos finalizados com posições no backup. Reutilizando dados salvos.
-2026-08-22 19:37:02 [INFO] [cbtm_carregar_grupos.py] ⚡ [SKIP SCRAPING] Categoria 'MASTER 60MAS' [5997] já possui todos os grupos finalizados com posições no backup. Reutilizando dados salvos.
-2026-08-22 19:37:02 [INFO] [cbtm_carregar_grupos.py] ⚡ [SKIP SCRAPING] Categoria 'SUB-09 MAS' [5997] já possui todos os grupos finalizados com posições no backup. Reutilizando dados salvos.
-2026-08-22 19:37:02 [INFO] [cbtm_carregar_grupos.py] Inicializando Chrome Headless para Grupos...
-2026-08-22 19:37:03 [INFO] [cbtm_carregar_grupos.py] patching driver executable /home/emersonb/.local/share/undetected_chromedriver/undetected_chromedriver
-2026-08-22 19:37:08 [INFO] [cbtm_carregar_grupos.py] Navegando para a Aba de Grupos: https://app.cbtm.org.br/IUI/App/Evento?tab=1&EVE_Evento_ID=5997
-2026-08-22 19:37:24 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: SUB-11 FEM (8/15)
-2026-08-22 19:37:41 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-11 FEM]: SUB-11 FEM - Grupo 02 (4 atletas)
-2026-08-22 19:37:46 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: SUB-11 MAS (9/15)
-2026-08-22 19:38:03 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-11 MAS]: SUB-11 MAS - Grupo 01 (3 atletas)
-2026-08-22 19:38:03 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-11 MAS]: SUB-11 MAS - Grupo 03 (3 atletas)
-2026-08-22 19:38:03 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-11 MAS]: SUB-11 MAS - Grupo 05 (3 atletas)
-2026-08-22 19:38:03 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-11 MAS]: SUB-11 MAS - Grupo 06 (4 atletas)
-2026-08-22 19:38:03 [INFO] [cbtm_carregar_grupos.py] ⚡ [SKIP SCRAPING] Categoria 'SUB-13 FEM' [5997] já possui todos os grupos finalizados com posições no backup. Reutilizando dados salvos.
-2026-08-22 19:38:03 [INFO] [cbtm_carregar_grupos.py] ⚡ [SKIP SCRAPING] Categoria 'SUB-13 MAS' [5997] já possui todos os grupos finalizados com posições no backup. Reutilizando dados salvos.
-2026-08-22 19:38:08 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: SUB-15 FEM (12/15)
-2026-08-22 19:38:25 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-15 FEM]: SUB-15 FEM - Grupo 01 (3 atletas)
-2026-08-22 19:38:25 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-15 FEM]: SUB-15 FEM - Grupo 02 (4 atletas)
-2026-08-22 19:38:25 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-15 FEM]: SUB-15 FEM - Grupo 03 (4 atletas)
-2026-08-22 19:38:25 [INFO] [cbtm_carregar_grupos.py] ⚡ [SKIP SCRAPING] Categoria 'SUB-17 FEM' [5997] já possui todos os grupos finalizados com posições no backup. Reutilizando dados salvos.
-2026-08-22 19:38:25 [INFO] [cbtm_carregar_grupos.py] ⚡ [SKIP SCRAPING] Categoria 'SUB-17 MAS' [5997] já possui todos os grupos finalizados com posições no backup. Reutilizando dados salvos.
-2026-08-22 19:38:30 [INFO] [cbtm_carregar_grupos.py] 🌐 RASPANDO GRUPOS [5997]: SUB-19 MAS (15/15)
-2026-08-22 19:38:45 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-19 MAS]: SUB-19 MAS - Grupo 01 (3 atletas)
-2026-08-22 19:38:45 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-19 MAS]: SUB-19 MAS - Grupo 04 (3 atletas)
-2026-08-22 19:38:45 [INFO] [cbtm_carregar_grupos.py] Grupo Mapeado [5997 - SUB-19 MAS]: SUB-19 MAS - Grupo 05 (3 atletas)
-2026-08-22 19:38:45 [INFO] [cbtm_carregar_grupos.py] Arquivo de grupos gravado com sucesso em: '/home/emersonb/python/export/cbtm_grupos.json'
-2026-08-22 19:38:47 [INFO] [RESULTADOS-ALL] ⚙️ Configurações carregadas (MODO ALL RESULTADOS). PID: 788132
-2026-08-22 19:38:47 [INFO] [RESULTADOS-ALL] 📋 Cópia de backup gerada com sucesso: /home/emersonb/python/export/cbtm_resultados_all.json -> /home/emersonb/python/export/cbtm_resultados_all.json.bkp
-2026-08-22 19:38:47 [INFO] [RESULTADOS-ALL] 📦 Dados de backup do arquivo acumulado ALL carregados com sucesso.
-2026-08-22 19:38:47 [INFO] [RESULTADOS-ALL] 🏆 Processando Resultados do Evento ID 5997 (39 categoria(s))...
-2026-08-22 19:38:47 [INFO] [RESULTADOS-ALL] 🤖 Inicializando Chrome Headless...
-2026-08-22 19:38:48 [INFO] [RESULTADOS-ALL] patching driver executable /home/emersonb/.local/share/undetected_chromedriver/undetected_chromedriver
-2026-08-22 19:38:53 [INFO] [RESULTADOS-ALL] 🌐 Navegando para o Evento (Tentativa 1/3): https://app.cbtm.org.br/IUI/App/Evento?tab=2&EVE_Evento_ID=5997
-2026-08-22 19:39:08 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: ABSOLUTO A FEM (1/39)
-2026-08-22 19:39:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] MELISSA  AOYAMA vs JULLY  NAGAO
-2026-08-22 19:39:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] VANESSA  HAYASHI vs ISABELLE  TANAKA
-2026-08-22 19:39:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] MARIA  MENDES vs SABRINA  MIZVA
-2026-08-22 19:39:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] MARIA  ALVES vs RENATA  TSUKADA
-2026-08-22 19:39:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] MELISSA  AOYAMA vs ISABELLE  TANAKA
-2026-08-22 19:39:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] VANESSA  HAYASHI vs JULLY  NAGAO
-2026-08-22 19:39:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] MARIA  MENDES vs RENATA  TSUKADA
-2026-08-22 19:39:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] MARIA  ALVES vs SABRINA  MIZVA
-2026-08-22 19:39:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] ISABELLE  TANAKA vs JULLY  NAGAO
-2026-08-22 19:39:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] MELISSA  AOYAMA vs VANESSA  HAYASHI
-2026-08-22 19:39:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] RENATA  TSUKADA vs SABRINA  MIZVA
-2026-08-22 19:39:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] MARIA  MENDES vs MARIA  ALVES
-2026-08-22 19:39:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] MELISSA  AOYAMA vs MARIA  ALVES
-2026-08-22 19:39:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] JULLY  NAGAO vs MARIA  MENDES
-2026-08-22 19:39:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) MELISSA  AOYAMA vs JULLY  NAGAO
-2026-08-22 19:39:30 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: ABSOLUTO A MAS (2/39)
-2026-08-22 19:39:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] FELIPE  LARA vs ARTHUR  PIGNATTI
-2026-08-22 19:39:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] HOON  SHIM vs NESTOR  CHAVES
-2026-08-22 19:39:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] GUILHERME  RODRIGUES vs IGOR  GAVAZZONI
-2026-08-22 19:39:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] EGON  LOVATO vs GABRIEL  CHICUTA
-2026-08-22 19:39:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] EDUARDO  GRUCHOSKI vs FELIPE  BORGES
-2026-08-22 19:39:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] ALLEX  SAKATA vs ARTHUR  PIGNATTI
-2026-08-22 19:39:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] KEVIN  OLIVEIRA vs NESTOR  CHAVES
-2026-08-22 19:39:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] MESSIAS  SANTOS vs IGOR  GAVAZZONI
-2026-08-22 19:39:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] EGON  LOVATO vs FELIPE  BORGES
-2026-08-22 19:39:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] EDUARDO  GRUCHOSKI vs GABRIEL  CHICUTA
-2026-08-22 19:39:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] FELIPE  LARA vs ALLEX  SAKATA
-2026-08-22 19:39:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] HOON  SHIM vs KEVIN  OLIVEIRA
-2026-08-22 19:39:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] GUILHERME  RODRIGUES vs MESSIAS  SANTOS
-2026-08-22 19:39:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] FELIPE  BORGES vs GABRIEL  CHICUTA
-2026-08-22 19:39:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] EGON  LOVATO vs EDUARDO  GRUCHOSKI
-2026-08-22 19:39:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] FELIPE  LARA vs NESTOR  CHAVES
-2026-08-22 19:39:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] MESSIAS  SANTOS vs FELIPE  BORGES
-2026-08-22 19:39:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] GUILHERME  RODRIGUES vs EGON  LOVATO
-2026-08-22 19:39:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] ALLEX  SAKATA vs HOON  SHIM
-2026-08-22 19:39:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] FELIPE  LARA vs FELIPE  BORGES
-2026-08-22 19:39:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) GUILHERME  RODRIGUES vs HOON  SHIM
-2026-08-22 19:39:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) FELIPE  LARA vs V21
-2026-08-22 19:39:48 [INFO] [RESULTADOS-ALL] ♻️ REAPROVEITADO (BACKUP) [5997]: ABSOLUTO B MAS -- Sem jogos agendados pendentes para hoje (22/08/2026).
-2026-08-22 19:39:53 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: ABSOLUTO C FEM (4/39)
-2026-08-22 19:40:01 [INFO] [agenda_crontab.sh] ==================================================
-2026-08-22 19:40:01 [INFO] [agenda_crontab.sh] 🚀 Iniciando sequencia automatizada via agenda_crontab.sh...
-2026-08-22 19:40:01 [INFO] [agenda_crontab.sh] ▶️ [1/7] Executando raspagem de resultados (/home/emersonb/python/4_cbtm_resultados.sh)...
-2026-08-22 19:40:01 [INFO] [4_cbtm_resultados.sh] Criando copia de seguranca preventiva de /home/emersonb/python/export/cbtm_resultados.json para /home/emersonb/python/export/cbtm_resultados.json.bkp
-2026-08-22 19:40:01 [INFO] [4_cbtm_resultados.sh] Iniciando raspagem de resultados...
-2026-08-22 19:40:11 [INFO] [cbtm_carregar_resultados.py] Configuracoes carregadas. PID: 788741
-2026-08-22 19:40:11 [INFO] [cbtm_carregar_resultados.py] Configuracoes carregadas. PID: 788741
 2026-08-22 19:40:11 [INFO] [cbtm_carregar_resultados.py] Arquivo de backup encontrado em disco.
 2026-08-22 19:40:11 [INFO] [cbtm_carregar_resultados.py] Arquivo de backup encontrado em disco.
 2026-08-22 19:40:11 [INFO] [cbtm_carregar_resultados.py] Cache dentro da validade. Ultima execucao completa ha 0.7h.
@@ -995,6 +325,676 @@ branch 'main' set up to track 'origin/main'.
 2026-08-22 19:42:03 [INFO] [upload_atmfoz.sh] ✅ Ciclo de sincronizacao concluido com sucesso!
 2026-08-22 19:42:03 [INFO] [agenda_crontab.sh] ✅ Passo 6 concluido com sucesso.
 2026-08-22 19:42:03 [INFO] [agenda_crontab.sh] ▶️ [7/7] Executando sincronizacao GitHub export (/home/emersonb/python/6_github-export.sh)...
+-------------------------------------------------------------------------
+📋 Preparando arquivos para exportação...
+📄 Extraindo as últimas 1000 linhas de /home/emersonb/python/cbtm_automacao.log...
+⚙️ Copiando config.json...
+[1/2] Criando commit...
+[main abcd87a] Sincronização e limpeza de arquivos remotos em 2026-08-22 19:42:03
+ 5 files changed, 485 insertions(+), 467 deletions(-)
+[2/2] Enviando para o GitHub (push)...
+To https://github.com/barratella/cbtmexport.git
+   cc26e19..abcd87a  main -> main
+branch 'main' set up to track 'origin/main'.
+2026-08-22 19:42:04 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: ABSOLUTO E MAS (9/39)
+-------------------------------------------------------------------------
+✅ Concluído: Arquivos indesejados removidos do GitHub e mantidos na VPS!
+-------------------------------------------------------------------------
+2026-08-22 19:42:04 [INFO] [agenda_crontab.sh] ✅ Passo 7 concluido com sucesso.
+2026-08-22 19:42:04 [INFO] [agenda_crontab.sh] 🏁 Toda a sequencia foi executada e concluida perfeitamente.
+2026-08-22 19:42:04 [INFO] [agenda_crontab.sh] ==================================================
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] RAFAEL  SANTOS vs RAVI  BERTHOLDI
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] JOÃO  ITARUCZAK vs THIAGO  WOLSKI
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] LEANDRO  FILHO vs JOÃO  GONÇALVES
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] ENZO  KADLUBISKI vs LEANDRO  SILVA
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] ALESANDRO  WOLSKI vs JOSÉ  SILVA
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] TIAGO  LEMES vs GIOVANI  JUNIOR
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] PEDRO  SILVA vs RAJ  ADDI
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] ADILSON  KUBO vs HUGO  CAWASHIMA
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] ARTHUR  MOKFA vs RAVI  BERTHOLDI
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] JOÃO  SCHAKOFSKI vs THIAGO  WOLSKI
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] JHEISON  BORGES vs JOÃO  GONÇALVES
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] JOÃO  ZILIO vs LEANDRO  SILVA
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] ALESANDRO  WOLSKI vs GIOVANI  JUNIOR
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] TIAGO  LEMES vs JOSÉ  SILVA
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] PEDRO  SILVA vs HUGO  CAWASHIMA
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] ADILSON  KUBO vs RAJ  ADDI
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] RAFAEL  SANTOS vs ARTHUR  MOKFA
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] JOÃO  ITARUCZAK vs JOÃO  SCHAKOFSKI
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] LEANDRO  FILHO vs JHEISON  BORGES
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] ENZO  KADLUBISKI vs JOÃO  ZILIO
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] ALESANDRO  WOLSKI vs TIAGO  LEMES
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] GIOVANI  JUNIOR vs JOSÉ  SILVA
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] PEDRO  SILVA vs ADILSON  KUBO
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] HUGO  CAWASHIMA vs RAJ  ADDI
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] THIAGO  WOLSKI vs HUGO  CAWASHIMA
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] GIOVANI  JUNIOR vs JOÃO  GONÇALVES
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] LEANDRO  SILVA vs ADILSON  KUBO
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] TIAGO  LEMES vs ARTHUR  MOKFA
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] RAFAEL  SANTOS vs HUGO  CAWASHIMA
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] GIOVANI  JUNIOR vs ENZO  KADLUBISKI
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] JHEISON  BORGES vs LEANDRO  SILVA
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] TIAGO  LEMES vs JOÃO  ITARUCZAK
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) HUGO  CAWASHIMA vs ENZO  KADLUBISKI
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] LEANDRO  SILVA vs TIAGO  LEMES
+2026-08-22 19:42:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) V33 vs LEANDRO  SILVA
+2026-08-22 19:42:30 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: ABSOLUTO F MAS (10/39)
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] RAPHAEL  SOUZA vs FRANCISCO  JUNIOR
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] DANIEL  VAZ vs JANDI  BARBOSA
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] DAVI  SANTOS vs OLAVO  FIRINO
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] DIOGO  PAULA vs GABRIEL  ABADE
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] EDUARDO  RODRIGUES vs ODAIR  JAREMTCHUK
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] WILLIAM  TOKUSHIMA vs MATHEUS  FIGUEREDO
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] SAMUEL  ZILIO vs CAIO  BONI
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] SÉRGIO  LIMA vs GUILHERME  GRILLANDA
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] MATTEUS  BECKER vs MIGUEL  REFUNDINI
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] LAM  FAI vs EMANUEL  MAINGUE
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] LUÍS  SCHEREDA vs ROGÉRIO  OLIVEIRA
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] GABRIEL  LOPES vs NICOLAS  PERALTA
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] VITTOR  MAHNIC vs FRANCISCO  JUNIOR
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] LEONARDO  RAMIREZ vs JANDI  BARBOSA
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] LEONARDO  SUPERTI vs OLAVO  FIRINO
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] PIETRO  NASCIMENTO vs GABRIEL  ABADE
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] JOÃO  OLIVEIRA vs ODAIR  JAREMTCHUK
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] DAVI  VIANNA vs MATHEUS  FIGUEREDO
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] WILLIAN  OLIVEIRA vs CAIO  BONI
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] VITOR  SANTOS vs GUILHERME  GRILLANDA
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] VALMIR  JUNIOR vs MIGUEL  REFUNDINI
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] ANDRÉ  WELCOFF vs EMANUEL  MAINGUE
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] LUÍS  SCHEREDA vs NICOLAS  PERALTA
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] GABRIEL  LOPES vs ROGÉRIO  OLIVEIRA
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] RAPHAEL  SOUZA vs VITTOR  MAHNIC
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] DANIEL  VAZ vs LEONARDO  RAMIREZ
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] DAVI  SANTOS vs LEONARDO  SUPERTI
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] DIOGO  PAULA vs PIETRO  NASCIMENTO
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] EDUARDO  RODRIGUES vs JOÃO  OLIVEIRA
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] WILLIAM  TOKUSHIMA vs DAVI  VIANNA
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] SAMUEL  ZILIO vs WILLIAN  OLIVEIRA
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] SÉRGIO  LIMA vs VITOR  SANTOS
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] MATTEUS  BECKER vs VALMIR  JUNIOR
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] LAM  FAI vs ANDRÉ  WELCOFF
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] NICOLAS  PERALTA vs ROGÉRIO  OLIVEIRA
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] LUÍS  SCHEREDA vs GABRIEL  LOPES
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] LEONARDO  RAMIREZ vs SAMUEL  ZILIO
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] WILLIAM  TOKUSHIMA vs LUÍS  SCHEREDA
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] ANDRÉ  WELCOFF vs LEONARDO  SUPERTI
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] PIETRO  NASCIMENTO vs VALMIR  JUNIOR
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] NICOLAS  PERALTA vs ODAIR  JAREMTCHUK
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] VITOR  SANTOS vs FRANCISCO  JUNIOR
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] RAPHAEL  SOUZA vs LEONARDO  RAMIREZ
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] MATTEUS  BECKER vs GUILHERME  GRILLANDA
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] JOÃO  OLIVEIRA vs LUÍS  SCHEREDA
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] LEONARDO  SUPERTI vs GABRIEL  ABADE
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] DAVI  SANTOS vs VALMIR  JUNIOR
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] NICOLAS  PERALTA vs MATHEUS  FIGUEREDO
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] WILLIAN  OLIVEIRA vs EMANUEL  MAINGUE
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] VITOR  SANTOS vs DANIEL  VAZ
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] RAPHAEL  SOUZA vs GUILHERME  GRILLANDA
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] JOÃO  OLIVEIRA vs GABRIEL  ABADE
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] VALMIR  JUNIOR vs MATHEUS  FIGUEREDO
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] EMANUEL  MAINGUE vs VITOR  SANTOS
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) RAPHAEL  SOUZA vs GABRIEL  ABADE
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) MATHEUS  FIGUEREDO vs EMANUEL  MAINGUE
+2026-08-22 19:42:48 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) V55 vs V56
+2026-08-22 19:42:53 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: ABSOLUTO G MAS (11/39)
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] FABIO  RIVILI vs RICARDO  VALUS
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] LUCAS  PAULA vs GENARO  LESME
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] ANTONIO  WOLSKI vs ANDRÉ  CABRAL
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] EDGAR  JUNIOR vs DAVI  NOVAES
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] NICOLAS  BARBOSA vs PEDRO  MULLER
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] ANDERSON  SANTOS vs LEONARDO  AMARAL
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] JOÃO  TRZASKOS vs RAFAEL  SILVA
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] FABIO  MIURA vs ROBERTO  ANDRE
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] DAVI  MIRANDA vs EMANUEL  SILVA
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] MATHEUS  SILVEIRA vs DAVI  MARCARINI
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] IAN  JUNIOR vs MARLOM  SCHMITT
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] THIAGO  SILVA vs DAVI  MORAES
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] DAVI  KNAPP vs JOSÉ  MILLÉO
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] LUIZ  JUSTINA vs RICARDO  VALUS
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] JOÃO  MAGAGNIN vs GENARO  LESME
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] IGOR  CECHET vs ANDRÉ  CABRAL
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] FELIPE  RIBEIRO vs DAVI  NOVAES
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] MIGUEL  SCUSSIATTO vs PEDRO  MULLER
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] JOÃO  CEZARIO vs LEONARDO  AMARAL
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] VICTOR  SCHERER vs RAFAEL  SILVA
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] JOSÉ  ROMITTI vs ROBERTO  ANDRE
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] GABRIEL  DIPOLD vs EMANUEL  SILVA
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] MATHEUS  SILVEIRA vs MARLOM  SCHMITT
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] IAN  JUNIOR vs DAVI  MARCARINI
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] THIAGO  SILVA vs JOSÉ  MILLÉO
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] DAVI  KNAPP vs DAVI  MORAES
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] FABIO  RIVILI vs LUIZ  JUSTINA
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] LUCAS  PAULA vs JOÃO  MAGAGNIN
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] ANTONIO  WOLSKI vs IGOR  CECHET
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] EDGAR  JUNIOR vs FELIPE  RIBEIRO
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] NICOLAS  BARBOSA vs MIGUEL  SCUSSIATTO
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] ANDERSON  SANTOS vs JOÃO  CEZARIO
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] JOÃO  TRZASKOS vs VICTOR  SCHERER
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] FABIO  MIURA vs JOSÉ  ROMITTI
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] DAVI  MIRANDA vs GABRIEL  DIPOLD
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] MATHEUS  SILVEIRA vs IAN  JUNIOR
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] MARLOM  SCHMITT vs DAVI  MARCARINI
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] THIAGO  SILVA vs DAVI  KNAPP
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] JOSÉ  MILLÉO vs DAVI  MORAES
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] ANDRÉ  KOCHI vs FABIO  RIVILI
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] VITOR  BARRATELLA vs JOÃO  TRZASKOS
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] VINÍCIUS  CHICUTA vs JOÃO  CEZARIO
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] FERNANDO  YAMAMOTO vs GABRIEL  DIPOLD
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] HELENO  AMARAL vs FABIO  MIURA
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] ELIZEU  ALVES vs NICOLAS  BARBOSA
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] JOÃO  RODRIGUES vs THIAGO  SILVA
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] LOHAN  OLIVEIRA vs LUCAS  PAULA
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] GUSTAVO  MALAMIN vs ANDRÉ  CABRAL
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] GABRIEL  ROSA vs MARLOM  SCHMITT
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] LEONARDO  CAMARGO vs DAVI  NOVAES
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] PAULO  MITSUI vs IGOR  CECHET
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] FELIPE  DAMASCENO vs DAVI  MIRANDA
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] ERIC  TAKESHITA vs EDGAR  JUNIOR
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] MÁRCIO  JAMBERSI vs LUIZ  JUSTINA
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] JOÃO  SALES vs DAVI  MORAES
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] PAULO  ASSIS vs LEONARDO  AMARAL
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] LINCON  GROSSE vs RAFAEL  SILVA
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] JACSSON  NASCIMENTO vs IAN  JUNIOR
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] ARTHUR  FAEDO vs MIGUEL  SCUSSIATTO
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] LUIZ  OLIVEIRA vs JOSÉ  ROMITTI
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] VINICIUS  NEGRI vs GENARO  LESME
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] EDUARDO  SASSAKI vs FABIO  RIVILI
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] JOÃO  TRZASKOS vs VINÍCIUS  CHICUTA
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] NATHAN  CORREA vs FERNANDO  YAMAMOTO
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] MATIAS  ARENHARD vs FABIO  MIURA
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] RENAN  ALMEIDA vs NICOLAS  BARBOSA
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] JOÃO  RODRIGUES vs LOHAN  OLIVEIRA
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] GUSTAVO  MALAMIN vs MARLOM  SCHMITT
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] DANIEL  MENEGASSI vs DAVI  NOVAES
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] VICTOR  ITO vs PAULO  MITSUI
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] FELIPE  DAMASCENO vs EDGAR  JUNIOR
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] LUIZ  JUSTINA vs DAVI  MORAES
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] SAMUEL  SOBRAL vs LEONARDO  AMARAL
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] GUILHERME  SANTOS vs RAFAEL  SILVA
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] NICOLAS  FARIA vs IAN  JUNIOR
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] MIGUEL  SCUSSIATTO vs JOSÉ  ROMITTI
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] SAULO  PIRES vs GENARO  LESME
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] EDUARDO  SASSAKI vs JOÃO  TRZASKOS
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] NATHAN  CORREA vs MATIAS  ARENHARD
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] RENAN  ALMEIDA vs LOHAN  OLIVEIRA
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] MARLOM  SCHMITT vs DAVI  NOVAES
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] PAULO  MITSUI vs FELIPE  DAMASCENO
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] LUIZ  JUSTINA vs SAMUEL  SOBRAL
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] GUILHERME  SANTOS vs NICOLAS  FARIA
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] JOSÉ  ROMITTI vs GENARO  LESME
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] EDUARDO  SASSAKI vs NATHAN  CORREA
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] LOHAN  OLIVEIRA vs MARLOM  SCHMITT
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] PAULO  MITSUI vs SAMUEL  SOBRAL
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] GUILHERME  SANTOS vs GENARO  LESME
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) EDUARDO  SASSAKI vs MARLOM  SCHMITT
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) PAULO  MITSUI vs GUILHERME  SANTOS
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) V90 vs V91
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL] ♻️ REAPROVEITADO (BACKUP) [5997]: ADULTO FEM -- Sem jogos agendados pendentes para hoje (22/08/2026).
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL] ♻️ REAPROVEITADO (BACKUP) [5997]: ADULTO MAS -- Sem jogos agendados pendentes para hoje (22/08/2026).
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL] ♻️ REAPROVEITADO (BACKUP) [5997]: MASTER 30FEM -- Sem jogos agendados pendentes para hoje (22/08/2026).
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL] ♻️ REAPROVEITADO (BACKUP) [5997]: MASTER 30MAS -- Sem jogos agendados pendentes para hoje (22/08/2026).
+2026-08-22 19:43:13 [INFO] [RESULTADOS-ALL] ♻️ REAPROVEITADO (BACKUP) [5997]: MASTER 40FEM -- Sem jogos agendados pendentes para hoje (22/08/2026).
+2026-08-22 19:43:18 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: MASTER 40MAS (17/39)
+2026-08-22 19:43:34 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] EDUARDO  SILVA vs ANDRÉ  SILVA
+2026-08-22 19:43:34 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] WESLEI  SILVA vs MAURO  SANDOVAL
+2026-08-22 19:43:34 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] RICARDO  AOYAMA vs ROBERTO  JÚNIOR
+2026-08-22 19:43:34 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] FERNANDO  OLIVEIRA vs ANDRÉ  SILVA
+2026-08-22 19:43:34 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] WESLEI  SILVA vs ROBERTO  JÚNIOR
+2026-08-22 19:43:34 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] RICARDO  AOYAMA vs MAURO  SANDOVAL
+2026-08-22 19:43:34 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] EDUARDO  SILVA vs FERNANDO  OLIVEIRA
+2026-08-22 19:43:34 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] ROBERTO  JÚNIOR vs MAURO  SANDOVAL
+2026-08-22 19:43:34 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] WESLEI  SILVA vs RICARDO  AOYAMA
+2026-08-22 19:43:34 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) FERNANDO  OLIVEIRA vs ROBERTO  JÚNIOR
+2026-08-22 19:43:34 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) EDUARDO  SILVA vs RICARDO  AOYAMA
+2026-08-22 19:43:34 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) V10 vs V11
+2026-08-22 19:43:34 [INFO] [RESULTADOS-ALL] ♻️ REAPROVEITADO (BACKUP) [5997]: MASTER 50FEM -- Sem jogos agendados pendentes para hoje (22/08/2026).
+2026-08-22 19:43:39 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: MASTER 50MAS (19/39)
+2026-08-22 19:43:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] FÁBIO  SAZAKI vs MARCOS  HAYASHIDA
+2026-08-22 19:43:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] EMERSON  JERÔNIMO vs MARCIO  GOUVEA
+2026-08-22 19:43:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] GERMANO  ALVES vs ITALO  NISHIMORI
+2026-08-22 19:43:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] HILTON  BRANDÁO vs CARLOS  SANTOS
+2026-08-22 19:43:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] EDSON  MARROQUE vs MARCOS  HAYASHIDA
+2026-08-22 19:43:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] CRISTIANO  STENZEL vs MARCIO  GOUVEA
+2026-08-22 19:43:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] GERMANO  ALVES vs CARLOS  SANTOS
+2026-08-22 19:43:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] HILTON  BRANDÁO vs ITALO  NISHIMORI
+2026-08-22 19:43:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] FÁBIO  SAZAKI vs EDSON  MARROQUE
+2026-08-22 19:43:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] EMERSON  JERÔNIMO vs CRISTIANO  STENZEL
+2026-08-22 19:43:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] GERMANO  ALVES vs HILTON  BRANDÁO
+2026-08-22 19:43:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] CARLOS  SANTOS vs ITALO  NISHIMORI
+2026-08-22 19:43:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] CRISTIANO  STENZEL vs HILTON  BRANDÁO
+2026-08-22 19:43:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] GERMANO  ALVES vs MARCOS  HAYASHIDA
+2026-08-22 19:43:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] FÁBIO  SAZAKI vs HILTON  BRANDÁO
+2026-08-22 19:43:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] EMERSON  JERÔNIMO vs GERMANO  ALVES
+2026-08-22 19:43:56 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) FÁBIO  SAZAKI vs EMERSON  JERÔNIMO
+2026-08-22 19:44:01 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: MASTER 60FEM (20/39)
+2026-08-22 19:44:19 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] IOLANDA  LOBATO vs EDNA  OTSUKI
+2026-08-22 19:44:19 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] ELIZABETI  CAVALCANTE vs CATARINA  CARVALHO
+2026-08-22 19:44:19 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] HILDA  ENDO vs EDNA  OTSUKI
+2026-08-22 19:44:19 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] SUELI  OYAMA vs CATARINA  CARVALHO
+2026-08-22 19:44:19 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] IOLANDA  LOBATO vs HILDA  ENDO
+2026-08-22 19:44:19 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] ELIZABETI  CAVALCANTE vs SUELI  OYAMA
+2026-08-22 19:44:19 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] IOLANDA  LOBATO vs SUELI  OYAMA
+2026-08-22 19:44:19 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] EDNA  OTSUKI vs ELIZABETI  CAVALCANTE
+2026-08-22 19:44:19 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) IOLANDA  LOBATO vs EDNA  OTSUKI
+2026-08-22 19:44:24 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: MASTER 60MAS (21/39)
+2026-08-22 19:44:41 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] CEZAR  SCHACHT vs LUIZ  OYAMA
+2026-08-22 19:44:41 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] OLIDES  JÚNIOR vs WALTER  JUNIOR
+2026-08-22 19:44:41 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] CLAUDIO  IURCK vs DOMINGO  FERNANDEZ
+2026-08-22 19:44:41 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] SÍLVIO  ALBUQUERQUE vs JOSÉ  DEZIE
+2026-08-22 19:44:41 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] BENJAMIM  TAKATSUKI vs MARCIO  WATANABE
+2026-08-22 19:44:41 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] SANDRO  CAMARGO vs LUIZ  OYAMA
+2026-08-22 19:44:41 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] OLIDES  JÚNIOR vs DOMINGO  FERNANDEZ
+2026-08-22 19:44:41 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] CLAUDIO  IURCK vs WALTER  JUNIOR
+2026-08-22 19:44:41 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] SÍLVIO  ALBUQUERQUE vs MARCIO  WATANABE
+2026-08-22 19:44:41 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] BENJAMIM  TAKATSUKI vs JOSÉ  DEZIE
+2026-08-22 19:44:41 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] CEZAR  SCHACHT vs SANDRO  CAMARGO
+2026-08-22 19:44:41 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] OLIDES  JÚNIOR vs CLAUDIO  IURCK
+2026-08-22 19:44:41 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] DOMINGO  FERNANDEZ vs WALTER  JUNIOR
+2026-08-22 19:44:41 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] SÍLVIO  ALBUQUERQUE vs BENJAMIM  TAKATSUKI
+2026-08-22 19:44:41 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] MARCIO  WATANABE vs JOSÉ  DEZIE
+2026-08-22 19:44:41 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] CLAUDIO  IURCK vs BENJAMIM  TAKATSUKI
+2026-08-22 19:44:41 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] SÍLVIO  ALBUQUERQUE vs LUIZ  OYAMA
+2026-08-22 19:44:41 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) CEZAR  SCHACHT vs BENJAMIM  TAKATSUKI
+2026-08-22 19:44:41 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) LUIZ  OYAMA vs OLIDES  JÚNIOR
+2026-08-22 19:44:41 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) V18 vs V19
+2026-08-22 19:44:46 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: MASTER 70FEM (22/39)
+2026-08-22 19:45:03 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] CLARA  VOIDA vs YOOKO  KONNO
+2026-08-22 19:45:03 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] CATARINA  CANESSO vs CELINA  KURIHARA
+2026-08-22 19:45:03 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] CLARA  VOIDA vs CELINA  KURIHARA
+2026-08-22 19:45:03 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] CATARINA  CANESSO vs IZABEL  TANAMATI
+2026-08-22 19:45:03 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] CATARINA  CANESSO vs YOOKO  KONNO
+2026-08-22 19:45:03 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] IZABEL  TANAMATI vs CELINA  KURIHARA
+2026-08-22 19:45:03 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] CLARA  VOIDA vs IZABEL  TANAMATI
+2026-08-22 19:45:03 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] CELINA  KURIHARA vs YOOKO  KONNO
+2026-08-22 19:45:03 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) CLARA  VOIDA vs CATARINA  CANESSO
+2026-08-22 19:45:03 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) IZABEL  TANAMATI vs YOOKO  KONNO
+2026-08-22 19:45:08 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: MASTER 70MAS (23/39)
+2026-08-22 19:45:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] NILTON  TAKAOKA vs MASSAHARU  FUKUSHIMA
+2026-08-22 19:45:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] LUIZ  SHIOMI vs GENÉSIO  SILVA
+2026-08-22 19:45:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] SÉRGIO  UEDA vs MASSAHARU  FUKUSHIMA
+2026-08-22 19:45:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] PAULO  UTIME vs GENÉSIO  SILVA
+2026-08-22 19:45:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] NILTON  TAKAOKA vs SÉRGIO  UEDA
+2026-08-22 19:45:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] LUIZ  SHIOMI vs PAULO  UTIME
+2026-08-22 19:45:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) NILTON  TAKAOKA vs LUIZ  SHIOMI
+2026-08-22 19:45:25 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) MASSAHARU  FUKUSHIMA vs PAULO  UTIME
+2026-08-22 19:45:30 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: MASTER 75MAS (24/39)
+2026-08-22 19:45:44 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] KEIITI  SUGUIMATI vs FUMIO  OISHI
+2026-08-22 19:45:44 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] TAKASHI  ANEGAWA vs JORGE  NISHITANI
+2026-08-22 19:45:44 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] KEIITI  SUGUIMATI vs JORGE  NISHITANI
+2026-08-22 19:45:44 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] TAKASHI  ANEGAWA vs TAKATSUGU  KONNO
+2026-08-22 19:45:44 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] TAKASHI  ANEGAWA vs FUMIO  OISHI
+2026-08-22 19:45:44 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] TAKATSUGU  KONNO vs JORGE  NISHITANI
+2026-08-22 19:45:44 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] KEIITI  SUGUIMATI vs TAKATSUGU  KONNO
+2026-08-22 19:45:44 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] JORGE  NISHITANI vs FUMIO  OISHI
+2026-08-22 19:45:44 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] KEIITI  SUGUIMATI vs TAKASHI  ANEGAWA
+2026-08-22 19:45:44 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] TAKATSUGU  KONNO vs FUMIO  OISHI
+2026-08-22 19:45:44 [INFO] [RESULTADOS-ALL] ♻️ REAPROVEITADO (BACKUP) [5997]: SUB-07 MAS -- Sem jogos agendados pendentes para hoje (22/08/2026).
+2026-08-22 19:45:49 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: SUB-09 FEM (26/39)
+2026-08-22 19:46:05 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] MELISSA  JERONIMO vs JASMIM  BLANCO
+2026-08-22 19:46:05 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] LAURA  OLIVEIRA vs CORA  BLANCO
+2026-08-22 19:46:05 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] GIOVANA  OUBA vs SOFIA  MATSUMURA
+2026-08-22 19:46:05 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] ELLOAH  MUZER vs JASMIM  BLANCO
+2026-08-22 19:46:05 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] LAURA  OLIVEIRA vs SOFIA  MATSUMURA
+2026-08-22 19:46:05 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] GIOVANA  OUBA vs CORA  BLANCO
+2026-08-22 19:46:05 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] MELISSA  JERONIMO vs ELLOAH  MUZER
+2026-08-22 19:46:05 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] SOFIA  MATSUMURA vs CORA  BLANCO
+2026-08-22 19:46:05 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] LAURA  OLIVEIRA vs GIOVANA  OUBA
+2026-08-22 19:46:05 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] MELISSA  JERONIMO vs GIOVANA  OUBA
+2026-08-22 19:46:05 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] ELLOAH  MUZER vs LAURA  OLIVEIRA
+2026-08-22 19:46:05 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) MELISSA  JERONIMO vs LAURA  OLIVEIRA
+2026-08-22 19:46:10 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: SUB-09 MAS (27/39)
+2026-08-22 19:46:26 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] GABRIEL  NARDI vs JOAQUIM  PRADO
+2026-08-22 19:46:26 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] ALEXANDRE  GLIZT vs ARTHUR  LIMA
+2026-08-22 19:46:26 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] MARTIM  AMARAL vs DANIEL  MELO
+2026-08-22 19:46:26 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] CRISTOFFER  VIEIRA vs MATIAS  BARBOSA
+2026-08-22 19:46:26 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] HEITOR  MELLO vs MIGUEL  SOUZA
+2026-08-22 19:46:26 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] JOAQUIM  MANTOVANI vs JOAQUIM  PRADO
+2026-08-22 19:46:26 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] ÍTALO  RAMIREZ vs ARTHUR  LIMA
+2026-08-22 19:46:26 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] HENRIQUE  ITO vs DANIEL  MELO
+2026-08-22 19:46:26 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] CRISTOFFER  VIEIRA vs MIGUEL  SOUZA
+2026-08-22 19:46:26 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] HEITOR  MELLO vs MATIAS  BARBOSA
+2026-08-22 19:46:26 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] GABRIEL  NARDI vs JOAQUIM  MANTOVANI
+2026-08-22 19:46:26 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] ALEXANDRE  GLIZT vs ÍTALO  RAMIREZ
+2026-08-22 19:46:26 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] MARTIM  AMARAL vs HENRIQUE  ITO
+2026-08-22 19:46:26 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] MIGUEL  SOUZA vs MATIAS  BARBOSA
+2026-08-22 19:46:26 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] CRISTOFFER  VIEIRA vs HEITOR  MELLO
+2026-08-22 19:46:26 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] JOAQUIM  MANTOVANI vs ÍTALO  RAMIREZ
+2026-08-22 19:46:26 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] HENRIQUE  ITO vs HEITOR  MELLO
+2026-08-22 19:46:26 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] MARTIM  AMARAL vs CRISTOFFER  VIEIRA
+2026-08-22 19:46:26 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] GABRIEL  NARDI vs ALEXANDRE  GLIZT
+2026-08-22 19:46:26 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) JOAQUIM  MANTOVANI vs HEITOR  MELLO
+2026-08-22 19:46:26 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) MARTIM  AMARAL vs GABRIEL  NARDI
+2026-08-22 19:46:26 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) V20 vs V21
+2026-08-22 19:46:26 [INFO] [RESULTADOS-ALL] ♻️ REAPROVEITADO (BACKUP) [5997]: SUB-11 FEM -- Sem jogos agendados pendentes para hoje (22/08/2026).
+2026-08-22 19:46:26 [INFO] [RESULTADOS-ALL] ♻️ REAPROVEITADO (BACKUP) [5997]: SUB-11 MAS -- Sem jogos agendados pendentes para hoje (22/08/2026).
+2026-08-22 19:46:31 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: SUB-13 FEM (30/39)
+2026-08-22 19:46:47 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] NIVIN  ABDALLAH vs MARIANA  CAMARGO
+2026-08-22 19:46:47 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] LAURA  SILVEIRA vs CAROLINA  ONO
+2026-08-22 19:46:47 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] LETÍCIA  JÚLIO vs ISADORA  RIBEIRO
+2026-08-22 19:46:47 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] LIVIA  DUTKO vs YASMIM  CAUNETO
+2026-08-22 19:46:47 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] MANUELA  DOI vs MARIANA  CAMARGO
+2026-08-22 19:46:47 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] REBECA  AFONSO vs CAROLINA  ONO
+2026-08-22 19:46:47 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] JULIA  DA SILVA vs ISADORA  RIBEIRO
+2026-08-22 19:46:47 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] ANA  MARQUES vs YASMIM  CAUNETO
+2026-08-22 19:46:47 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] NIVIN  ABDALLAH vs MANUELA  DOI
+2026-08-22 19:46:47 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] LAURA  SILVEIRA vs REBECA  AFONSO
+2026-08-22 19:46:47 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] LETÍCIA  JÚLIO vs JULIA  DA SILVA
+2026-08-22 19:46:47 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] LIVIA  DUTKO vs ANA  MARQUES
+2026-08-22 19:46:47 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] NIVIN  ABDALLAH vs REBECA  AFONSO
+2026-08-22 19:46:47 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] LIVIA  DUTKO vs ISADORA  RIBEIRO
+2026-08-22 19:46:47 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] LETÍCIA  JÚLIO vs ANA  MARQUES
+2026-08-22 19:46:47 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] LAURA  SILVEIRA vs MARIANA  CAMARGO
+2026-08-22 19:46:47 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] NIVIN  ABDALLAH vs LIVIA  DUTKO
+2026-08-22 19:46:47 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] LETÍCIA  JÚLIO vs LAURA  SILVEIRA
+2026-08-22 19:46:47 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) NIVIN  ABDALLAH vs LAURA  SILVEIRA
+2026-08-22 19:46:52 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: SUB-13 MAS (31/39)
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] GABRIEL  RODRIGUES vs SAMUEL  MATSUMOTO
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] PEDRO  TAKAYAMA vs ENZO  SCHERER
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] DAVI  MATTOS vs ARTHUR  GROSSE
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] FERNANDO  MIRANDA vs FELIPE  KANNO
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] MIGUEL  BARBOSA vs PAULO  JUNIOR
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] LUCAS  MAEDA vs GUILHERME  LUIZ
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] SAMUEL  MITSUI vs DAVI  MORAES
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] ARTHUR  KADLUBISKI vs RENATO  FILHO
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] BRIAN  MUZER vs CARLOS  ANJOS
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] FRANCISCO  LAROCA vs MIGUEL  BARBOSA
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] FELIPE  MOLOGNI vs SAMUEL  MATSUMOTO
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] THEO  MACHADO vs ENZO  SCHERER
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] ENZO  FRANÇA vs ARTHUR  GROSSE
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] HENRIQUE  KUMAGAI vs FELIPE  KANNO
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] GABRIEL  PORTES vs PAULO  JUNIOR
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] BENJAMIN  HORST vs GUILHERME  LUIZ
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] EMANUEL  TESCHE vs DAVI  MORAES
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] MANSUR  JOMAA vs RENATO  FILHO
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] BENJAMIM  REFUNDINI vs CARLOS  ANJOS
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] BERNARDO  INOUE vs MIGUEL  BARBOSA
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] GABRIEL  RODRIGUES vs FELIPE  MOLOGNI
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] PEDRO  TAKAYAMA vs THEO  MACHADO
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] DAVI  MATTOS vs ENZO  FRANÇA
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] FERNANDO  MIRANDA vs HENRIQUE  KUMAGAI
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] MIGUEL  BARBOSA vs GABRIEL  PORTES
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] LUCAS  MAEDA vs BENJAMIN  HORST
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] SAMUEL  MITSUI vs EMANUEL  TESCHE
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] ARTHUR  KADLUBISKI vs MANSUR  JOMAA
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] BRIAN  MUZER vs BENJAMIM  REFUNDINI
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] FRANCISCO  LAROCA vs BERNARDO  INOUE
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] THEO  MACHADO vs BENJAMIN  HORST
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] SAMUEL  MITSUI vs ARTHUR  GROSSE
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] HENRIQUE  KUMAGAI vs MANSUR  JOMAA
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] GABRIEL  PORTES vs SAMUEL  MATSUMOTO
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] GABRIEL  RODRIGUES vs THEO  MACHADO
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] BRIAN  MUZER vs ARTHUR  KADLUBISKI
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] MIGUEL  BARBOSA vs BERNARDO  INOUE
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] SAMUEL  MITSUI vs FERNANDO  MIRANDA
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] DAVI  MATTOS vs MANSUR  JOMAA
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] BENJAMIM  REFUNDINI vs LUCAS  MAEDA
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] EMANUEL  TESCHE vs FRANCISCO  LAROCA
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] GABRIEL  PORTES vs PEDRO  TAKAYAMA
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] GABRIEL  RODRIGUES vs ARTHUR  KADLUBISKI
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] MIGUEL  BARBOSA vs FERNANDO  MIRANDA
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] DAVI  MATTOS vs LUCAS  MAEDA
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] FRANCISCO  LAROCA vs PEDRO  TAKAYAMA
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) ARTHUR  KADLUBISKI vs FERNANDO  MIRANDA
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) DAVI  MATTOS vs PEDRO  TAKAYAMA
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) V47 vs V48
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL] ♻️ REAPROVEITADO (BACKUP) [5997]: SUB-15 FEM -- Sem jogos agendados pendentes para hoje (22/08/2026).
+2026-08-22 19:47:08 [INFO] [RESULTADOS-ALL] ♻️ REAPROVEITADO (BACKUP) [5997]: SUB-15 MAS -- Sem jogos agendados pendentes para hoje (22/08/2026).
+2026-08-22 19:47:13 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: SUB-17 FEM (34/39)
+2026-08-22 19:47:30 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] EMANUELLY  SANTOS vs ISABELA  HAAB
+2026-08-22 19:47:30 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] YASMIN  SÁ vs ANA  BRAGA
+2026-08-22 19:47:30 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] KAROLINE  GRUCHOSKI vs SOFIA  MICHALICHEM
+2026-08-22 19:47:30 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] LETICIA  JAREMTCHUK vs EMANUELLI  ROCHA
+2026-08-22 19:47:30 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] NIHAN  ABDALLAH vs ISABELA  HAAB
+2026-08-22 19:47:30 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] ELOAH  PRADO vs ANA  BRAGA
+2026-08-22 19:47:30 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] ISABELLY  RIOS vs SOFIA  MICHALICHEM
+2026-08-22 19:47:30 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] BIANCA  SANTOS vs EMANUELLI  ROCHA
+2026-08-22 19:47:30 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] EMANUELLY  SANTOS vs NIHAN  ABDALLAH
+2026-08-22 19:47:30 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] YASMIN  SÁ vs ELOAH  PRADO
+2026-08-22 19:47:30 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] KAROLINE  GRUCHOSKI vs ISABELLY  RIOS
+2026-08-22 19:47:30 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] LETICIA  JAREMTCHUK vs BIANCA  SANTOS
+2026-08-22 19:47:30 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] EMANUELLY  SANTOS vs ELOAH  PRADO
+2026-08-22 19:47:30 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] BIANCA  SANTOS vs ISABELLY  RIOS
+2026-08-22 19:47:30 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] KAROLINE  GRUCHOSKI vs LETICIA  JAREMTCHUK
+2026-08-22 19:47:30 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] YASMIN  SÁ vs NIHAN  ABDALLAH
+2026-08-22 19:47:30 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] EMANUELLY  SANTOS vs ISABELLY  RIOS
+2026-08-22 19:47:30 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] KAROLINE  GRUCHOSKI vs YASMIN  SÁ
+2026-08-22 19:47:30 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) EMANUELLY  SANTOS vs KAROLINE  GRUCHOSKI
+2026-08-22 19:47:35 [INFO] [RESULTADOS-ALL] 🔍 RASPANDO WEB [5997]: SUB-17 MAS (35/39)
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] GUSTAVO  AVELAR vs JOÃO  GOLEMBA
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] CAUÊ  MARTINS vs MATHEUS  NASCIMENTO
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] MATHEUS  JACUMASSO vs CAUÃ  MATHEUS
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] CAUÃ  KNACK vs OTÁVIO  IENERICH
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] FABRICIO  MARIN vs MURILO  ESSER
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] DAVI  TAKAYAMA vs DIOGO  RIVILI
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] MATHEUS  LESME vs THALES  LOPES
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] VICTOR  DIAS vs JOÃO  HAMAMOTO
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] GUILHERME  FREITAS vs JOÃO  GOLEMBA
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] PEDRO  EGASHIRA vs MATHEUS  NASCIMENTO
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [2-3] RICCARDO  MACIEL vs CAUÃ  MATHEUS
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] GUSTAVO  KANASHIRO vs OTÁVIO  IENERICH
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] FABRICIO  MARIN vs DIOGO  RIVILI
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] DAVI  TAKAYAMA vs MURILO  ESSER
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] MATHEUS  LESME vs JOÃO  HAMAMOTO
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] VICTOR  DIAS vs THALES  LOPES
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] GUSTAVO  AVELAR vs GUILHERME  FREITAS
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] CAUÊ  MARTINS vs PEDRO  EGASHIRA
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] MATHEUS  JACUMASSO vs RICCARDO  MACIEL
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] CAUÃ  KNACK vs GUSTAVO  KANASHIRO
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] FABRICIO  MARIN vs DAVI  TAKAYAMA
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-1] DIOGO  RIVILI vs MURILO  ESSER
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] MATHEUS  LESME vs VICTOR  DIAS
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] JOÃO  HAMAMOTO vs THALES  LOPES
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] PEDRO  EGASHIRA vs VICTOR  DIAS
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-2] FABRICIO  MARIN vs MATHEUS  JACUMASSO
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] GUSTAVO  KANASHIRO vs MATHEUS  LESME
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] DAVI  TAKAYAMA vs GUILHERME  FREITAS
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [3-0] GUSTAVO  AVELAR vs PEDRO  EGASHIRA
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [1-3] FABRICIO  MARIN vs CAUÃ  KNACK
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] RICCARDO  MACIEL vs MATHEUS  LESME
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: [0-3] GUILHERME  FREITAS vs CAUÊ  MARTINS
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) GUSTAVO  AVELAR vs CAUÃ  KNACK
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) MATHEUS  LESME vs CAUÊ  MARTINS
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL]   • Match [5997]: (Agendado) V33 vs V34
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL] ♻️ REAPROVEITADO (BACKUP) [5997]: SUB-19 FEM -- Sem jogos agendados pendentes para hoje (22/08/2026).
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL] ♻️ REAPROVEITADO (BACKUP) [5997]: SUB-19 MAS -- Sem jogos agendados pendentes para hoje (22/08/2026).
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL] ♻️ REAPROVEITADO (BACKUP) [5997]: SUB-21 FEM -- Sem jogos agendados pendentes para hoje (22/08/2026).
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL] ♻️ REAPROVEITADO (BACKUP) [5997]: SUB-21 MAS -- Sem jogos agendados pendentes para hoje (22/08/2026).
+2026-08-22 19:47:50 [INFO] [RESULTADOS-ALL] 💾 Arquivo de resultados ALL atualizado e consolidado com sucesso!
+2026-08-22 19:47:52 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Resultados sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:47:52 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Categorias sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:47:52 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Grupos Base sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:47:52 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Grupos Extras sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:47:53 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Jogos Extras sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:47:53 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Resultados ALL (/home/emersonb/python/export/cbtm_resultados_all.json). Enviando via Rclone...
+2026-08-22 19:47:55 [INFO] [upload_atmfoz.sh] ✅ Resultados ALL enviado e controle atualizado.
+2026-08-22 19:47:55 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Categorias ALL sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:47:55 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Programação de Mesas (mesas.csv) (/home/emersonb/python/export/mesas.csv). Enviando via Rclone...
+2026-08-22 19:47:58 [INFO] [upload_atmfoz.sh] ✅ Programação de Mesas (mesas.csv) enviado e controle atualizado.
+2026-08-22 19:47:58 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Configuracao (config.json) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:47:58 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (categorias.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:47:58 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (clubes.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:47:58 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (eficiencia.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:47:58 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (inscricoes.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:47:58 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (mesas.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:47:58 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (rating_simulado.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:47:58 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (resultado_evento.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:47:58 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (telegram-grupos.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:47:58 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (telegram-result.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:47:58 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Log de Automacao (Invertido) (/tmp/cbtm_automacao.log). Enviando via Rclone...
+2026-08-22 19:48:01 [INFO] [upload_atmfoz.sh] ✅ Log de Automacao (Invertido) enviado e controle atualizado.
+2026-08-22 19:48:01 [INFO] [upload_atmfoz.sh] ✅ Ciclo de sincronizacao concluido com sucesso!
+2026-08-22 19:50:01 [INFO] [agenda_crontab.sh] ==================================================
+2026-08-22 19:50:01 [INFO] [agenda_crontab.sh] 🚀 Iniciando sequencia automatizada via agenda_crontab.sh...
+2026-08-22 19:50:01 [INFO] [agenda_crontab.sh] ▶️ [1/7] Executando raspagem de resultados (/home/emersonb/python/4_cbtm_resultados.sh)...
+2026-08-22 19:50:01 [INFO] [4_cbtm_resultados.sh] Criando copia de seguranca preventiva de /home/emersonb/python/export/cbtm_resultados.json para /home/emersonb/python/export/cbtm_resultados.json.bkp
+2026-08-22 19:50:01 [INFO] [4_cbtm_resultados.sh] Iniciando raspagem de resultados...
+2026-08-22 19:50:04 [INFO] [cbtm_carregar_resultados.py] Configuracoes carregadas. PID: 791341
+2026-08-22 19:50:04 [INFO] [cbtm_carregar_resultados.py] Configuracoes carregadas. PID: 791341
+2026-08-22 19:50:04 [INFO] [cbtm_carregar_resultados.py] Arquivo de backup encontrado em disco.
+2026-08-22 19:50:04 [INFO] [cbtm_carregar_resultados.py] Arquivo de backup encontrado em disco.
+2026-08-22 19:50:04 [INFO] [cbtm_carregar_resultados.py] Cache dentro da validade. Ultima execucao completa ha 0.9h.
+2026-08-22 19:50:04 [INFO] [cbtm_carregar_resultados.py] Cache dentro da validade. Ultima execucao completa ha 0.9h.
+2026-08-22 19:50:04 [INFO] [cbtm_carregar_resultados.py] 🏆 Processando Evento ID 5997 (15 categoria(s))...
+2026-08-22 19:50:04 [INFO] [cbtm_carregar_resultados.py] 🏆 Processando Evento ID 5997 (15 categoria(s))...
+2026-08-22 19:50:04 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO A FEM -- Nenhum jogo pendente.
+2026-08-22 19:50:04 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO A FEM -- Nenhum jogo pendente.
+2026-08-22 19:50:04 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO D MAS -- Nenhum jogo pendente.
+2026-08-22 19:50:04 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO D MAS -- Nenhum jogo pendente.
+2026-08-22 19:50:04 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO E FEM -- Nenhum jogo pendente.
+2026-08-22 19:50:04 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO E FEM -- Nenhum jogo pendente.
+2026-08-22 19:50:04 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO F MAS -- Nenhum jogo pendente.
+2026-08-22 19:50:04 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO F MAS -- Nenhum jogo pendente.
+2026-08-22 19:50:04 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO G MAS -- Nenhum jogo pendente.
+2026-08-22 19:50:04 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: ABSOLUTO G MAS -- Nenhum jogo pendente.
+2026-08-22 19:50:04 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: MASTER 60MAS -- Nenhum jogo pendente.
+2026-08-22 19:50:04 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: MASTER 60MAS -- Nenhum jogo pendente.
+2026-08-22 19:50:04 [INFO] [cbtm_carregar_resultados.py] Inicializando Chrome Headless sob demanda...
+2026-08-22 19:50:04 [INFO] [cbtm_carregar_resultados.py] Inicializando Chrome Headless sob demanda...
+2026-08-22 19:50:06 [INFO] [cbtm_carregar_resultados.py] patching driver executable /home/emersonb/.local/share/undetected_chromedriver/undetected_chromedriver
+2026-08-22 19:50:06 [INFO] [cbtm_carregar_resultados.py] patching driver executable /home/emersonb/.local/share/undetected_chromedriver/undetected_chromedriver
+2026-08-22 19:50:15 [INFO] [cbtm_carregar_resultados.py] Navegando para o Evento: https://app.cbtm.org.br/IUI/App/Evento?tab=2&EVE_Evento_ID=5997
+2026-08-22 19:50:15 [INFO] [cbtm_carregar_resultados.py] Navegando para o Evento: https://app.cbtm.org.br/IUI/App/Evento?tab=2&EVE_Evento_ID=5997
+2026-08-22 19:50:33 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-09 MAS (7/15)
+2026-08-22 19:50:33 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-09 MAS (7/15)
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] MARTIM  AMARAL vs DANIEL  MELO
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] MARTIM  AMARAL vs DANIEL  MELO
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] HEITOR  MELLO vs MIGUEL  SOUZA
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] HEITOR  MELLO vs MIGUEL  SOUZA
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-1] JOAQUIM  MANTOVANI vs JOAQUIM  PRADO
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-1] JOAQUIM  MANTOVANI vs JOAQUIM  PRADO
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] ÍTALO  RAMIREZ vs ARTHUR  LIMA
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] ÍTALO  RAMIREZ vs ARTHUR  LIMA
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] HEITOR  MELLO vs MATIAS  BARBOSA
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] HEITOR  MELLO vs MATIAS  BARBOSA
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [1-3] GABRIEL  NARDI vs JOAQUIM  MANTOVANI
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [1-3] GABRIEL  NARDI vs JOAQUIM  MANTOVANI
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] ALEXANDRE  GLIZT vs ÍTALO  RAMIREZ
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] ALEXANDRE  GLIZT vs ÍTALO  RAMIREZ
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-2] MARTIM  AMARAL vs HENRIQUE  ITO
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-2] MARTIM  AMARAL vs HENRIQUE  ITO
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [1-3] CRISTOFFER  VIEIRA vs HEITOR  MELLO
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [1-3] CRISTOFFER  VIEIRA vs HEITOR  MELLO
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] JOAQUIM  MANTOVANI vs ÍTALO  RAMIREZ
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] JOAQUIM  MANTOVANI vs ÍTALO  RAMIREZ
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [0-3] HENRIQUE  ITO vs HEITOR  MELLO
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [0-3] HENRIQUE  ITO vs HEITOR  MELLO
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] MARTIM  AMARAL vs CRISTOFFER  VIEIRA
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] MARTIM  AMARAL vs CRISTOFFER  VIEIRA
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) JOAQUIM  MANTOVANI vs HEITOR  MELLO
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) JOAQUIM  MANTOVANI vs HEITOR  MELLO
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) MARTIM  AMARAL vs GABRIEL  NARDI
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) MARTIM  AMARAL vs GABRIEL  NARDI
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-11 FEM -- Apenas jogos em datas futuras.
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-11 FEM -- Apenas jogos em datas futuras.
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-11 MAS -- Apenas jogos em datas futuras.
+2026-08-22 19:50:49 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-11 MAS -- Apenas jogos em datas futuras.
+2026-08-22 19:50:54 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-13 FEM (10/15)
+2026-08-22 19:50:54 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-13 FEM (10/15)
+2026-08-22 19:51:12 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] NIVIN  ABDALLAH vs MARIANA  CAMARGO
+2026-08-22 19:51:12 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] NIVIN  ABDALLAH vs MARIANA  CAMARGO
+2026-08-22 19:51:12 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] NIVIN  ABDALLAH vs MANUELA  DOI
+2026-08-22 19:51:12 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] NIVIN  ABDALLAH vs MANUELA  DOI
+2026-08-22 19:51:12 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] NIVIN  ABDALLAH vs REBECA  AFONSO
+2026-08-22 19:51:12 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] NIVIN  ABDALLAH vs REBECA  AFONSO
+2026-08-22 19:51:12 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-1] NIVIN  ABDALLAH vs LIVIA  DUTKO
+2026-08-22 19:51:12 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-1] NIVIN  ABDALLAH vs LIVIA  DUTKO
+2026-08-22 19:51:12 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) NIVIN  ABDALLAH vs LAURA  SILVEIRA
+2026-08-22 19:51:12 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) NIVIN  ABDALLAH vs LAURA  SILVEIRA
+2026-08-22 19:51:12 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: SUB-13 MAS -- Nenhum jogo pendente.
+2026-08-22 19:51:12 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: SUB-13 MAS -- Nenhum jogo pendente.
+2026-08-22 19:51:12 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-15 FEM -- Apenas jogos em datas futuras.
+2026-08-22 19:51:12 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-15 FEM -- Apenas jogos em datas futuras.
+2026-08-22 19:51:12 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: SUB-17 FEM -- Nenhum jogo pendente.
+2026-08-22 19:51:12 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (CATEGORIA 100% FINALIZADA) [5997]: SUB-17 FEM -- Nenhum jogo pendente.
+2026-08-22 19:51:17 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-17 MAS (14/15)
+2026-08-22 19:51:17 [INFO] [cbtm_carregar_resultados.py] RASPANDO WEB [5997]: SUB-17 MAS (14/15)
+2026-08-22 19:51:33 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] CAUÃ  KNACK vs OTÁVIO  IENERICH
+2026-08-22 19:51:33 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-0] CAUÃ  KNACK vs OTÁVIO  IENERICH
+2026-08-22 19:51:33 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [2-3] RICCARDO  MACIEL vs CAUÃ  MATHEUS
+2026-08-22 19:51:33 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [2-3] RICCARDO  MACIEL vs CAUÃ  MATHEUS
+2026-08-22 19:51:33 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [0-3] MATHEUS  JACUMASSO vs RICCARDO  MACIEL
+2026-08-22 19:51:33 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [0-3] MATHEUS  JACUMASSO vs RICCARDO  MACIEL
+2026-08-22 19:51:33 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-1] CAUÃ  KNACK vs GUSTAVO  KANASHIRO
+2026-08-22 19:51:33 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [3-1] CAUÃ  KNACK vs GUSTAVO  KANASHIRO
+2026-08-22 19:51:33 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [1-3] FABRICIO  MARIN vs CAUÃ  KNACK
+2026-08-22 19:51:33 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [1-3] FABRICIO  MARIN vs CAUÃ  KNACK
+2026-08-22 19:51:33 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [0-3] RICCARDO  MACIEL vs MATHEUS  LESME
+2026-08-22 19:51:33 [INFO] [cbtm_carregar_resultados.py] Match [5997]: [0-3] RICCARDO  MACIEL vs MATHEUS  LESME
+2026-08-22 19:51:33 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) GUSTAVO  AVELAR vs CAUÃ  KNACK
+2026-08-22 19:51:33 [INFO] [cbtm_carregar_resultados.py] Match [5997]: (Agendado) GUSTAVO  AVELAR vs CAUÃ  KNACK
+2026-08-22 19:51:33 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-19 MAS -- Apenas jogos em datas futuras.
+2026-08-22 19:51:33 [INFO] [cbtm_carregar_resultados.py] REAPROVEITADO (BACKUP) [5997]: SUB-19 MAS -- Apenas jogos em datas futuras.
+2026-08-22 19:51:33 [INFO] [cbtm_carregar_resultados.py] Arquivo de resultados atualizado e consolidado com sucesso!
+2026-08-22 19:51:33 [INFO] [cbtm_carregar_resultados.py] Arquivo de resultados atualizado e consolidado com sucesso!
+2026-08-22 19:51:35 [INFO] [4_cbtm_resultados.sh] Raspagem e ciclo de resultados finalizados com sucesso.
+2026-08-22 19:51:35 [INFO] [agenda_crontab.sh] ✅ Passo 1 concluido com sucesso.
+2026-08-22 19:51:35 [INFO] [agenda_crontab.sh] ▶️ [2/7] Executando busca de dependencias extras (/home/emersonb/python/5_cbtm_extras.sh)...
+2026-08-22 19:51:35 [INFO] Iniciando resolução de dependências extras (grupos e jogos)...
+2026-08-22 19:51:36 [INFO] [EXTRAS] Carregando resultados a partir de: /home/emersonb/python/export/cbtm_resultados.json
+2026-08-22 19:51:36 [INFO] [EXTRAS] Carregando resultados a partir de: /home/emersonb/python/export/cbtm_resultados.json
+2026-08-22 19:51:36 [INFO] [EXTRAS] Pendências identificadas: 0 grupo(s), 0 jogo(s).
+2026-08-22 19:51:36 [INFO] [EXTRAS] Pendências identificadas: 0 grupo(s), 0 jogo(s).
+2026-08-22 19:51:36 [INFO] [EXTRAS] 📁 Grupos Extras concatenados com sucesso em: /home/emersonb/python/export/cbtm_grupos_extras.json
+2026-08-22 19:51:36 [INFO] [EXTRAS] 📁 Grupos Extras concatenados com sucesso em: /home/emersonb/python/export/cbtm_grupos_extras.json
+2026-08-22 19:51:36 [INFO] [EXTRAS] 📁 Jogos Extras salvos em: /home/emersonb/python/export/cbtm_jogos_extras.json
+2026-08-22 19:51:36 [INFO] [EXTRAS] 📁 Jogos Extras salvos em: /home/emersonb/python/export/cbtm_jogos_extras.json
+2026-08-22 19:51:36 [INFO] Processo de busca de extras finalizado. Trava liberada.
+2026-08-22 19:51:36 [INFO] [agenda_crontab.sh] ✅ Passo 2 concluido com sucesso.
+2026-08-22 19:51:36 [INFO] [agenda_crontab.sh] ▶️ [3/7] Executando processamento Telegram local (/home/emersonb/python/7_cbtm_telegram_processa.sh)...
+2026-08-22 19:51:36 [INFO] [cbtm_telegram-processa.sh] Iniciando processamento de arquivos locais (cbtm_telegram-processa.py)...
+[INFO] Iniciando processamento de arquivos locais...
+--- [1/5] Gerando Resultados Consolidados (show-all) ---
+[INFO] Backup CSV criado em: /home/emersonb/python/export/telegram-result.csv.bkp
+[INFO] Arquivo CSV gerado com sucesso em '/home/emersonb/python/export/telegram-result.csv'.
+--- [2/5] Gerando Grupos Consolidados (show-grupos) ---
+[INFO] Backup do CSV de grupos criado em: '/home/emersonb/python/export/telegram-grupos.csv.bkp'.
+[INFO] Arquivo CSV de grupos gerado com sucesso em '/home/emersonb/python/export/telegram-grupos.csv'.
+--- [3/5] Gerando Diferenças de Grupos (show-diff-grupos) ---
+[INFO] Arquivo de diferenças de grupos CSV gerado com sucesso em '/home/emersonb/python/export/telegram-grupos.csv.diff'.
+--- [4/5] Gerando Diferenças de Resultados (show-diff) ---
+[INFO] Arquivo de diferenças CSV gerado com sucesso em '/home/emersonb/python/export/telegram-result.csv.diff'.
+--- [5/5] Gerando Programação Pendente (show-prog) ---
+[INFO] Arquivo CSV de jogos pendentes gerado em '/home/emersonb/python/export/telegram-result.csv.prog'.
+[INFO] Processamento de arquivos locais concluído com sucesso!
+2026-08-22 19:51:37 [INFO] [cbtm_telegram-processa.sh] Processamento de arquivos locais concluido com sucesso!
+2026-08-22 19:51:37 [INFO] [agenda_crontab.sh] ✅ Passo 3 concluido com sucesso.
+2026-08-22 19:51:37 [INFO] [agenda_crontab.sh] ▶️ [4/7] Executando disparo de notificacoes Telegram (/home/emersonb/python/8_cbtm_telegram_envia.sh)...
+2026-08-22 19:51:37 [INFO] [8_cbtm_telegram_envia.sh] Disparando notificacoes de jogos modificados para o grupo do Telegram (send-diff)...
+[INFO] O arquivo .csv.diff não contém novos jogos ou atualizações.
+2026-08-22 19:51:37 [INFO] [8_cbtm_telegram_envia.sh] ⏭️ [SKIP] Envio de notificacoes de grupos desativado no config.json ('telegram_enviar_atualizacao_grupos' != 1). Pulando Etapa 3.
+2026-08-22 19:51:37 [INFO] [8_cbtm_telegram_envia.sh] Rotina de atualizacoes do Telegram finalizada com sucesso!
+2026-08-22 19:51:37 [INFO] [agenda_crontab.sh] ✅ Passo 4 concluido com sucesso.
+2026-08-22 19:51:37 [INFO] [agenda_crontab.sh] ▶️ [5/7] Executando atualizacao de rating (/home/emersonb/python/9_cbtm_rating.sh)...
+[INFO] Executando cbtm_estimar_rating.py...
+[INFO] cbtm_estimar_rating.py executado com sucesso.
+2026-08-22 19:51:37 [INFO] [agenda_crontab.sh] ✅ Passo 5 concluido com sucesso.
+2026-08-22 19:51:37 [INFO] [agenda_crontab.sh] ▶️ [6/7] Executando upload para o portal ATMFOZ (/home/emersonb/python/6_cbtm_upload_atmfoz.sh)...
+2026-08-22 19:51:38 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Resultados sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:51:38 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Categorias sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:51:38 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Grupos Base sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:51:38 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Grupos Extras sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:51:38 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Jogos Extras sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:51:38 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Resultados ALL sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:51:38 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Categorias ALL sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:51:38 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Programação de Mesas (mesas.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:51:38 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Configuracao (config.json) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:51:38 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Export CSV (categorias.csv) (/home/emersonb/python/export/categorias.csv). Enviando via Rclone...
+2026-08-22 19:51:41 [INFO] [upload_atmfoz.sh] ✅ Export CSV (categorias.csv) enviado e controle atualizado.
+2026-08-22 19:51:41 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (clubes.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:51:41 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (eficiencia.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:51:41 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (inscricoes.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:51:41 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (mesas.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:51:41 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Export CSV (rating_simulado.csv) (/home/emersonb/python/export/rating_simulado.csv). Enviando via Rclone...
+2026-08-22 19:51:43 [INFO] [upload_atmfoz.sh] ✅ Export CSV (rating_simulado.csv) enviado e controle atualizado.
+2026-08-22 19:51:43 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Export CSV (resultado_evento.csv) (/home/emersonb/python/export/resultado_evento.csv). Enviando via Rclone...
+2026-08-22 19:51:46 [INFO] [upload_atmfoz.sh] ✅ Export CSV (resultado_evento.csv) enviado e controle atualizado.
+2026-08-22 19:51:46 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (telegram-grupos.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:51:46 [INFO] [upload_atmfoz.sh] ⏭️ [SKIP] Export CSV (telegram-result.csv) sem alteracoes (MD5 e tamanho identicos). Envio cancelado.
+2026-08-22 19:51:46 [INFO] [upload_atmfoz.sh] 📤 Alteração detectada em Log de Automacao (Invertido) (/tmp/cbtm_automacao.log). Enviando via Rclone...
+2026-08-22 19:51:48 [INFO] [upload_atmfoz.sh] ✅ Log de Automacao (Invertido) enviado e controle atualizado.
+2026-08-22 19:51:48 [INFO] [upload_atmfoz.sh] ✅ Ciclo de sincronizacao concluido com sucesso!
+2026-08-22 19:51:48 [INFO] [agenda_crontab.sh] ✅ Passo 6 concluido com sucesso.
+2026-08-22 19:51:48 [INFO] [agenda_crontab.sh] ▶️ [7/7] Executando sincronizacao GitHub export (/home/emersonb/python/6_github-export.sh)...
 -------------------------------------------------------------------------
 📋 Preparando arquivos para exportação...
 📄 Extraindo as últimas 1000 linhas de /home/emersonb/python/cbtm_automacao.log...
