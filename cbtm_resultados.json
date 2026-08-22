@@ -59,16 +59,44 @@
             },
             {
                 "fase": "ABSOLUTO A FEM - Grupo 02",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-1",
                 "info_mesa": "Jogo 012 - Mesa 9 - 16:00",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "MARIA  MENDES",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "6",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "MARIA  ALVES",
+                        "sets": [
+                            "1",
+                            "7",
+                            "11",
+                            "8",
+                            "8"
+                        ]
+                    }
+                ]
+            },
+            {
+                "fase": "ABSOLUTO A FEM - Semi Final",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 014 - Mesa 8 - 18:05",
+                "data": "22/08/2026",
+                "competidores": [
+                    {
+                        "nome": "JULLY  NAGAO",
+                        "sets": []
+                    },
+                    {
+                        "nome": "MARIA  MENDES",
                         "sets": []
                     }
                 ]
