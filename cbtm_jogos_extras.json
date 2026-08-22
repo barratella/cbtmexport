@@ -1,1 +1,22 @@
-{}
+{
+    "5997": {
+        "SUB-09 MAS": [
+            {
+                "fase": "SUB-09 MAS - Quartas de Final",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 017 - Mesa 18 - 18:05",
+                "data": "22/08/2026",
+                "competidores": [
+                    {
+                        "nome": "HENRIQUE  ITO",
+                        "sets": []
+                    },
+                    {
+                        "nome": "HEITOR  MELLO",
+                        "sets": []
+                    }
+                ]
+            }
+        ]
+    }
+}

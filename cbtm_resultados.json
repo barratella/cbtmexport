@@ -87,17 +87,27 @@
             },
             {
                 "fase": "ABSOLUTO A FEM - Semi Final",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 014 - Mesa 8 - 18:05",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "JULLY  NAGAO",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "MARIA  MENDES",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "0",
+                            "0",
+                            "0"
+                        ]
                     }
                 ]
             }
@@ -2061,17 +2071,29 @@
             },
             {
                 "fase": "SUB-17 MAS - Quartas de Final",
-                "placar_geral": "Agendado",
+                "placar_geral": "1-3",
                 "info_mesa": "Jogo 030 - Mesa 22 - 17:40",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "FABRICIO  MARIN",
-                        "sets": []
+                        "sets": [
+                            "1",
+                            "7",
+                            "14",
+                            "11",
+                            "4"
+                        ]
                     },
                     {
                         "nome": "CAUÃ  KNACK",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "16",
+                            "6",
+                            "11"
+                        ]
                     }
                 ]
             },
@@ -2098,6 +2120,22 @@
                             "11",
                             "12"
                         ]
+                    }
+                ]
+            },
+            {
+                "fase": "SUB-17 MAS - Semi Final",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 033 - Mesa 21 - 18:30",
+                "data": "22/08/2026",
+                "competidores": [
+                    {
+                        "nome": "GUSTAVO  AVELAR",
+                        "sets": []
+                    },
+                    {
+                        "nome": "CAUÃ  KNACK",
+                        "sets": []
                     }
                 ]
             }
