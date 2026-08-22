@@ -772,40 +772,6 @@
                 ]
             }
         ],
-        "SUB-13 MAS": [
-            {
-                "fase": "SUB-13 MAS - Grupo 08",
-                "placar_geral": "Agendado",
-                "info_mesa": "Jogo 018 - Mesa 8 - 10:10",
-                "data": "22/08/2026",
-                "competidores": [
-                    {
-                        "nome": "MANSUR  JOMAA",
-                        "sets": []
-                    },
-                    {
-                        "nome": "RENATO  FILHO",
-                        "sets": []
-                    }
-                ]
-            },
-            {
-                "fase": "SUB-13 MAS - Grupo 08",
-                "placar_geral": "Agendado",
-                "info_mesa": "Jogo 028 - Mesa 8 - 11:25",
-                "data": "22/08/2026",
-                "competidores": [
-                    {
-                        "nome": "ARTHUR  KADLUBISKI",
-                        "sets": []
-                    },
-                    {
-                        "nome": "MANSUR  JOMAA",
-                        "sets": []
-                    }
-                ]
-            }
-        ],
         "SUB-15 FEM": [
             {
                 "fase": "SUB-15 FEM - Grupo 01",
@@ -931,72 +897,6 @@
                     },
                     {
                         "nome": "LAURA  SILVEIRA",
-                        "sets": []
-                    }
-                ]
-            }
-        ],
-        "SUB-17 FEM": [
-            {
-                "fase": "SUB-17 FEM - Grupo 02",
-                "placar_geral": "Agendado",
-                "info_mesa": "Jogo 002 - Mesa 22 - 08:30",
-                "data": "22/08/2026",
-                "competidores": [
-                    {
-                        "nome": "YASMIN  SÁ",
-                        "sets": []
-                    },
-                    {
-                        "nome": "ANA  BRAGA",
-                        "sets": []
-                    }
-                ]
-            },
-            {
-                "fase": "SUB-17 FEM - Grupo 01",
-                "placar_geral": "Agendado",
-                "info_mesa": "Jogo 005 - Mesa 21 - 09:45",
-                "data": "22/08/2026",
-                "competidores": [
-                    {
-                        "nome": "NIHAN  ABDALLAH",
-                        "sets": []
-                    },
-                    {
-                        "nome": "ISABELA  HAAB",
-                        "sets": []
-                    }
-                ]
-            },
-            {
-                "fase": "SUB-17 FEM - Grupo 01",
-                "placar_geral": "Agendado",
-                "info_mesa": "Jogo 009 - Mesa 21 - 11:00",
-                "data": "22/08/2026",
-                "competidores": [
-                    {
-                        "nome": "EMANUELLY  SANTOS",
-                        "sets": []
-                    },
-                    {
-                        "nome": "NIHAN  ABDALLAH",
-                        "sets": []
-                    }
-                ]
-            },
-            {
-                "fase": "SUB-17 FEM - Grupo 02",
-                "placar_geral": "Agendado",
-                "info_mesa": "Jogo 010 - Mesa 22 - 11:00",
-                "data": "22/08/2026",
-                "competidores": [
-                    {
-                        "nome": "YASMIN  SÁ",
-                        "sets": []
-                    },
-                    {
-                        "nome": "ELOAH  PRADO",
                         "sets": []
                     }
                 ]
