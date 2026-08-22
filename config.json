@@ -37,7 +37,7 @@
   "telegram_grupos.csv": "/home/emersonb/python/export/telegram-grupos.csv",
   "telegram_app_url": "https://atmfoz.ai.studio/",
   "telegram_enviar_atualizacao_grupos": 0,
-  "telegram_enviar_atualizacao": 0,
+  "telegram_enviar_atualizacao": 1,
   "telegram_modo_resposta": "grupo",
   "telegram_modo_resposta_opcoes_disponiveis": "pv grupo popup",
   "telegram_titulo_mensagem": "ETAPA 5 - GUAIRA"
