@@ -68,24 +68,24 @@
                 "grupo": "ABSOLUTO E FEM - Grupo 02",
                 "integrantes": [
                     {
-                        "posicao": "",
+                        "posicao": "1",
                         "nome": "Isadhora FERREIRA",
                         "pt_rak": "3300",
                         "pt_rat": "390",
                         "status": ""
                     },
                     {
-                        "posicao": "",
-                        "nome": "Yumi SOUZA",
-                        "pt_rak": "700",
-                        "pt_rat": "211",
-                        "status": ""
-                    },
-                    {
-                        "posicao": "",
+                        "posicao": "2",
                         "nome": "Ana VITO",
                         "pt_rak": "200",
                         "pt_rat": "178",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "3",
+                        "nome": "Yumi SOUZA",
+                        "pt_rak": "700",
+                        "pt_rat": "211",
                         "status": ""
                     }
                 ]
@@ -744,24 +744,24 @@
                 "grupo": "SUB-17 MAS - Grupo 03",
                 "integrantes": [
                     {
-                        "posicao": "",
+                        "posicao": "1",
                         "nome": "Matheus JACUMASSO",
                         "pt_rak": "9400",
                         "pt_rat": "1625",
                         "status": ""
                     },
                     {
-                        "posicao": "",
-                        "nome": "Riccardo MACIEL",
-                        "pt_rak": "3800",
-                        "pt_rat": "1363",
-                        "status": ""
-                    },
-                    {
-                        "posicao": "",
+                        "posicao": "2",
                         "nome": "Cauã MATHEUS",
                         "pt_rak": "2000",
                         "pt_rat": "1216",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "3",
+                        "nome": "Riccardo MACIEL",
+                        "pt_rak": "3800",
+                        "pt_rat": "1363",
                         "status": ""
                     }
                 ]
@@ -770,24 +770,24 @@
                 "grupo": "SUB-17 MAS - Grupo 04",
                 "integrantes": [
                     {
-                        "posicao": "",
+                        "posicao": "1",
                         "nome": "Cauã KNACK",
                         "pt_rak": "8800",
                         "pt_rat": "2371",
                         "status": ""
                     },
                     {
-                        "posicao": "",
-                        "nome": "Gustavo KANASHIRO",
-                        "pt_rak": "3900",
-                        "pt_rat": "1553",
-                        "status": ""
-                    },
-                    {
-                        "posicao": "",
+                        "posicao": "2",
                         "nome": "Otávio IENERICH",
                         "pt_rak": "2000",
                         "pt_rat": "1052",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "3",
+                        "nome": "Gustavo KANASHIRO",
+                        "pt_rak": "3900",
+                        "pt_rat": "1553",
                         "status": ""
                     }
                 ]
