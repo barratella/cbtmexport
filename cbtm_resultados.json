@@ -1153,17 +1153,27 @@
             },
             {
                 "fase": "SUB-09 MAS - Quartas de Final",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 016 - Mesa 17 - 18:05",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "JOAQUIM  MANTOVANI",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "ÍTALO  RAMIREZ",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "8",
+                            "5",
+                            "2"
+                        ]
                     }
                 ]
             },
@@ -1185,8 +1195,50 @@
             },
             {
                 "fase": "SUB-09 MAS - Quartas de Final",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 018 - Mesa 19 - 18:05",
+                "data": "22/08/2026",
+                "competidores": [
+                    {
+                        "nome": "MARTIM  AMARAL",
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
+                    },
+                    {
+                        "nome": "CRISTOFFER  VIEIRA",
+                        "sets": [
+                            "0",
+                            "8",
+                            "4",
+                            "3"
+                        ]
+                    }
+                ]
+            },
+            {
+                "fase": "SUB-09 MAS - Semi Final",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 020 - Mesa 18 - 18:55",
+                "data": "22/08/2026",
+                "competidores": [
+                    {
+                        "nome": "JOAQUIM  MANTOVANI",
+                        "sets": []
+                    },
+                    {
+                        "nome": "V17",
+                        "sets": []
+                    }
+                ]
+            },
+            {
+                "fase": "SUB-09 MAS - Semi Final",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 021 - Mesa 19 - 18:55",
                 "data": "22/08/2026",
                 "competidores": [
                     {
@@ -1194,7 +1246,7 @@
                         "sets": []
                     },
                     {
-                        "nome": "CRISTOFFER  VIEIRA",
+                        "nome": "GABRIEL  NARDI",
                         "sets": []
                     }
                 ]
@@ -1871,17 +1923,27 @@
             },
             {
                 "fase": "SUB-17 FEM - Semi Final",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-0",
                 "info_mesa": "Jogo 018 - Mesa 24 - 18:05",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "KAROLINE  GRUCHOSKI",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "YASMIN  SÁ",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "8",
+                            "7",
+                            "7"
+                        ]
                     }
                 ]
             }
