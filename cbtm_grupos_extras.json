@@ -81,6 +81,34 @@
                     }
                 ]
             }
+        ],
+        "SUB-13 MAS": [
+            {
+                "grupo": "SUB-13 MAS - Grupo 04",
+                "integrantes": [
+                    {
+                        "posicao": "1",
+                        "nome": "Henrique KUMAGAI",
+                        "pt_rak": "1500",
+                        "pt_rat": "757",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "2",
+                        "nome": "Felipe KANNO",
+                        "pt_rak": "530",
+                        "pt_rat": "196",
+                        "status": ""
+                    },
+                    {
+                        "posicao": "3",
+                        "nome": "Fernando MIRANDA",
+                        "pt_rak": "13270",
+                        "pt_rat": "1687",
+                        "status": ""
+                    }
+                ]
+            }
         ]
     }
 }

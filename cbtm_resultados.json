@@ -213,17 +213,27 @@
             },
             {
                 "fase": "ABSOLUTO F MAS - Grupo 10",
-                "placar_geral": "Agendado",
+                "placar_geral": "0-3",
                 "info_mesa": "Jogo 034 - Mesa 22 - 11:25",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "LAM  FAI",
-                        "sets": []
+                        "sets": [
+                            "0",
+                            "7",
+                            "7",
+                            "8"
+                        ]
                     },
                     {
                         "nome": "ANDRÉ  WELCOFF",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "11",
+                            "11"
+                        ]
                     }
                 ]
             }
@@ -313,17 +323,31 @@
             },
             {
                 "fase": "ABSOLUTO G MAS - Grupo 04",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-2",
                 "info_mesa": "Jogo 030 - Mesa 4 - 11:00",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "EDGAR  JUNIOR",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "12",
+                            "9",
+                            "12",
+                            "11",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "FELIPE  RIBEIRO",
-                        "sets": []
+                        "sets": [
+                            "2",
+                            "10",
+                            "11",
+                            "14",
+                            "8",
+                            "9"
+                        ]
                     }
                 ]
             },
@@ -381,6 +405,22 @@
                     },
                     {
                         "nome": "FABIO  MIURA",
+                        "sets": []
+                    }
+                ]
+            },
+            {
+                "fase": "ABSOLUTO G MAS - Fase 32",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 053 - Mesa 14 - 12:15",
+                "data": "22/08/2026",
+                "competidores": [
+                    {
+                        "nome": "ERIC  TAKESHITA",
+                        "sets": []
+                    },
+                    {
+                        "nome": "EDGAR  JUNIOR",
                         "sets": []
                     }
                 ]
@@ -905,12 +945,42 @@
             },
             {
                 "fase": "SUB-13 MAS - Grupo 08",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-2",
                 "info_mesa": "Jogo 028 - Mesa 8 - 11:25",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "ARTHUR  KADLUBISKI",
+                        "sets": [
+                            "3",
+                            "6",
+                            "11",
+                            "11",
+                            "8",
+                            "11"
+                        ]
+                    },
+                    {
+                        "nome": "MANSUR  JOMAA",
+                        "sets": [
+                            "2",
+                            "11",
+                            "4",
+                            "7",
+                            "11",
+                            "7"
+                        ]
+                    }
+                ]
+            },
+            {
+                "fase": "SUB-13 MAS - Fase 16",
+                "placar_geral": "Agendado",
+                "info_mesa": "Jogo 033 - Mesa 3 - 15:35",
+                "data": "22/08/2026",
+                "competidores": [
+                    {
+                        "nome": "2-4",
                         "sets": []
                     },
                     {
