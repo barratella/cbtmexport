@@ -243,17 +243,31 @@
             },
             {
                 "fase": "ABSOLUTO E FEM - Quartas de Final",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-2",
                 "info_mesa": "Jogo 031 - Mesa 17 - 17:15",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "ÉVELIN  LEMES",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "14",
+                            "8",
+                            "5",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "YUMI  SOUZA",
-                        "sets": []
+                        "sets": [
+                            "2",
+                            "5",
+                            "12",
+                            "11",
+                            "11",
+                            "6"
+                        ]
                     }
                 ]
             }
