@@ -4948,17 +4948,31 @@
             },
             {
                 "fase": "ABSOLUTO F MAS - Fase 16",
-                "placar_geral": "Agendado",
+                "placar_geral": "2-3",
                 "info_mesa": "Jogo 038 - Mesa 24 - 12:15",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "WILLIAM  TOKUSHIMA",
-                        "sets": []
+                        "sets": [
+                            "2",
+                            "9",
+                            "11",
+                            "11",
+                            "8",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "LUÍS  SCHEREDA",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "11",
+                            "9",
+                            "5",
+                            "11",
+                            "13"
+                        ]
                     }
                 ]
             },
@@ -5044,17 +5058,31 @@
             },
             {
                 "fase": "ABSOLUTO F MAS - Fase 16",
-                "placar_geral": "Agendado",
+                "placar_geral": "3-2",
                 "info_mesa": "Jogo 042 - Mesa 20 - 12:16",
                 "data": "22/08/2026",
                 "competidores": [
                     {
                         "nome": "VITOR  SANTOS",
-                        "sets": []
+                        "sets": [
+                            "3",
+                            "8",
+                            "11",
+                            "7",
+                            "13",
+                            "11"
+                        ]
                     },
                     {
                         "nome": "FRANCISCO  JUNIOR",
-                        "sets": []
+                        "sets": [
+                            "2",
+                            "11",
+                            "4",
+                            "11",
+                            "11",
+                            "9"
+                        ]
                     }
                 ]
             },
@@ -5101,7 +5129,7 @@
                         "sets": []
                     },
                     {
-                        "nome": "V38",
+                        "nome": "LUÍS  SCHEREDA",
                         "sets": []
                     }
                 ]
@@ -5177,7 +5205,7 @@
                 "data": "22/08/2026",
                 "competidores": [
                     {
-                        "nome": "V42",
+                        "nome": "VITOR  SANTOS",
                         "sets": []
                     },
                     {
